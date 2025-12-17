@@ -1,0 +1,38 @@
+{
+    "Name": "Floragato",
+    "Types": [
+        "grass"
+    ],
+    "Height": 9,
+    "Weight": 122,
+    "Stats": {
+        "hp": 61,
+        "attack": 80,
+        "defense": 63,
+        "special-attack": 60,
+        "special-defense": 63,
+        "speed": 83
+    },
+    "Description": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "Evolution Chain": {
+        "Sprigatito": {
+            "Floragato": {
+                "Meowscarada": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

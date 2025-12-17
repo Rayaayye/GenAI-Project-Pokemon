@@ -1,0 +1,40 @@
+{
+    "Name": "Runerigus",
+    "Types": [
+        "ground",
+        "ghost"
+    ],
+    "Height": 16,
+    "Weight": 666,
+    "Stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 145,
+        "special-attack": 50,
+        "special-defense": 105,
+        "speed": 30
+    },
+    "Description": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+    "Evolution Chain": {
+        "Yamask": {
+            "Cofagrigus": {},
+            "Runerigus": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "normal"
+    ]
+}

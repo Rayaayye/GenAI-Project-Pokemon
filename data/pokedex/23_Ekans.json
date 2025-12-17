@@ -1,0 +1,34 @@
+{
+    "Name": "Ekans",
+    "Types": [
+        "poison"
+    ],
+    "Height": 20,
+    "Weight": 69,
+    "Stats": {
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "special-attack": 40,
+        "special-defense": 54,
+        "speed": 55
+    },
+    "Description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+    "Evolution Chain": {
+        "Ekans": {
+            "Arbok": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Illumise",
+    "Types": [
+        "bug"
+    ],
+    "Height": 6,
+    "Weight": 177,
+    "Stats": {
+        "hp": 65,
+        "attack": 47,
+        "defense": 75,
+        "special-attack": 73,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "Description": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+    "Evolution Chain": {
+        "Illumise": {}
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

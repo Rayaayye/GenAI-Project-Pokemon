@@ -1,0 +1,37 @@
+{
+    "Name": "Rotom",
+    "Types": [
+        "electric",
+        "ghost"
+    ],
+    "Height": 3,
+    "Weight": 3,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 77,
+        "special-attack": 95,
+        "special-defense": 77,
+        "speed": 91
+    },
+    "Description": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+    "Evolution Chain": {
+        "Rotom": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "poison",
+        "flying",
+        "steel"
+    ],
+    "Immunities": [
+        "normal",
+        "ground"
+    ]
+}

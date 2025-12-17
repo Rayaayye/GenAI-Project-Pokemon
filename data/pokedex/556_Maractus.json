@@ -1,0 +1,34 @@
+{
+    "Name": "Maractus",
+    "Types": [
+        "grass"
+    ],
+    "Height": 10,
+    "Weight": 280,
+    "Stats": {
+        "hp": 75,
+        "attack": 86,
+        "defense": 67,
+        "special-attack": 106,
+        "special-defense": 67,
+        "speed": 60
+    },
+    "Description": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+    "Evolution Chain": {
+        "Maractus": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

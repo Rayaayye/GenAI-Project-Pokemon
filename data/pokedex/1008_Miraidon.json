@@ -1,0 +1,39 @@
+{
+    "Name": "Miraidon",
+    "Types": [
+        "electric",
+        "dragon"
+    ],
+    "Height": 35,
+    "Weight": 2400,
+    "Stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "special-attack": 135,
+        "special-defense": 115,
+        "speed": 135
+    },
+    "Description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "Evolution Chain": {
+        "Miraidon": {}
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

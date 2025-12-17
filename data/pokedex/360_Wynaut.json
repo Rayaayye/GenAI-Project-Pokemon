@@ -1,0 +1,34 @@
+{
+    "Name": "Wynaut",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 140,
+    "Stats": {
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special-attack": 23,
+        "special-defense": 48,
+        "speed": 23
+    },
+    "Description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
+    "Evolution Chain": {
+        "Wynaut": {
+            "Wobbuffet": {}
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "Blaziken",
+    "Types": [
+        "fire",
+        "fighting"
+    ],
+    "Height": 19,
+    "Weight": 520,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 70,
+        "special-attack": 110,
+        "special-defense": 70,
+        "speed": 80
+    },
+    "Description": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn.",
+    "Evolution Chain": {
+        "Torchic": {
+            "Combusken": {
+                "Blaziken": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "rock",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

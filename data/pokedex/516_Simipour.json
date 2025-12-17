@@ -1,0 +1,33 @@
+{
+    "Name": "Simipour",
+    "Types": [
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 290,
+    "Stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 98,
+        "special-defense": 63,
+        "speed": 101
+    },
+    "Description": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+    "Evolution Chain": {
+        "Panpour": {
+            "Simipour": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

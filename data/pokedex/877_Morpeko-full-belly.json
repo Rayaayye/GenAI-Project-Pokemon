@@ -1,0 +1,37 @@
+{
+    "Name": "Morpeko-full-belly",
+    "Types": [
+        "electric",
+        "dark"
+    ],
+    "Height": 3,
+    "Weight": 30,
+    "Stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "special-attack": 70,
+        "special-defense": 58,
+        "speed": 97
+    },
+    "Description": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
+    "Evolution Chain": {
+        "Morpeko": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "flying",
+        "steel",
+        "ghost"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

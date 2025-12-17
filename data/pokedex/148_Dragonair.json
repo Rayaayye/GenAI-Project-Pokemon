@@ -1,0 +1,38 @@
+{
+    "Name": "Dragonair",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 40,
+    "Weight": 165,
+    "Stats": {
+        "hp": 61,
+        "attack": 84,
+        "defense": 65,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
+    "Evolution Chain": {
+        "Dratini": {
+            "Dragonair": {
+                "Dragonite": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

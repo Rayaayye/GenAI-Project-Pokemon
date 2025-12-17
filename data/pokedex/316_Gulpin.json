@@ -1,0 +1,34 @@
+{
+    "Name": "Gulpin",
+    "Types": [
+        "poison"
+    ],
+    "Height": 4,
+    "Weight": 103,
+    "Stats": {
+        "hp": 70,
+        "attack": 43,
+        "defense": 53,
+        "special-attack": 43,
+        "special-defense": 53,
+        "speed": 40
+    },
+    "Description": "Virtually all of GULPIN’s body is its stomach. As a result, it can swallow something its own size. This POKéMON’s stomach contains a special fluid that digests anything.",
+    "Evolution Chain": {
+        "Gulpin": {
+            "Swalot": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

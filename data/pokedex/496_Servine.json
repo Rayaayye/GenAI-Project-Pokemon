@@ -1,0 +1,38 @@
+{
+    "Name": "Servine",
+    "Types": [
+        "grass"
+    ],
+    "Height": 8,
+    "Weight": 160,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 83
+    },
+    "Description": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+    "Evolution Chain": {
+        "Snivy": {
+            "Servine": {
+                "Serperior": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

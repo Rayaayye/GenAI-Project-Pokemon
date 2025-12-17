@@ -1,0 +1,31 @@
+{
+    "Name": "Volbeat",
+    "Types": [
+        "bug"
+    ],
+    "Height": 7,
+    "Weight": 177,
+    "Stats": {
+        "hp": 65,
+        "attack": 73,
+        "defense": 75,
+        "special-attack": 47,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "Description": "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE.",
+    "Evolution Chain": {
+        "Volbeat": {}
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

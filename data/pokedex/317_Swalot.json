@@ -1,0 +1,34 @@
+{
+    "Name": "Swalot",
+    "Types": [
+        "poison"
+    ],
+    "Height": 17,
+    "Weight": 800,
+    "Stats": {
+        "hp": 100,
+        "attack": 73,
+        "defense": 83,
+        "special-attack": 73,
+        "special-defense": 83,
+        "speed": 55
+    },
+    "Description": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
+    "Evolution Chain": {
+        "Gulpin": {
+            "Swalot": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

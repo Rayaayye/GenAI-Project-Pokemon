@@ -1,0 +1,32 @@
+{
+    "Name": "Zorua",
+    "Types": [
+        "dark"
+    ],
+    "Height": 7,
+    "Weight": 125,
+    "Stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 40,
+        "special-attack": 80,
+        "special-defense": 40,
+        "speed": 65
+    },
+    "Description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+    "Evolution Chain": {
+        "Zorua": {
+            "Zoroark": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

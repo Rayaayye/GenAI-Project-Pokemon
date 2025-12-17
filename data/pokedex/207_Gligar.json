@@ -1,0 +1,41 @@
+{
+    "Name": "Gligar",
+    "Types": [
+        "ground",
+        "flying"
+    ],
+    "Height": 11,
+    "Weight": 648,
+    "Stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 105,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "It flies straight at its target's face then clamps down on the star­ tled victim to inject poison.",
+    "Evolution Chain": {
+        "Gligar": {
+            "Gliscor": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "rock",
+        "water"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying",
+        "ground"
+    ]
+}

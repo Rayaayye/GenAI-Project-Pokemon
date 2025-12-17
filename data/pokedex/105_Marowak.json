@@ -1,0 +1,34 @@
+{
+    "Name": "Marowak",
+    "Types": [
+        "ground"
+    ],
+    "Height": 10,
+    "Weight": 450,
+    "Stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "special-attack": 50,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "Description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+    "Evolution Chain": {
+        "Cubone": {
+            "Marowak": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

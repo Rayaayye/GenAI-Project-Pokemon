@@ -1,0 +1,36 @@
+{
+    "Name": "Simisear",
+    "Types": [
+        "fire"
+    ],
+    "Height": 10,
+    "Weight": 280,
+    "Stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 98,
+        "special-defense": 63,
+        "speed": 101
+    },
+    "Description": "It loves sweets because they become energy for the fire burning inside its body.",
+    "Evolution Chain": {
+        "Pansear": {
+            "Simisear": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

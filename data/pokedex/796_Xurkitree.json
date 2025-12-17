@@ -1,0 +1,31 @@
+{
+    "Name": "Xurkitree",
+    "Types": [
+        "electric"
+    ],
+    "Height": 38,
+    "Weight": 1000,
+    "Stats": {
+        "hp": 83,
+        "attack": 89,
+        "defense": 71,
+        "special-attack": 173,
+        "special-defense": 71,
+        "speed": 83
+    },
+    "Description": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+    "Evolution Chain": {
+        "Xurkitree": {}
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

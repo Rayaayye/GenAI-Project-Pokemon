@@ -1,0 +1,45 @@
+{
+    "Name": "Victreebel",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 17,
+    "Weight": 155,
+    "Stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "special-attack": 100,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    "Evolution Chain": {
+        "Bellsprout": {
+            "Weepinbell": {
+                "Victreebel": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

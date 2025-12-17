@@ -1,0 +1,48 @@
+{
+    "Name": "Ferroseed",
+    "Types": [
+        "grass",
+        "steel"
+    ],
+    "Height": 6,
+    "Weight": 188,
+    "Stats": {
+        "hp": 44,
+        "attack": 50,
+        "defense": 91,
+        "special-attack": 24,
+        "special-defense": 86,
+        "speed": 10
+    },
+    "Description": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+    "Evolution Chain": {
+        "Ferroseed": {
+            "Ferrothorn": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "water",
+        "rock",
+        "fairy",
+        "ground"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "Scizor",
+    "Types": [
+        "bug",
+        "steel"
+    ],
+    "Height": 18,
+    "Weight": 1180,
+    "Stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 65
+    },
+    "Description": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "Evolution Chain": {
+        "Scyther": {
+            "Scizor": {},
+            "Kleavor": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Espeon",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 9,
+    "Weight": 265,
+    "Stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 130,
+        "special-defense": 95,
+        "speed": 110
+    },
+    "Description": "It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Name": "Honedge",
+    "Types": [
+        "steel",
+        "ghost"
+    ],
+    "Height": 8,
+    "Weight": 20,
+    "Stats": {
+        "hp": 45,
+        "attack": 80,
+        "defense": 100,
+        "special-attack": 35,
+        "special-defense": 37,
+        "speed": 28
+    },
+    "Description": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+    "Evolution Chain": {
+        "Honedge": {
+            "Doublade": {
+                "Aegislash": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

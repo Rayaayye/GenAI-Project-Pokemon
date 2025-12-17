@@ -1,0 +1,38 @@
+{
+    "Name": "Bagon",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 6,
+    "Weight": 421,
+    "Stats": {
+        "hp": 45,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 50
+    },
+    "Description": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+    "Evolution Chain": {
+        "Bagon": {
+            "Shelgon": {
+                "Salamence": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

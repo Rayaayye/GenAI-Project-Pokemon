@@ -1,0 +1,35 @@
+{
+    "Name": "Totodile",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 95,
+    "Stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 64,
+        "special-attack": 44,
+        "special-defense": 48,
+        "speed": 43
+    },
+    "Description": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
+    "Evolution Chain": {
+        "Totodile": {
+            "Croconaw": {
+                "Feraligatr": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

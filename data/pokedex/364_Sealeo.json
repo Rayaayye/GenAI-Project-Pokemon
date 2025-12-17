@@ -1,0 +1,40 @@
+{
+    "Name": "Sealeo",
+    "Types": [
+        "ice",
+        "water"
+    ],
+    "Height": 11,
+    "Weight": 876,
+    "Stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 45
+    },
+    "Description": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
+    "Evolution Chain": {
+        "Spheal": {
+            "Sealeo": {
+                "Walrein": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "water",
+        "steel",
+        "ice"
+    ],
+    "Immunities": []
+}

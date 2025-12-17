@@ -1,0 +1,41 @@
+{
+    "Name": "Omastar",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 350,
+    "Stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 125,
+        "special-attack": 115,
+        "special-defense": 70,
+        "speed": 55
+    },
+    "Description": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
+    "Evolution Chain": {
+        "Omanyte": {
+            "Omastar": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

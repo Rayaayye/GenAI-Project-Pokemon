@@ -1,0 +1,34 @@
+{
+    "Name": "Silicobra",
+    "Types": [
+        "ground"
+    ],
+    "Height": 22,
+    "Weight": 76,
+    "Stats": {
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 46
+    },
+    "Description": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+    "Evolution Chain": {
+        "Silicobra": {
+            "Sandaconda": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

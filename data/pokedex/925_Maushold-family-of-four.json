@@ -1,0 +1,29 @@
+{
+    "Name": "Maushold-family-of-four",
+    "Types": [
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 23,
+    "Stats": {
+        "hp": 74,
+        "attack": 75,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 111
+    },
+    "Description": "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
+    "Evolution Chain": {
+        "Tandemaus": {
+            "Maushold": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

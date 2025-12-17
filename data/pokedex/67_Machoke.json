@@ -1,0 +1,37 @@
+{
+    "Name": "Machoke",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 15,
+    "Weight": 705,
+    "Stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 50,
+        "special-defense": 60,
+        "speed": 45
+    },
+    "Description": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+    "Evolution Chain": {
+        "Machop": {
+            "Machoke": {
+                "Machamp": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

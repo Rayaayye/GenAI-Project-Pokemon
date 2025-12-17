@@ -1,0 +1,43 @@
+{
+    "Name": "Minior-red-meteor",
+    "Types": [
+        "rock",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 400,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 100,
+        "speed": 60
+    },
+    "Description": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
+    "Evolution Chain": {
+        "Minior": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Alakazam",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 480,
+    "Stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 135,
+        "special-defense": 95,
+        "speed": 120
+    },
+    "Description": "Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.",
+    "Evolution Chain": {
+        "Abra": {
+            "Kadabra": {
+                "Alakazam": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

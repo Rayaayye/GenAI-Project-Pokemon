@@ -1,0 +1,39 @@
+{
+    "Name": "Guzzlord",
+    "Types": [
+        "dark",
+        "dragon"
+    ],
+    "Height": 55,
+    "Weight": 8880,
+    "Stats": {
+        "hp": 223,
+        "attack": 101,
+        "defense": 53,
+        "special-attack": 97,
+        "special-defense": 53,
+        "speed": 43
+    },
+    "Description": "It has gobbled mountains and swallowed whole buildings, according to reports. It’s one of the Ultra Beasts.",
+    "Evolution Chain": {
+        "Guzzlord": {}
+    },
+    "Weaknesses": [
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ghost"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

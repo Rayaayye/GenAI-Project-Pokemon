@@ -1,0 +1,37 @@
+{
+    "Name": "Sableye",
+    "Types": [
+        "dark",
+        "ghost"
+    ],
+    "Height": 5,
+    "Weight": 110,
+    "Stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 50
+    },
+    "Description": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POKéMON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+    "Evolution Chain": {
+        "Sableye": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

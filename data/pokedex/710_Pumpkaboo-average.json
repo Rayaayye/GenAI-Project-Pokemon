@@ -1,0 +1,43 @@
+{
+    "Name": "Pumpkaboo-average",
+    "Types": [
+        "ghost",
+        "grass"
+    ],
+    "Height": 4,
+    "Weight": 50,
+    "Stats": {
+        "hp": 49,
+        "attack": 66,
+        "defense": 70,
+        "special-attack": 44,
+        "special-defense": 55,
+        "speed": 51
+    },
+    "Description": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+    "Evolution Chain": {
+        "Pumpkaboo": {
+            "Gourgeist": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

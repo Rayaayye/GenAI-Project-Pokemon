@@ -1,0 +1,40 @@
+{
+    "Name": "Golisopod",
+    "Types": [
+        "bug",
+        "water"
+    ],
+    "Height": 20,
+    "Weight": 1080,
+    "Stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 140,
+        "special-attack": 60,
+        "special-defense": 90,
+        "speed": 40
+    },
+    "Description": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
+    "Evolution Chain": {
+        "Wimpod": {
+            "Golisopod": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "rock"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

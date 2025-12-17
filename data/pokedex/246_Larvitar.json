@@ -1,0 +1,43 @@
+{
+    "Name": "Larvitar",
+    "Types": [
+        "rock",
+        "ground"
+    ],
+    "Height": 6,
+    "Weight": 720,
+    "Stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 41
+    },
+    "Description": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+    "Evolution Chain": {
+        "Larvitar": {
+            "Pupitar": {
+                "Tyranitar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

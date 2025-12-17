@@ -1,0 +1,42 @@
+{
+    "Name": "Solrock",
+    "Types": [
+        "rock",
+        "psychic"
+    ],
+    "Height": 12,
+    "Weight": 1540,
+    "Stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 70
+    },
+    "Description": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+    "Evolution Chain": {
+        "Solrock": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

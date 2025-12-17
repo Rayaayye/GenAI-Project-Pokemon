@@ -1,0 +1,49 @@
+{
+    "Name": "Corviknight",
+    "Types": [
+        "flying",
+        "steel"
+    ],
+    "Height": 22,
+    "Weight": 750,
+    "Stats": {
+        "hp": 98,
+        "attack": 87,
+        "defense": 105,
+        "special-attack": 53,
+        "special-defense": 85,
+        "speed": 67
+    },
+    "Description": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "Evolution Chain": {
+        "Rookidee": {
+            "Corvisquire": {
+                "Corviknight": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "ice",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

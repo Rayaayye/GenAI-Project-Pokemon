@@ -1,0 +1,33 @@
+{
+    "Name": "Rellor",
+    "Types": [
+        "bug"
+    ],
+    "Height": 2,
+    "Weight": 10,
+    "Stats": {
+        "hp": 41,
+        "attack": 50,
+        "defense": 60,
+        "special-attack": 31,
+        "special-defense": 58,
+        "speed": 30
+    },
+    "Description": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+    "Evolution Chain": {
+        "Rellor": {
+            "Rabsca": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

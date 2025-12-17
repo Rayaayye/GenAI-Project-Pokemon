@@ -1,0 +1,38 @@
+{
+    "Name": "Dedenne",
+    "Types": [
+        "electric",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 22,
+    "Stats": {
+        "hp": 67,
+        "attack": 58,
+        "defense": 57,
+        "special-attack": 81,
+        "special-defense": 67,
+        "speed": 101
+    },
+    "Description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+    "Evolution Chain": {
+        "Dedenne": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "steel",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon",
+        "ground"
+    ]
+}

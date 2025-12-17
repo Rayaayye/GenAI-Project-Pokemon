@@ -1,0 +1,42 @@
+{
+    "Name": "Noivern",
+    "Types": [
+        "flying",
+        "dragon"
+    ],
+    "Height": 15,
+    "Weight": 850,
+    "Stats": {
+        "hp": 85,
+        "attack": 70,
+        "defense": 80,
+        "special-attack": 97,
+        "special-defense": 80,
+        "speed": 123
+    },
+    "Description": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+    "Evolution Chain": {
+        "Noibat": {
+            "Noivern": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

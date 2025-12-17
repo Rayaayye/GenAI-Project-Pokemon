@@ -1,0 +1,40 @@
+{
+    "Name": "Oricorio-baile",
+    "Types": [
+        "fire",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 34,
+    "Stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "special-attack": 98,
+        "special-defense": 70,
+        "speed": 93
+    },
+    "Description": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+    "Evolution Chain": {
+        "Oricorio": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

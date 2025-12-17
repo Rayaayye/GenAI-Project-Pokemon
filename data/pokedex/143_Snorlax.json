@@ -1,0 +1,29 @@
+{
+    "Name": "Snorlax",
+    "Types": [
+        "normal"
+    ],
+    "Height": 21,
+    "Weight": 4600,
+    "Stats": {
+        "hp": 160,
+        "attack": 110,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 110,
+        "speed": 30
+    },
+    "Description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "Evolution Chain": {
+        "Munchlax": {
+            "Snorlax": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

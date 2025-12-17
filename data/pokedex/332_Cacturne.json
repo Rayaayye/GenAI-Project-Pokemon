@@ -1,0 +1,41 @@
+{
+    "Name": "Cacturne",
+    "Types": [
+        "grass",
+        "dark"
+    ],
+    "Height": 13,
+    "Weight": 774,
+    "Stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 60,
+        "special-attack": 115,
+        "special-defense": 60,
+        "speed": 55
+    },
+    "Description": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
+    "Evolution Chain": {
+        "Cacnea": {
+            "Cacturne": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Immunities": []
+}

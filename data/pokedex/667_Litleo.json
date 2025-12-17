@@ -1,0 +1,40 @@
+{
+    "Name": "Litleo",
+    "Types": [
+        "fire",
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 135,
+    "Stats": {
+        "hp": 62,
+        "attack": 50,
+        "defense": 58,
+        "special-attack": 73,
+        "special-defense": 54,
+        "speed": 72
+    },
+    "Description": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+    "Evolution Chain": {
+        "Litleo": {
+            "Pyroar": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Numel",
+    "Types": [
+        "fire",
+        "ground"
+    ],
+    "Height": 7,
+    "Weight": 240,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 40,
+        "special-attack": 65,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "Description": "NUMEL is extremely dull witted - it doesn’t notice being hit. However, it can’t stand hunger for even a second. This POKéMON’s body is a seething cauldron of boiling magma.",
+    "Evolution Chain": {
+        "Numel": {
+            "Camerupt": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

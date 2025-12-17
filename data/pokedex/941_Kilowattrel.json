@@ -1,0 +1,40 @@
+{
+    "Name": "Kilowattrel",
+    "Types": [
+        "electric",
+        "flying"
+    ],
+    "Height": 14,
+    "Weight": 386,
+    "Stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 60,
+        "special-attack": 105,
+        "special-defense": 60,
+        "speed": 125
+    },
+    "Description": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+    "Evolution Chain": {
+        "Wattrel": {
+            "Kilowattrel": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

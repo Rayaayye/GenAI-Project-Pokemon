@@ -1,0 +1,34 @@
+{
+    "Name": "Cubone",
+    "Types": [
+        "ground"
+    ],
+    "Height": 4,
+    "Weight": 65,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 35
+    },
+    "Description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",
+    "Evolution Chain": {
+        "Cubone": {
+            "Marowak": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

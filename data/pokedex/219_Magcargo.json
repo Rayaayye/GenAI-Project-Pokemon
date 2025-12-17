@@ -1,0 +1,43 @@
+{
+    "Name": "Magcargo",
+    "Types": [
+        "fire",
+        "rock"
+    ],
+    "Height": 8,
+    "Weight": 550,
+    "Stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 120,
+        "special-attack": 90,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "Description": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+    "Evolution Chain": {
+        "Slugma": {
+            "Magcargo": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "rock",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

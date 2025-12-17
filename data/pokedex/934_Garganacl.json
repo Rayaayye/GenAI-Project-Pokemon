@@ -1,0 +1,38 @@
+{
+    "Name": "Garganacl",
+    "Types": [
+        "rock"
+    ],
+    "Height": 23,
+    "Weight": 2400,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 130,
+        "special-attack": 45,
+        "special-defense": 90,
+        "speed": 35
+    },
+    "Description": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+    "Evolution Chain": {
+        "Nacli": {
+            "Naclstack": {
+                "Garganacl": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

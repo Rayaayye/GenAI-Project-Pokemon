@@ -1,0 +1,43 @@
+{
+    "Name": "Nidoking",
+    "Types": [
+        "poison",
+        "ground"
+    ],
+    "Height": 14,
+    "Weight": 620,
+    "Stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 85
+    },
+    "Description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "Evolution Chain": {
+        "Nidoran-m": {
+            "Nidorino": {
+                "Nidoking": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

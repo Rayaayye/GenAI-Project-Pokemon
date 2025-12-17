@@ -1,0 +1,45 @@
+{
+    "Name": "Archen",
+    "Types": [
+        "rock",
+        "flying"
+    ],
+    "Height": 5,
+    "Weight": 95,
+    "Stats": {
+        "hp": 55,
+        "attack": 112,
+        "defense": 45,
+        "special-attack": 74,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "Description": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+    "Evolution Chain": {
+        "Archen": {
+            "Archeops": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

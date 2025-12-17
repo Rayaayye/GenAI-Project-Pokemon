@@ -1,0 +1,33 @@
+{
+    "Name": "Karrablast",
+    "Types": [
+        "bug"
+    ],
+    "Height": 5,
+    "Weight": 59,
+    "Stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 45,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 60
+    },
+    "Description": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+    "Evolution Chain": {
+        "Karrablast": {
+            "Escavalier": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

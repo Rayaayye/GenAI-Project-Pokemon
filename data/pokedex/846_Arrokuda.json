@@ -1,0 +1,33 @@
+{
+    "Name": "Arrokuda",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 10,
+    "Stats": {
+        "hp": 41,
+        "attack": 63,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 66
+    },
+    "Description": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It’s very proud of that jaw.",
+    "Evolution Chain": {
+        "Arrokuda": {
+            "Barraskewda": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Furret",
+    "Types": [
+        "normal"
+    ],
+    "Height": 18,
+    "Weight": 325,
+    "Stats": {
+        "hp": 85,
+        "attack": 76,
+        "defense": 64,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "Description": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.",
+    "Evolution Chain": {
+        "Sentret": {
+            "Furret": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

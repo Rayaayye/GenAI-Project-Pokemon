@@ -1,0 +1,42 @@
+{
+    "Name": "Mamoswine",
+    "Types": [
+        "ice",
+        "ground"
+    ],
+    "Height": 25,
+    "Weight": 2910,
+    "Stats": {
+        "hp": 110,
+        "attack": 130,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "Description": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
+    "Evolution Chain": {
+        "Swinub": {
+            "Piloswine": {
+                "Mamoswine": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "ice"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

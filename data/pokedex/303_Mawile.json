@@ -1,0 +1,45 @@
+{
+    "Name": "Mawile",
+    "Types": [
+        "steel",
+        "fairy"
+    ],
+    "Height": 6,
+    "Weight": 115,
+    "Stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 50
+    },
+    "Description": "MAWHILE’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws.",
+    "Evolution Chain": {
+        "Mawile": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "poison",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

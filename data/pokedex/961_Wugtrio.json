@@ -1,0 +1,33 @@
+{
+    "Name": "Wugtrio",
+    "Types": [
+        "water"
+    ],
+    "Height": 12,
+    "Weight": 54,
+    "Stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 70,
+        "speed": 120
+    },
+    "Description": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+    "Evolution Chain": {
+        "Wiglett": {
+            "Wugtrio": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

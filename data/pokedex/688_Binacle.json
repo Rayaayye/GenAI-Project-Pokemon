@@ -1,0 +1,41 @@
+{
+    "Name": "Binacle",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 310,
+    "Stats": {
+        "hp": 42,
+        "attack": 52,
+        "defense": 67,
+        "special-attack": 39,
+        "special-defense": 56,
+        "speed": 50
+    },
+    "Description": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+    "Evolution Chain": {
+        "Binacle": {
+            "Barbaracle": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

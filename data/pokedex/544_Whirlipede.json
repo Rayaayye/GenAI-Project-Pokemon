@@ -1,0 +1,41 @@
+{
+    "Name": "Whirlipede",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 585,
+    "Stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 99,
+        "special-attack": 40,
+        "special-defense": 79,
+        "speed": 47
+    },
+    "Description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+    "Evolution Chain": {
+        "Venipede": {
+            "Whirlipede": {
+                "Scolipede": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Gothitelle",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 440,
+    "Stats": {
+        "hp": 70,
+        "attack": 55,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 110,
+        "speed": 65
+    },
+    "Description": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+    "Evolution Chain": {
+        "Gothita": {
+            "Gothorita": {
+                "Gothitelle": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

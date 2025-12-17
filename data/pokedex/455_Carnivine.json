@@ -1,0 +1,34 @@
+{
+    "Name": "Carnivine",
+    "Types": [
+        "grass"
+    ],
+    "Height": 14,
+    "Weight": 270,
+    "Stats": {
+        "hp": 74,
+        "attack": 100,
+        "defense": 72,
+        "special-attack": 90,
+        "special-defense": 72,
+        "speed": 46
+    },
+    "Description": "It attracts prey with its sweet- smelling saliva, then chomps down. It takes a whole day to eat prey.",
+    "Evolution Chain": {
+        "Carnivine": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

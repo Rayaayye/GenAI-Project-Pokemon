@@ -1,0 +1,33 @@
+{
+    "Name": "Kingler",
+    "Types": [
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 600,
+    "Stats": {
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "Description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "Evolution Chain": {
+        "Krabby": {
+            "Kingler": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Flabebe",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 1,
+    "Weight": 1,
+    "Stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "special-attack": 61,
+        "special-defense": 79,
+        "speed": 42
+    },
+    "Description": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+    "Evolution Chain": {
+        "Flabebe": {
+            "Floette": {
+                "Florges": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

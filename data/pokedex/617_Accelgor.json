@@ -1,0 +1,33 @@
+{
+    "Name": "Accelgor",
+    "Types": [
+        "bug"
+    ],
+    "Height": 8,
+    "Weight": 253,
+    "Stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 40,
+        "special-attack": 100,
+        "special-defense": 60,
+        "speed": 145
+    },
+    "Description": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+    "Evolution Chain": {
+        "Shelmet": {
+            "Accelgor": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

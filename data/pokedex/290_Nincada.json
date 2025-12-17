@@ -1,0 +1,42 @@
+{
+    "Name": "Nincada",
+    "Types": [
+        "bug",
+        "ground"
+    ],
+    "Height": 5,
+    "Weight": 55,
+    "Stats": {
+        "hp": 31,
+        "attack": 45,
+        "defense": 90,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "Description": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+    "Evolution Chain": {
+        "Nincada": {
+            "Ninjask": {},
+            "Shedinja": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Resistances": [
+        "grass",
+        "poison",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

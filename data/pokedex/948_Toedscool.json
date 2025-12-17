@@ -1,0 +1,43 @@
+{
+    "Name": "Toedscool",
+    "Types": [
+        "ground",
+        "grass"
+    ],
+    "Height": 9,
+    "Weight": 330,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "special-attack": 50,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "Description": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+    "Evolution Chain": {
+        "Toedscool": {
+            "Toedscruel": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "ice",
+        "water"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "poison",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

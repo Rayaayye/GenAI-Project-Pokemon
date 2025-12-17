@@ -1,0 +1,36 @@
+{
+    "Name": "Lycanroc-midday",
+    "Types": [
+        "rock"
+    ],
+    "Height": 8,
+    "Weight": 250,
+    "Stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 112
+    },
+    "Description": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+    "Evolution Chain": {
+        "Rockruff": {
+            "Lycanroc": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

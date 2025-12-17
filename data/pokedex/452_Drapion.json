@@ -1,0 +1,40 @@
+{
+    "Name": "Drapion",
+    "Types": [
+        "poison",
+        "dark"
+    ],
+    "Height": 13,
+    "Weight": 615,
+    "Stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 110,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 95
+    },
+    "Description": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+    "Evolution Chain": {
+        "Skorupi": {
+            "Drapion": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": []
+}

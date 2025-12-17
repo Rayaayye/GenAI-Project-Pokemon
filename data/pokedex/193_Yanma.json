@@ -1,0 +1,39 @@
+{
+    "Name": "Yanma",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 12,
+    "Weight": 380,
+    "Stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 75,
+        "special-defense": 45,
+        "speed": 95
+    },
+    "Description": "If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area.",
+    "Evolution Chain": {
+        "Yanma": {
+            "Yanmega": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

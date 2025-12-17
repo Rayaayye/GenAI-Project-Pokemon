@@ -1,0 +1,44 @@
+{
+    "Name": "Garchomp",
+    "Types": [
+        "dragon",
+        "ground"
+    ],
+    "Height": 19,
+    "Weight": 950,
+    "Stats": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 95,
+        "special-attack": 80,
+        "special-defense": 85,
+        "speed": 102
+    },
+    "Description": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+    "Evolution Chain": {
+        "Gible": {
+            "Gabite": {
+                "Garchomp": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

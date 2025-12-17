@@ -1,0 +1,35 @@
+{
+    "Name": "Mienfoo",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 9,
+    "Weight": 200,
+    "Stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "Description": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+    "Evolution Chain": {
+        "Mienfoo": {
+            "Mienshao": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

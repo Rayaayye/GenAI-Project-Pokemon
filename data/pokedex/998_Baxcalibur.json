@@ -1,0 +1,44 @@
+{
+    "Name": "Baxcalibur",
+    "Types": [
+        "dragon",
+        "ice"
+    ],
+    "Height": 21,
+    "Weight": 2100,
+    "Stats": {
+        "hp": 115,
+        "attack": 145,
+        "defense": 92,
+        "special-attack": 75,
+        "special-defense": 86,
+        "speed": 87
+    },
+    "Description": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+    "Evolution Chain": {
+        "Frigibax": {
+            "Arctibax": {
+                "Baxcalibur": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "steel",
+        "ice",
+        "dragon",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

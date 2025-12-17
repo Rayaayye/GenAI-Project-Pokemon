@@ -1,0 +1,39 @@
+{
+    "Name": "Crawdaunt",
+    "Types": [
+        "water",
+        "dark"
+    ],
+    "Height": 11,
+    "Weight": 328,
+    "Stats": {
+        "hp": 63,
+        "attack": 120,
+        "defense": 85,
+        "special-attack": 90,
+        "special-defense": 55,
+        "speed": 55
+    },
+    "Description": "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this POKéMON, making them desolate places.",
+    "Evolution Chain": {
+        "Corphish": {
+            "Crawdaunt": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "grass",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Immunities": []
+}

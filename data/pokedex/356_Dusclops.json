@@ -1,0 +1,35 @@
+{
+    "Name": "Dusclops",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 16,
+    "Weight": 306,
+    "Stats": {
+        "hp": 40,
+        "attack": 70,
+        "defense": 130,
+        "special-attack": 60,
+        "special-defense": 130,
+        "speed": 25
+    },
+    "Description": "DUSCLOPS’s body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This POKéMON will absorb anything into its body, but nothing will ever come back out.",
+    "Evolution Chain": {
+        "Duskull": {
+            "Dusclops": {
+                "Dusknoir": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Silcoon",
+    "Types": [
+        "bug"
+    ],
+    "Height": 6,
+    "Weight": 100,
+    "Stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "Description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There,  this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+    "Evolution Chain": {
+        "Wurmple": {
+            "Silcoon": {
+                "Beautifly": {}
+            },
+            "Cascoon": {
+                "Dustox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

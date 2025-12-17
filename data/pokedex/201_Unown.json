@@ -1,0 +1,32 @@
+{
+    "Name": "Unown",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 5,
+    "Weight": 50,
+    "Stats": {
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special-attack": 72,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "Description": "Their shapes look like hieroglyphs on ancient tab­ lets. It is said that the two are somehow related.",
+    "Evolution Chain": {
+        "Unown": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

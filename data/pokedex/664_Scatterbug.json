@@ -1,0 +1,35 @@
+{
+    "Name": "Scatterbug",
+    "Types": [
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 25,
+    "Stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 27,
+        "special-defense": 25,
+        "speed": 35
+    },
+    "Description": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+    "Evolution Chain": {
+        "Scatterbug": {
+            "Spewpa": {
+                "Vivillon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Quaxwell",
+    "Types": [
+        "water"
+    ],
+    "Height": 12,
+    "Weight": 215,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 60,
+        "speed": 65
+    },
+    "Description": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+    "Evolution Chain": {
+        "Quaxly": {
+            "Quaxwell": {
+                "Quaquaval": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Vullaby",
+    "Types": [
+        "dark",
+        "flying"
+    ],
+    "Height": 5,
+    "Weight": 90,
+    "Stats": {
+        "hp": 70,
+        "attack": 55,
+        "defense": 75,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 60
+    },
+    "Description": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+    "Evolution Chain": {
+        "Vullaby": {
+            "Mandibuzz": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "ice",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

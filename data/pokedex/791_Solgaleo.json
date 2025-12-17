@@ -1,0 +1,50 @@
+{
+    "Name": "Solgaleo",
+    "Types": [
+        "psychic",
+        "steel"
+    ],
+    "Height": 34,
+    "Weight": 2300,
+    "Stats": {
+        "hp": 137,
+        "attack": 137,
+        "defense": 107,
+        "special-attack": 113,
+        "special-defense": 89,
+        "speed": 97
+    },
+    "Description": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+    "Evolution Chain": {
+        "Cosmog": {
+            "Cosmoem": {
+                "Solgaleo": {},
+                "Lunala": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

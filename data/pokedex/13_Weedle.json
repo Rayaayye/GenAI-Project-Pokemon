@@ -1,0 +1,41 @@
+{
+    "Name": "Weedle",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 3,
+    "Weight": 32,
+    "Stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 20,
+        "special-defense": 20,
+        "speed": 50
+    },
+    "Description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "Evolution Chain": {
+        "Weedle": {
+            "Kakuna": {
+                "Beedrill": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

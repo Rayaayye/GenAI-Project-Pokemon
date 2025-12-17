@@ -1,0 +1,42 @@
+{
+    "Name": "Piloswine",
+    "Types": [
+        "ice",
+        "ground"
+    ],
+    "Height": 11,
+    "Weight": 558,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "Description": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+    "Evolution Chain": {
+        "Swinub": {
+            "Piloswine": {
+                "Mamoswine": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "ice"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

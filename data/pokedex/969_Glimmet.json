@@ -1,0 +1,42 @@
+{
+    "Name": "Glimmet",
+    "Types": [
+        "rock",
+        "poison"
+    ],
+    "Height": 7,
+    "Weight": 80,
+    "Stats": {
+        "hp": 48,
+        "attack": 35,
+        "defense": 42,
+        "special-attack": 105,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "Description": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+    "Evolution Chain": {
+        "Glimmet": {
+            "Glimmora": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

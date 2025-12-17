@@ -1,0 +1,44 @@
+{
+    "Name": "Gible",
+    "Types": [
+        "dragon",
+        "ground"
+    ],
+    "Height": 7,
+    "Weight": 205,
+    "Stats": {
+        "hp": 58,
+        "attack": 70,
+        "defense": 45,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 42
+    },
+    "Description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+    "Evolution Chain": {
+        "Gible": {
+            "Gabite": {
+                "Garchomp": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Glaceon",
+    "Types": [
+        "ice"
+    ],
+    "Height": 8,
+    "Weight": 259,
+    "Stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 110,
+        "special-attack": 130,
+        "special-defense": 95,
+        "speed": 65
+    },
+    "Description": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

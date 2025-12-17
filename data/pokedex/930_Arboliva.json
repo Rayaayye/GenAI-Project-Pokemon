@@ -1,0 +1,42 @@
+{
+    "Name": "Arboliva",
+    "Types": [
+        "grass",
+        "normal"
+    ],
+    "Height": 14,
+    "Weight": 482,
+    "Stats": {
+        "hp": 78,
+        "attack": 69,
+        "defense": 90,
+        "special-attack": 125,
+        "special-defense": 109,
+        "speed": 39
+    },
+    "Description": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+    "Evolution Chain": {
+        "Smoliv": {
+            "Dolliv": {
+                "Arboliva": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

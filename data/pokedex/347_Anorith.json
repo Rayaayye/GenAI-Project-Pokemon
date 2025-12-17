@@ -1,0 +1,43 @@
+{
+    "Name": "Anorith",
+    "Types": [
+        "rock",
+        "bug"
+    ],
+    "Height": 7,
+    "Weight": 125,
+    "Stats": {
+        "hp": 45,
+        "attack": 95,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "Description": "ANORITH was regenerated from a prehistoric fossil. This primitive POKéMON once lived in warm seas. It grips its prey firmly between its two large claws.",
+    "Evolution Chain": {
+        "Anorith": {
+            "Armaldo": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

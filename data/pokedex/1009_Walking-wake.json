@@ -1,0 +1,39 @@
+{
+    "Name": "Walking-wake",
+    "Types": [
+        "water",
+        "dragon"
+    ],
+    "Height": 35,
+    "Weight": 2800,
+    "Stats": {
+        "hp": 99,
+        "attack": 83,
+        "defense": 91,
+        "special-attack": 125,
+        "special-defense": 83,
+        "speed": 109
+    },
+    "Description": "This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.",
+    "Evolution Chain": {
+        "Walking-wake": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

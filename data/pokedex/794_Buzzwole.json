@@ -1,0 +1,39 @@
+{
+    "Name": "Buzzwole",
+    "Types": [
+        "bug",
+        "fighting"
+    ],
+    "Height": 24,
+    "Weight": 3336,
+    "Stats": {
+        "hp": 107,
+        "attack": 139,
+        "defense": 139,
+        "special-attack": 53,
+        "special-defense": 53,
+        "speed": 79
+    },
+    "Description": "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
+    "Evolution Chain": {
+        "Buzzwole": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

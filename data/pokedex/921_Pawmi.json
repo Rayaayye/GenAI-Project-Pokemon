@@ -1,0 +1,35 @@
+{
+    "Name": "Pawmi",
+    "Types": [
+        "electric"
+    ],
+    "Height": 3,
+    "Weight": 25,
+    "Stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 20,
+        "special-attack": 40,
+        "special-defense": 25,
+        "speed": 60
+    },
+    "Description": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "Evolution Chain": {
+        "Pawmi": {
+            "Pawmo": {
+                "Pawmot": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

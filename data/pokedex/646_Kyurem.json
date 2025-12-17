@@ -1,0 +1,40 @@
+{
+    "Name": "Kyurem",
+    "Types": [
+        "dragon",
+        "ice"
+    ],
+    "Height": 30,
+    "Weight": 3250,
+    "Stats": {
+        "hp": 125,
+        "attack": 130,
+        "defense": 90,
+        "special-attack": 130,
+        "special-defense": 90,
+        "speed": 95
+    },
+    "Description": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+    "Evolution Chain": {
+        "Kyurem": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "steel",
+        "ice",
+        "dragon",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

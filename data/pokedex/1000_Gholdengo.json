@@ -1,0 +1,46 @@
+{
+    "Name": "Gholdengo",
+    "Types": [
+        "steel",
+        "ghost"
+    ],
+    "Height": 12,
+    "Weight": 300,
+    "Stats": {
+        "hp": 87,
+        "attack": 60,
+        "defense": 95,
+        "special-attack": 133,
+        "special-defense": 91,
+        "speed": 84
+    },
+    "Description": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "Evolution Chain": {
+        "Gimmighoul": {
+            "Gholdengo": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

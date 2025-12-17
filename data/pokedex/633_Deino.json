@@ -1,0 +1,43 @@
+{
+    "Name": "Deino",
+    "Types": [
+        "dark",
+        "dragon"
+    ],
+    "Height": 8,
+    "Weight": 173,
+    "Stats": {
+        "hp": 52,
+        "attack": 65,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 38
+    },
+    "Description": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+    "Evolution Chain": {
+        "Deino": {
+            "Zweilous": {
+                "Hydreigon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ghost"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

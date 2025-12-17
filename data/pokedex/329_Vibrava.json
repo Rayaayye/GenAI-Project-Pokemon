@@ -1,0 +1,44 @@
+{
+    "Name": "Vibrava",
+    "Types": [
+        "ground",
+        "dragon"
+    ],
+    "Height": 11,
+    "Weight": 153,
+    "Stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 70
+    },
+    "Description": "To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON’s ultrasonic waves are so powerful, they can bring on headaches in people.",
+    "Evolution Chain": {
+        "Trapinch": {
+            "Vibrava": {
+                "Flygon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

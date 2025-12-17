@@ -1,0 +1,43 @@
+{
+    "Name": "Bramblin",
+    "Types": [
+        "grass",
+        "ghost"
+    ],
+    "Height": 6,
+    "Weight": 6,
+    "Stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 30,
+        "special-attack": 45,
+        "special-defense": 35,
+        "speed": 60
+    },
+    "Description": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+    "Evolution Chain": {
+        "Bramblin": {
+            "Brambleghast": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Jynx",
+    "Types": [
+        "ice",
+        "psychic"
+    ],
+    "Height": 14,
+    "Weight": 406,
+    "Stats": {
+        "hp": 65,
+        "attack": 50,
+        "defense": 35,
+        "special-attack": 115,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "Description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+    "Evolution Chain": {
+        "Smoochum": {
+            "Jynx": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "rock",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "ice"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Chatot",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 5,
+    "Weight": 19,
+    "Stats": {
+        "hp": 76,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 92,
+        "special-defense": 42,
+        "speed": 91
+    },
+    "Description": "It can learn and speak human words. If they gather, they all learn the same saying.",
+    "Evolution Chain": {
+        "Chatot": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

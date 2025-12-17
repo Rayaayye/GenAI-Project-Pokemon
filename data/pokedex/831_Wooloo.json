@@ -1,0 +1,29 @@
+{
+    "Name": "Wooloo",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 60,
+    "Stats": {
+        "hp": 42,
+        "attack": 40,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 48
+    },
+    "Description": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+    "Evolution Chain": {
+        "Wooloo": {
+            "Dubwool": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

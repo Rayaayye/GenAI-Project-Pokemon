@@ -1,0 +1,36 @@
+{
+    "Name": "Lilligant",
+    "Types": [
+        "grass"
+    ],
+    "Height": 11,
+    "Weight": 163,
+    "Stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 110,
+        "special-defense": 75,
+        "speed": 90
+    },
+    "Description": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+    "Evolution Chain": {
+        "Petilil": {
+            "Lilligant": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

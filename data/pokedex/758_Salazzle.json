@@ -1,0 +1,40 @@
+{
+    "Name": "Salazzle",
+    "Types": [
+        "poison",
+        "fire"
+    ],
+    "Height": 12,
+    "Weight": 222,
+    "Stats": {
+        "hp": 68,
+        "attack": 64,
+        "defense": 60,
+        "special-attack": 111,
+        "special-defense": 60,
+        "speed": 117
+    },
+    "Description": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
+    "Evolution Chain": {
+        "Salandit": {
+            "Salazzle": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

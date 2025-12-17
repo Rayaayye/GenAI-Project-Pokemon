@@ -1,0 +1,33 @@
+{
+    "Name": "Zamazenta",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 29,
+    "Weight": 2100,
+    "Stats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 115,
+        "special-attack": 80,
+        "special-defense": 115,
+        "speed": 138
+    },
+    "Description": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
+    "Evolution Chain": {
+        "Zamazenta": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

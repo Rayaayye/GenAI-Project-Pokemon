@@ -1,0 +1,46 @@
+{
+    "Name": "Probopass",
+    "Types": [
+        "rock",
+        "steel"
+    ],
+    "Height": 14,
+    "Weight": 3400,
+    "Stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 145,
+        "special-attack": 75,
+        "special-defense": 150,
+        "speed": 40
+    },
+    "Description": "It freely controls three small units called Mini-Noses using magnetic force.",
+    "Evolution Chain": {
+        "Nosepass": {
+            "Probopass": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

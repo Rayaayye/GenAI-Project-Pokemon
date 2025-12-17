@@ -1,0 +1,43 @@
+{
+    "Name": "Dragalge",
+    "Types": [
+        "poison",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 815,
+    "Stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 90,
+        "special-attack": 97,
+        "special-defense": 123,
+        "speed": 44
+    },
+    "Description": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
+    "Evolution Chain": {
+        "Skrelp": {
+            "Dragalge": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

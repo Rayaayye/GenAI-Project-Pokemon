@@ -1,0 +1,34 @@
+{
+    "Name": "Sandaconda",
+    "Types": [
+        "ground"
+    ],
+    "Height": 38,
+    "Weight": 655,
+    "Stats": {
+        "hp": 72,
+        "attack": 107,
+        "defense": 125,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 71
+    },
+    "Description": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+    "Evolution Chain": {
+        "Silicobra": {
+            "Sandaconda": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Hitmontop",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 480,
+    "Stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 35,
+        "special-defense": 110,
+        "speed": 70
+    },
+    "Description": "If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard.",
+    "Evolution Chain": {
+        "Tyrogue": {
+            "Hitmonlee": {},
+            "Hitmonchan": {},
+            "Hitmontop": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Smoliv",
+    "Types": [
+        "grass",
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 65,
+    "Stats": {
+        "hp": 41,
+        "attack": 35,
+        "defense": 45,
+        "special-attack": 58,
+        "special-defense": 51,
+        "speed": 30
+    },
+    "Description": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+    "Evolution Chain": {
+        "Smoliv": {
+            "Dolliv": {
+                "Arboliva": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

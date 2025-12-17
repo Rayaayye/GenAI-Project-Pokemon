@@ -1,0 +1,34 @@
+{
+    "Name": "Meowstic-male",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 85,
+    "Stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "special-attack": 83,
+        "special-defense": 81,
+        "speed": 104
+    },
+    "Description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+    "Evolution Chain": {
+        "Espurr": {
+            "Meowstic": {}
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

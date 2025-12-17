@@ -1,0 +1,37 @@
+{
+    "Name": "Conkeldurr",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 870,
+    "Stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 95,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "Description": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+    "Evolution Chain": {
+        "Timburr": {
+            "Gurdurr": {
+                "Conkeldurr": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

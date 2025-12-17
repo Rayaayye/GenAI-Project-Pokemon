@@ -1,0 +1,33 @@
+{
+    "Name": "Spidops",
+    "Types": [
+        "bug"
+    ],
+    "Height": 10,
+    "Weight": 165,
+    "Stats": {
+        "hp": 60,
+        "attack": 79,
+        "defense": 92,
+        "special-attack": 52,
+        "special-defense": 86,
+        "speed": 35
+    },
+    "Description": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+    "Evolution Chain": {
+        "Tarountula": {
+            "Spidops": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Togetic",
+    "Types": [
+        "fairy",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 32,
+    "Stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 85,
+        "special-attack": 80,
+        "special-defense": 105,
+        "speed": 40
+    },
+    "Description": "They say that it will appear before kindhearted, car­ ing people and shower them with happiness.",
+    "Evolution Chain": {
+        "Togepi": {
+            "Togetic": {
+                "Togekiss": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "poison",
+        "steel",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dragon",
+        "ground"
+    ]
+}

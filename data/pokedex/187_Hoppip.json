@@ -1,0 +1,45 @@
+{
+    "Name": "Hoppip",
+    "Types": [
+        "grass",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 5,
+    "Stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 55,
+        "speed": 50
+    },
+    "Description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+    "Evolution Chain": {
+        "Hoppip": {
+            "Skiploom": {
+                "Jumpluff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

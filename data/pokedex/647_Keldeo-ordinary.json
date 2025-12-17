@@ -1,0 +1,40 @@
+{
+    "Name": "Keldeo-ordinary",
+    "Types": [
+        "water",
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 485,
+    "Stats": {
+        "hp": 91,
+        "attack": 72,
+        "defense": 90,
+        "special-attack": 129,
+        "special-defense": 90,
+        "speed": 108
+    },
+    "Description": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
+    "Evolution Chain": {
+        "Keldeo": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "grass",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

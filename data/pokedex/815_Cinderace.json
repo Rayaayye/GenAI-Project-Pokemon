@@ -1,0 +1,38 @@
+{
+    "Name": "Cinderace",
+    "Types": [
+        "fire"
+    ],
+    "Height": 14,
+    "Weight": 330,
+    "Stats": {
+        "hp": 80,
+        "attack": 116,
+        "defense": 75,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 119
+    },
+    "Description": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
+    "Evolution Chain": {
+        "Scorbunny": {
+            "Raboot": {
+                "Cinderace": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

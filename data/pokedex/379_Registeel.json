@@ -1,0 +1,38 @@
+{
+    "Name": "Registeel",
+    "Types": [
+        "steel"
+    ],
+    "Height": 19,
+    "Weight": 2050,
+    "Stats": {
+        "hp": 80,
+        "attack": 75,
+        "defense": 150,
+        "special-attack": 75,
+        "special-defense": 150,
+        "speed": 50
+    },
+    "Description": "REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POKéMON eats.",
+    "Evolution Chain": {
+        "Registeel": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

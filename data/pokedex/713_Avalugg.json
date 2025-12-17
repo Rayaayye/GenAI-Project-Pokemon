@@ -1,0 +1,32 @@
+{
+    "Name": "Avalugg",
+    "Types": [
+        "ice"
+    ],
+    "Height": 20,
+    "Weight": 5050,
+    "Stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 184,
+        "special-attack": 44,
+        "special-defense": 46,
+        "speed": 28
+    },
+    "Description": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+    "Evolution Chain": {
+        "Bergmite": {
+            "Avalugg": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

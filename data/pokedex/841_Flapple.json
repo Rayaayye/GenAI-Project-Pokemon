@@ -1,0 +1,46 @@
+{
+    "Name": "Flapple",
+    "Types": [
+        "grass",
+        "dragon"
+    ],
+    "Height": 3,
+    "Weight": 10,
+    "Stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "special-attack": 95,
+        "special-defense": 60,
+        "speed": 70
+    },
+    "Description": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+    "Evolution Chain": {
+        "Applin": {
+            "Flapple": {},
+            "Appletun": {},
+            "Dipplin": {
+                "Hydrapple": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

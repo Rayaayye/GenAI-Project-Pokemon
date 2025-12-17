@@ -1,0 +1,35 @@
+{
+    "Name": "Brionne",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 175,
+    "Stats": {
+        "hp": 60,
+        "attack": 69,
+        "defense": 69,
+        "special-attack": 91,
+        "special-defense": 81,
+        "speed": 50
+    },
+    "Description": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
+    "Evolution Chain": {
+        "Popplio": {
+            "Brionne": {
+                "Primarina": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Capsakid",
+    "Types": [
+        "grass"
+    ],
+    "Height": 3,
+    "Weight": 30,
+    "Stats": {
+        "hp": 50,
+        "attack": 62,
+        "defense": 40,
+        "special-attack": 62,
+        "special-defense": 40,
+        "speed": 50
+    },
+    "Description": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+    "Evolution Chain": {
+        "Capsakid": {
+            "Scovillain": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

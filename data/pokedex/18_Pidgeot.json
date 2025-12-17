@@ -1,0 +1,40 @@
+{
+    "Name": "Pidgeot",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 395,
+    "Stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 101
+    },
+    "Description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+    "Evolution Chain": {
+        "Pidgey": {
+            "Pidgeotto": {
+                "Pidgeot": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

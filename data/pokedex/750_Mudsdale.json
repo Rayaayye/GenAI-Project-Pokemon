@@ -1,0 +1,34 @@
+{
+    "Name": "Mudsdale",
+    "Types": [
+        "ground"
+    ],
+    "Height": 25,
+    "Weight": 9200,
+    "Stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 85,
+        "speed": 35
+    },
+    "Description": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
+    "Evolution Chain": {
+        "Mudbray": {
+            "Mudsdale": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

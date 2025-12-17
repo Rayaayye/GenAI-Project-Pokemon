@@ -1,0 +1,37 @@
+{
+    "Name": "Bibarel",
+    "Types": [
+        "normal",
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 315,
+    "Stats": {
+        "hp": 79,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 71
+    },
+    "Description": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+    "Evolution Chain": {
+        "Bidoof": {
+            "Bibarel": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

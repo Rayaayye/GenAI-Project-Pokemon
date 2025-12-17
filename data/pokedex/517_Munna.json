@@ -1,0 +1,34 @@
+{
+    "Name": "Munna",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 233,
+    "Stats": {
+        "hp": 76,
+        "attack": 25,
+        "defense": 45,
+        "special-attack": 67,
+        "special-defense": 55,
+        "speed": 24
+    },
+    "Description": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+    "Evolution Chain": {
+        "Munna": {
+            "Musharna": {}
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Nihilego",
+    "Types": [
+        "rock",
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 555,
+    "Stats": {
+        "hp": 109,
+        "attack": 53,
+        "defense": 47,
+        "special-attack": 127,
+        "special-defense": 131,
+        "speed": 103
+    },
+    "Description": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+    "Evolution Chain": {
+        "Nihilego": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Yanmega",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 19,
+    "Weight": 515,
+    "Stats": {
+        "hp": 86,
+        "attack": 76,
+        "defense": 86,
+        "special-attack": 116,
+        "special-defense": 56,
+        "speed": 95
+    },
+    "Description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+    "Evolution Chain": {
+        "Yanma": {
+            "Yanmega": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Skarmory",
+    "Types": [
+        "steel",
+        "flying"
+    ],
+    "Height": 17,
+    "Weight": 505,
+    "Stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 140,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+    "Evolution Chain": {
+        "Skarmory": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "ice",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

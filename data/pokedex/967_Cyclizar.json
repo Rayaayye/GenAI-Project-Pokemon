@@ -1,0 +1,37 @@
+{
+    "Name": "Cyclizar",
+    "Types": [
+        "dragon",
+        "normal"
+    ],
+    "Height": 16,
+    "Weight": 630,
+    "Stats": {
+        "hp": 70,
+        "attack": 95,
+        "defense": 65,
+        "special-attack": 85,
+        "special-defense": 65,
+        "speed": 121
+    },
+    "Description": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "Evolution Chain": {
+        "Cyclizar": {}
+    },
+    "Weaknesses": [
+        "dragon",
+        "fighting",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy",
+        "ghost"
+    ]
+}

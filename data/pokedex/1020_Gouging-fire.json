@@ -1,0 +1,42 @@
+{
+    "Name": "Gouging-fire",
+    "Types": [
+        "fire",
+        "dragon"
+    ],
+    "Height": 35,
+    "Weight": 5900,
+    "Stats": {
+        "hp": 105,
+        "attack": 115,
+        "defense": 121,
+        "special-attack": 65,
+        "special-defense": 93,
+        "speed": 91
+    },
+    "Description": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+    "Evolution Chain": {
+        "Gouging-fire": {}
+    },
+    "Weaknesses": [
+        "ice",
+        "dragon",
+        "rock",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

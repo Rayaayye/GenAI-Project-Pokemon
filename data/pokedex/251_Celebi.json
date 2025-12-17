@@ -1,0 +1,41 @@
+{
+    "Name": "Celebi",
+    "Types": [
+        "psychic",
+        "grass"
+    ],
+    "Height": 6,
+    "Weight": 50,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "Description": "This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "Evolution Chain": {
+        "Celebi": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

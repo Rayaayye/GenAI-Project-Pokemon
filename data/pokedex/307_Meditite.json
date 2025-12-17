@@ -1,0 +1,42 @@
+{
+    "Name": "Meditite",
+    "Types": [
+        "fighting",
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 112,
+    "Stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 55,
+        "speed": 60
+    },
+    "Description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends.",
+    "Evolution Chain": {
+        "Meditite": {
+            "Medicham": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "bug",
+        "flying",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

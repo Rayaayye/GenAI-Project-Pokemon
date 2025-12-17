@@ -1,0 +1,40 @@
+{
+    "Name": "Wattrel",
+    "Types": [
+        "electric",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 36,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "special-attack": 55,
+        "special-defense": 40,
+        "speed": 70
+    },
+    "Description": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+    "Evolution Chain": {
+        "Wattrel": {
+            "Kilowattrel": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

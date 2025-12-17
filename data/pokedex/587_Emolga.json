@@ -1,0 +1,38 @@
+{
+    "Name": "Emolga",
+    "Types": [
+        "electric",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 50,
+    "Stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 60,
+        "speed": 103
+    },
+    "Description": "The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.",
+    "Evolution Chain": {
+        "Emolga": {}
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

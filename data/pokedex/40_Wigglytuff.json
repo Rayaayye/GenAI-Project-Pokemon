@@ -1,0 +1,39 @@
+{
+    "Name": "Wigglytuff",
+    "Types": [
+        "normal",
+        "fairy"
+    ],
+    "Height": 10,
+    "Weight": 120,
+    "Stats": {
+        "hp": 140,
+        "attack": 70,
+        "defense": 45,
+        "special-attack": 85,
+        "special-defense": 50,
+        "speed": 45
+    },
+    "Description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+    "Evolution Chain": {
+        "Igglybuff": {
+            "Jigglypuff": {
+                "Wigglytuff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "steel",
+        "poison"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "ghost"
+    ]
+}

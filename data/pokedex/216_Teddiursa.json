@@ -1,0 +1,31 @@
+{
+    "Name": "Teddiursa",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 88,
+    "Stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "Description": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+    "Evolution Chain": {
+        "Teddiursa": {
+            "Ursaring": {
+                "Ursaluna": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Clefable",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 13,
+    "Weight": 400,
+    "Stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "Description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
+    "Evolution Chain": {
+        "Cleffa": {
+            "Clefairy": {
+                "Clefable": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Roggenrola",
+    "Types": [
+        "rock"
+    ],
+    "Height": 4,
+    "Weight": 180,
+    "Stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 15
+    },
+    "Description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+    "Evolution Chain": {
+        "Roggenrola": {
+            "Boldore": {
+                "Gigalith": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Armarouge",
+    "Types": [
+        "fire",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 850,
+    "Stats": {
+        "hp": 85,
+        "attack": 60,
+        "defense": 100,
+        "special-attack": 125,
+        "special-defense": 80,
+        "speed": 75
+    },
+    "Description": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+    "Evolution Chain": {
+        "Charcadet": {
+            "Armarouge": {},
+            "Ceruledge": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "rock",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

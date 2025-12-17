@@ -1,0 +1,40 @@
+{
+    "Name": "Sawsbuck",
+    "Types": [
+        "normal",
+        "grass"
+    ],
+    "Height": 19,
+    "Weight": 925,
+    "Stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 95
+    },
+    "Description": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.",
+    "Evolution Chain": {
+        "Deerling": {
+            "Sawsbuck": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

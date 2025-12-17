@@ -1,0 +1,46 @@
+{
+    "Name": "Delphox",
+    "Types": [
+        "fire",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 390,
+    "Stats": {
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "special-attack": 114,
+        "special-defense": 100,
+        "speed": 104
+    },
+    "Description": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+    "Evolution Chain": {
+        "Fennekin": {
+            "Braixen": {
+                "Delphox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "rock",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

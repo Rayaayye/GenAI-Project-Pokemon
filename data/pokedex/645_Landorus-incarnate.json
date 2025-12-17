@@ -1,0 +1,39 @@
+{
+    "Name": "Landorus-incarnate",
+    "Types": [
+        "ground",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 680,
+    "Stats": {
+        "hp": 89,
+        "attack": 125,
+        "defense": 90,
+        "special-attack": 115,
+        "special-defense": 80,
+        "speed": 101
+    },
+    "Description": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
+    "Evolution Chain": {
+        "Landorus": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "rock",
+        "water"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying",
+        "ground"
+    ]
+}

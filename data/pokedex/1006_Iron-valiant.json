@@ -1,0 +1,38 @@
+{
+    "Name": "Iron-valiant",
+    "Types": [
+        "fairy",
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 350,
+    "Stats": {
+        "hp": 74,
+        "attack": 130,
+        "defense": 90,
+        "special-attack": 120,
+        "special-defense": 60,
+        "speed": 116
+    },
+    "Description": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+    "Evolution Chain": {
+        "Iron-valiant": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "poison",
+        "flying",
+        "steel",
+        "fairy"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "ghost"
+    ]
+}

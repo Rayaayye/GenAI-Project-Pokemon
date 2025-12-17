@@ -1,0 +1,36 @@
+{
+    "Name": "Solosis",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 3,
+    "Weight": 10,
+    "Stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 40,
+        "special-attack": 105,
+        "special-defense": 50,
+        "speed": 20
+    },
+    "Description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+    "Evolution Chain": {
+        "Solosis": {
+            "Duosion": {
+                "Reuniclus": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

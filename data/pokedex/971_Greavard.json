@@ -1,0 +1,33 @@
+{
+    "Name": "Greavard",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 6,
+    "Weight": 350,
+    "Stats": {
+        "hp": 50,
+        "attack": 61,
+        "defense": 60,
+        "special-attack": 30,
+        "special-defense": 55,
+        "speed": 34
+    },
+    "Description": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+    "Evolution Chain": {
+        "Greavard": {
+            "Houndstone": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "Frigibax",
+    "Types": [
+        "dragon",
+        "ice"
+    ],
+    "Height": 5,
+    "Weight": 170,
+    "Stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 45,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "Description": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "Evolution Chain": {
+        "Frigibax": {
+            "Arctibax": {
+                "Baxcalibur": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "steel",
+        "ice",
+        "dragon",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

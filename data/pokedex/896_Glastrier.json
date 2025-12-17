@@ -1,0 +1,30 @@
+{
+    "Name": "Glastrier",
+    "Types": [
+        "ice"
+    ],
+    "Height": 22,
+    "Weight": 8000,
+    "Stats": {
+        "hp": 100,
+        "attack": 145,
+        "defense": 130,
+        "special-attack": 65,
+        "special-defense": 110,
+        "speed": 30
+    },
+    "Description": "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",
+    "Evolution Chain": {
+        "Glastrier": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

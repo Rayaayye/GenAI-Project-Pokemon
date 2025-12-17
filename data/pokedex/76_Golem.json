@@ -1,0 +1,43 @@
+{
+    "Name": "Golem",
+    "Types": [
+        "rock",
+        "ground"
+    ],
+    "Height": 14,
+    "Weight": 3000,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "Description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+    "Evolution Chain": {
+        "Geodude": {
+            "Graveler": {
+                "Golem": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

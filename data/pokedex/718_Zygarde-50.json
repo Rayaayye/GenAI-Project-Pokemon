@@ -1,0 +1,40 @@
+{
+    "Name": "Zygarde-50",
+    "Types": [
+        "dragon",
+        "ground"
+    ],
+    "Height": 50,
+    "Weight": 3050,
+    "Stats": {
+        "hp": 108,
+        "attack": 100,
+        "defense": 121,
+        "special-attack": 81,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "Description": "When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power.",
+    "Evolution Chain": {
+        "Zygarde": {}
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

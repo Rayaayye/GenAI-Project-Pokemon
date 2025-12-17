@@ -1,0 +1,43 @@
+{
+    "Name": "Nidoqueen",
+    "Types": [
+        "poison",
+        "ground"
+    ],
+    "Height": 13,
+    "Weight": 600,
+    "Stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 87,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 76
+    },
+    "Description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+    "Evolution Chain": {
+        "Nidoran-f": {
+            "Nidorina": {
+                "Nidoqueen": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Luxray",
+    "Types": [
+        "electric"
+    ],
+    "Height": 14,
+    "Weight": 420,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 79,
+        "special-attack": 95,
+        "special-defense": 79,
+        "speed": 70
+    },
+    "Description": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+    "Evolution Chain": {
+        "Shinx": {
+            "Luxio": {
+                "Luxray": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

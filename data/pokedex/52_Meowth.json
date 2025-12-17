@@ -1,0 +1,30 @@
+{
+    "Name": "Meowth",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 42,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 90
+    },
+    "Description": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+    "Evolution Chain": {
+        "Meowth": {
+            "Persian": {},
+            "Perrserker": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Gogoat",
+    "Types": [
+        "grass"
+    ],
+    "Height": 17,
+    "Weight": 910,
+    "Stats": {
+        "hp": 123,
+        "attack": 100,
+        "defense": 62,
+        "special-attack": 97,
+        "special-defense": 81,
+        "speed": 68
+    },
+    "Description": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+    "Evolution Chain": {
+        "Skiddo": {
+            "Gogoat": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

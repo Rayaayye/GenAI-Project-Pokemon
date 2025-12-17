@@ -1,0 +1,41 @@
+{
+    "Name": "Haunter",
+    "Types": [
+        "ghost",
+        "poison"
+    ],
+    "Height": 16,
+    "Weight": 1,
+    "Stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 115,
+        "special-defense": 55,
+        "speed": 95
+    },
+    "Description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
+    "Evolution Chain": {
+        "Gastly": {
+            "Haunter": {
+                "Gengar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground",
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

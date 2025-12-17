@@ -1,0 +1,45 @@
+{
+    "Name": "Carkol",
+    "Types": [
+        "rock",
+        "fire"
+    ],
+    "Height": 11,
+    "Weight": 780,
+    "Stats": {
+        "hp": 80,
+        "attack": 60,
+        "defense": 90,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 50
+    },
+    "Description": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
+    "Evolution Chain": {
+        "Rolycoly": {
+            "Carkol": {
+                "Coalossal": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

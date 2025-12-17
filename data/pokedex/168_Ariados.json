@@ -1,0 +1,39 @@
+{
+    "Name": "Ariados",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 11,
+    "Weight": 335,
+    "Stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 40
+    },
+    "Description": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+    "Evolution Chain": {
+        "Spinarak": {
+            "Ariados": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

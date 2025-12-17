@@ -1,0 +1,43 @@
+{
+    "Name": "Kingdra",
+    "Types": [
+        "water",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 1520,
+    "Stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 95,
+        "speed": 85
+    },
+    "Description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "Evolution Chain": {
+        "Horsea": {
+            "Seadra": {
+                "Kingdra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

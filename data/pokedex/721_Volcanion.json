@@ -1,0 +1,38 @@
+{
+    "Name": "Volcanion",
+    "Types": [
+        "fire",
+        "water"
+    ],
+    "Height": 17,
+    "Weight": 1950,
+    "Stats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 120,
+        "special-attack": 130,
+        "special-defense": 90,
+        "speed": 70
+    },
+    "Description": "It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.",
+    "Evolution Chain": {
+        "Volcanion": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "water"
+    ],
+    "Immunities": []
+}

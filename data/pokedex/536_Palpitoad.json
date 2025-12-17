@@ -1,0 +1,42 @@
+{
+    "Name": "Palpitoad",
+    "Types": [
+        "water",
+        "ground"
+    ],
+    "Height": 8,
+    "Weight": 170,
+    "Stats": {
+        "hp": 75,
+        "attack": 65,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 69
+    },
+    "Description": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+    "Evolution Chain": {
+        "Tympole": {
+            "Palpitoad": {
+                "Seismitoad": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

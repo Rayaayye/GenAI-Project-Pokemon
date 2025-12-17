@@ -1,0 +1,38 @@
+{
+    "Name": "Braixen",
+    "Types": [
+        "fire"
+    ],
+    "Height": 10,
+    "Weight": 145,
+    "Stats": {
+        "hp": 59,
+        "attack": 59,
+        "defense": 58,
+        "special-attack": 90,
+        "special-defense": 70,
+        "speed": 73
+    },
+    "Description": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+    "Evolution Chain": {
+        "Fennekin": {
+            "Braixen": {
+                "Delphox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

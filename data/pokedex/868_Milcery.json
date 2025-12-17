@@ -1,0 +1,34 @@
+{
+    "Name": "Milcery",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 3,
+    "Stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 61,
+        "speed": 34
+    },
+    "Description": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "Evolution Chain": {
+        "Milcery": {
+            "Alcremie": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

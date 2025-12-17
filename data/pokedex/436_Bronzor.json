@@ -1,0 +1,47 @@
+{
+    "Name": "Bronzor",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 5,
+    "Weight": 605,
+    "Stats": {
+        "hp": 57,
+        "attack": 24,
+        "defense": 86,
+        "special-attack": 24,
+        "special-defense": 86,
+        "speed": 23
+    },
+    "Description": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+    "Evolution Chain": {
+        "Bronzor": {
+            "Bronzong": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

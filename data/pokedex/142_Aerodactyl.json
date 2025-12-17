@@ -1,0 +1,43 @@
+{
+    "Name": "Aerodactyl",
+    "Types": [
+        "rock",
+        "flying"
+    ],
+    "Height": 18,
+    "Weight": 590,
+    "Stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 130
+    },
+    "Description": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+    "Evolution Chain": {
+        "Aerodactyl": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Togekiss",
+    "Types": [
+        "fairy",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 380,
+    "Stats": {
+        "hp": 85,
+        "attack": 50,
+        "defense": 95,
+        "special-attack": 120,
+        "special-defense": 115,
+        "speed": 80
+    },
+    "Description": "It will never appear where there is strife. Its sightings have become rare recently.",
+    "Evolution Chain": {
+        "Togepi": {
+            "Togetic": {
+                "Togekiss": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "poison",
+        "steel",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dragon",
+        "ground"
+    ]
+}

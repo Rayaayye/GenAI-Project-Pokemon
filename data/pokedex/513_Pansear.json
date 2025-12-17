@@ -1,0 +1,36 @@
+{
+    "Name": "Pansear",
+    "Types": [
+        "fire"
+    ],
+    "Height": 6,
+    "Weight": 110,
+    "Stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special-attack": 53,
+        "special-defense": 48,
+        "speed": 64
+    },
+    "Description": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
+    "Evolution Chain": {
+        "Pansear": {
+            "Simisear": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

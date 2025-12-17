@@ -1,0 +1,43 @@
+{
+    "Name": "Whimsicott",
+    "Types": [
+        "grass",
+        "fairy"
+    ],
+    "Height": 7,
+    "Weight": 66,
+    "Stats": {
+        "hp": 60,
+        "attack": 67,
+        "defense": 85,
+        "special-attack": 77,
+        "special-defense": 75,
+        "speed": 116
+    },
+    "Description": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+    "Evolution Chain": {
+        "Cottonee": {
+            "Whimsicott": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

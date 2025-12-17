@@ -1,0 +1,40 @@
+{
+    "Name": "Jellicent",
+    "Types": [
+        "water",
+        "ghost"
+    ],
+    "Height": 22,
+    "Weight": 1350,
+    "Stats": {
+        "hp": 100,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 105,
+        "speed": 60
+    },
+    "Description": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
+    "Evolution Chain": {
+        "Frillish": {
+            "Jellicent": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "ghost",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "poison",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

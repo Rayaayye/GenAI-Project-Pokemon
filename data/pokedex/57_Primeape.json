@@ -1,0 +1,37 @@
+{
+    "Name": "Primeape",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 10,
+    "Weight": 320,
+    "Stats": {
+        "hp": 65,
+        "attack": 105,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 95
+    },
+    "Description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+    "Evolution Chain": {
+        "Mankey": {
+            "Primeape": {
+                "Annihilape": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "Emboar",
+    "Types": [
+        "fire",
+        "fighting"
+    ],
+    "Height": 16,
+    "Weight": 1500,
+    "Stats": {
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "special-attack": 100,
+        "special-defense": 65,
+        "speed": 65
+    },
+    "Description": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+    "Evolution Chain": {
+        "Tepig": {
+            "Pignite": {
+                "Emboar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "rock",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

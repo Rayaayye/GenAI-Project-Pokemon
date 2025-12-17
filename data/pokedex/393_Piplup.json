@@ -1,0 +1,35 @@
+{
+    "Name": "Piplup",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 52,
+    "Stats": {
+        "hp": 53,
+        "attack": 51,
+        "defense": 53,
+        "special-attack": 61,
+        "special-defense": 56,
+        "speed": 40
+    },
+    "Description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+    "Evolution Chain": {
+        "Piplup": {
+            "Prinplup": {
+                "Empoleon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

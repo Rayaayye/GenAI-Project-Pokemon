@@ -1,0 +1,33 @@
+{
+    "Name": "Lumineon",
+    "Types": [
+        "water"
+    ],
+    "Height": 12,
+    "Weight": 240,
+    "Stats": {
+        "hp": 69,
+        "attack": 69,
+        "defense": 76,
+        "special-attack": 69,
+        "special-defense": 86,
+        "speed": 91
+    },
+    "Description": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+    "Evolution Chain": {
+        "Finneon": {
+            "Lumineon": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Shiftry",
+    "Types": [
+        "grass",
+        "dark"
+    ],
+    "Height": 13,
+    "Weight": 596,
+    "Stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 60,
+        "special-attack": 90,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "Description": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+    "Evolution Chain": {
+        "Seedot": {
+            "Nuzleaf": {
+                "Shiftry": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Immunities": []
+}

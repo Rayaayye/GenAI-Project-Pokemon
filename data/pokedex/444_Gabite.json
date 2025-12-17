@@ -1,0 +1,44 @@
+{
+    "Name": "Gabite",
+    "Types": [
+        "dragon",
+        "ground"
+    ],
+    "Height": 14,
+    "Weight": 560,
+    "Stats": {
+        "hp": 68,
+        "attack": 90,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 55,
+        "speed": 82
+    },
+    "Description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+    "Evolution Chain": {
+        "Gible": {
+            "Gabite": {
+                "Garchomp": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

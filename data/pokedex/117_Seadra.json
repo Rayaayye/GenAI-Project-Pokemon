@@ -1,0 +1,35 @@
+{
+    "Name": "Seadra",
+    "Types": [
+        "water"
+    ],
+    "Height": 12,
+    "Weight": 250,
+    "Stats": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 45,
+        "speed": 85
+    },
+    "Description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+    "Evolution Chain": {
+        "Horsea": {
+            "Seadra": {
+                "Kingdra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

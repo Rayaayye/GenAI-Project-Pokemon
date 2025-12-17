@@ -1,0 +1,39 @@
+{
+    "Name": "Vespiquen",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 12,
+    "Weight": 385,
+    "Stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 102,
+        "special-attack": 80,
+        "special-defense": 102,
+        "speed": 40
+    },
+    "Description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
+    "Evolution Chain": {
+        "Combee": {
+            "Vespiquen": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

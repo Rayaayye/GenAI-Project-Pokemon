@@ -1,0 +1,45 @@
+{
+    "Name": "Scovillain",
+    "Types": [
+        "grass",
+        "fire"
+    ],
+    "Height": 9,
+    "Weight": 150,
+    "Stats": {
+        "hp": 65,
+        "attack": 108,
+        "defense": 65,
+        "special-attack": 108,
+        "special-defense": 65,
+        "speed": 75
+    },
+    "Description": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+    "Evolution Chain": {
+        "Capsakid": {
+            "Scovillain": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "water",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Immunities": []
+}

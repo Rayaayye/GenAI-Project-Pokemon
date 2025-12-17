@@ -1,0 +1,27 @@
+{
+    "Name": "Smeargle",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 580,
+    "Stats": {
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 45,
+        "speed": 75
+    },
+    "Description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+    "Evolution Chain": {
+        "Smeargle": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Axew",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 6,
+    "Weight": 180,
+    "Stats": {
+        "hp": 46,
+        "attack": 87,
+        "defense": 60,
+        "special-attack": 30,
+        "special-defense": 40,
+        "speed": 57
+    },
+    "Description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+    "Evolution Chain": {
+        "Axew": {
+            "Fraxure": {
+                "Haxorus": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Escavalier",
+    "Types": [
+        "bug",
+        "steel"
+    ],
+    "Height": 10,
+    "Weight": 330,
+    "Stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 105,
+        "special-attack": 60,
+        "special-defense": 105,
+        "speed": 20
+    },
+    "Description": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+    "Evolution Chain": {
+        "Karrablast": {
+            "Escavalier": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Flamigo",
+    "Types": [
+        "flying",
+        "fighting"
+    ],
+    "Height": 16,
+    "Weight": 370,
+    "Stats": {
+        "hp": 82,
+        "attack": 115,
+        "defense": 74,
+        "special-attack": 75,
+        "special-defense": 64,
+        "speed": 90
+    },
+    "Description": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+    "Evolution Chain": {
+        "Flamigo": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "flying",
+        "ice",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost",
+        "ground"
+    ]
+}

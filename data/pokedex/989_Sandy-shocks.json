@@ -1,0 +1,38 @@
+{
+    "Name": "Sandy-shocks",
+    "Types": [
+        "electric",
+        "ground"
+    ],
+    "Height": 23,
+    "Weight": 600,
+    "Stats": {
+        "hp": 85,
+        "attack": 81,
+        "defense": 97,
+        "special-attack": 121,
+        "special-defense": 85,
+        "speed": 101
+    },
+    "Description": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.",
+    "Evolution Chain": {
+        "Sandy-shocks": {}
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "electric",
+        "poison",
+        "flying",
+        "steel",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "ground"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Gastrodon",
+    "Types": [
+        "water",
+        "ground"
+    ],
+    "Height": 9,
+    "Weight": 299,
+    "Stats": {
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "special-attack": 92,
+        "special-defense": 82,
+        "speed": 39
+    },
+    "Description": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
+    "Evolution Chain": {
+        "Shellos": {
+            "Gastrodon": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

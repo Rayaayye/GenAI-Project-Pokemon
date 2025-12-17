@@ -1,0 +1,35 @@
+{
+    "Name": "Eelektross",
+    "Types": [
+        "electric"
+    ],
+    "Height": 21,
+    "Weight": 805,
+    "Stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 80,
+        "special-attack": 105,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "Description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+    "Evolution Chain": {
+        "Tynamo": {
+            "Eelektrik": {
+                "Eelektross": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Zarude",
+    "Types": [
+        "dark",
+        "grass"
+    ],
+    "Height": 18,
+    "Weight": 700,
+    "Stats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "special-attack": 70,
+        "special-defense": 95,
+        "speed": 105
+    },
+    "Description": "Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.",
+    "Evolution Chain": {
+        "Zarude": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Immunities": []
+}

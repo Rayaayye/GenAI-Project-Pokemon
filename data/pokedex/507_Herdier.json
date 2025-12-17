@@ -1,0 +1,31 @@
+{
+    "Name": "Herdier",
+    "Types": [
+        "normal"
+    ],
+    "Height": 9,
+    "Weight": 147,
+    "Stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 65,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 60
+    },
+    "Description": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+    "Evolution Chain": {
+        "Lillipup": {
+            "Herdier": {
+                "Stoutland": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

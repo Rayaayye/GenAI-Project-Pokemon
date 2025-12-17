@@ -1,0 +1,36 @@
+{
+    "Name": "Gossifleur",
+    "Types": [
+        "grass"
+    ],
+    "Height": 4,
+    "Weight": 22,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 10
+    },
+    "Description": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+    "Evolution Chain": {
+        "Gossifleur": {
+            "Eldegoss": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

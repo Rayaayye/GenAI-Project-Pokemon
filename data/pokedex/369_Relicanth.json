@@ -1,0 +1,39 @@
+{
+    "Name": "Relicanth",
+    "Types": [
+        "water",
+        "rock"
+    ],
+    "Height": 10,
+    "Weight": 234,
+    "Stats": {
+        "hp": 100,
+        "attack": 90,
+        "defense": 130,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 55
+    },
+    "Description": "RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth.",
+    "Evolution Chain": {
+        "Relicanth": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

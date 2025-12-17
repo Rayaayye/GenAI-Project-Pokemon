@@ -1,0 +1,38 @@
+{
+    "Name": "Grovyle",
+    "Types": [
+        "grass"
+    ],
+    "Height": 9,
+    "Weight": 216,
+    "Stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 85,
+        "special-defense": 65,
+        "speed": 95
+    },
+    "Description": "The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.",
+    "Evolution Chain": {
+        "Treecko": {
+            "Grovyle": {
+                "Sceptile": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,34 @@
+{
+    "Name": "Cofagrigus",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 17,
+    "Weight": 765,
+    "Stats": {
+        "hp": 58,
+        "attack": 50,
+        "defense": 145,
+        "special-attack": 95,
+        "special-defense": 105,
+        "speed": 30
+    },
+    "Description": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+    "Evolution Chain": {
+        "Yamask": {
+            "Cofagrigus": {},
+            "Runerigus": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

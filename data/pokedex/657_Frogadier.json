@@ -1,0 +1,35 @@
+{
+    "Name": "Frogadier",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 109,
+    "Stats": {
+        "hp": 54,
+        "attack": 63,
+        "defense": 52,
+        "special-attack": 83,
+        "special-defense": 56,
+        "speed": 97
+    },
+    "Description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+    "Evolution Chain": {
+        "Froakie": {
+            "Frogadier": {
+                "Greninja": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Honchkrow",
+    "Types": [
+        "dark",
+        "flying"
+    ],
+    "Height": 9,
+    "Weight": 273,
+    "Stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 52,
+        "special-attack": 105,
+        "special-defense": 52,
+        "speed": 71
+    },
+    "Description": "Becoming active at night, it is known to swarm with numerous MURKROW in tow.",
+    "Evolution Chain": {
+        "Murkrow": {
+            "Honchkrow": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "ice",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

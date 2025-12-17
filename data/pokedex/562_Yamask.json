@@ -1,0 +1,34 @@
+{
+    "Name": "Yamask",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 5,
+    "Weight": 15,
+    "Stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "Description": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+    "Evolution Chain": {
+        "Yamask": {
+            "Cofagrigus": {},
+            "Runerigus": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Rattata",
+    "Types": [
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 35,
+    "Stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "special-attack": 25,
+        "special-defense": 35,
+        "speed": 72
+    },
+    "Description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+    "Evolution Chain": {
+        "Rattata": {
+            "Raticate": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

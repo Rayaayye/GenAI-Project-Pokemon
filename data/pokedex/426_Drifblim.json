@@ -1,0 +1,40 @@
+{
+    "Name": "Drifblim",
+    "Types": [
+        "ghost",
+        "flying"
+    ],
+    "Height": 12,
+    "Weight": 150,
+    "Stats": {
+        "hp": 150,
+        "attack": 80,
+        "defense": 44,
+        "special-attack": 90,
+        "special-defense": 54,
+        "speed": 80
+    },
+    "Description": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+    "Evolution Chain": {
+        "Drifloon": {
+            "Drifblim": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "normal",
+        "ground"
+    ]
+}

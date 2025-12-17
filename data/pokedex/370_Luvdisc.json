@@ -1,0 +1,31 @@
+{
+    "Name": "Luvdisc",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 87,
+    "Stats": {
+        "hp": 43,
+        "attack": 30,
+        "defense": 55,
+        "special-attack": 40,
+        "special-defense": 65,
+        "speed": 97
+    },
+    "Description": "LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean’s waves.",
+    "Evolution Chain": {
+        "Luvdisc": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

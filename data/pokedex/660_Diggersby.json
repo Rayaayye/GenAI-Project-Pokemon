@@ -1,0 +1,37 @@
+{
+    "Name": "Diggersby",
+    "Types": [
+        "normal",
+        "ground"
+    ],
+    "Height": 10,
+    "Weight": 424,
+    "Stats": {
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "special-attack": 50,
+        "special-defense": 77,
+        "speed": 78
+    },
+    "Description": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+    "Evolution Chain": {
+        "Bunnelby": {
+            "Diggersby": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "ghost"
+    ]
+}

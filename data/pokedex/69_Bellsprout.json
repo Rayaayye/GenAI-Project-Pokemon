@@ -1,0 +1,45 @@
+{
+    "Name": "Bellsprout",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 7,
+    "Weight": 40,
+    "Stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 35,
+        "special-attack": 70,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "Description": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+    "Evolution Chain": {
+        "Bellsprout": {
+            "Weepinbell": {
+                "Victreebel": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

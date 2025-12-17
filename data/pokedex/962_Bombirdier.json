@@ -1,0 +1,39 @@
+{
+    "Name": "Bombirdier",
+    "Types": [
+        "flying",
+        "dark"
+    ],
+    "Height": 15,
+    "Weight": 429,
+    "Stats": {
+        "hp": 70,
+        "attack": 103,
+        "defense": 85,
+        "special-attack": 60,
+        "special-defense": 85,
+        "speed": 82
+    },
+    "Description": "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.",
+    "Evolution Chain": {
+        "Bombirdier": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

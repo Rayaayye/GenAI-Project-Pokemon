@@ -1,0 +1,43 @@
+{
+    "Name": "Sinistcha",
+    "Types": [
+        "grass",
+        "ghost"
+    ],
+    "Height": 2,
+    "Weight": 22,
+    "Stats": {
+        "hp": 71,
+        "attack": 60,
+        "defense": 106,
+        "special-attack": 121,
+        "special-defense": 80,
+        "speed": 70
+    },
+    "Description": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
+    "Evolution Chain": {
+        "Poltchageist": {
+            "Sinistcha": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Misdreavus",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 7,
+    "Weight": 10,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 85,
+        "special-defense": 85,
+        "speed": 85
+    },
+    "Description": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+    "Evolution Chain": {
+        "Misdreavus": {
+            "Mismagius": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Pecharunt",
+    "Types": [
+        "poison",
+        "ghost"
+    ],
+    "Height": 3,
+    "Weight": 3,
+    "Stats": {
+        "hp": 88,
+        "attack": 88,
+        "defense": 160,
+        "special-attack": 88,
+        "special-defense": 88,
+        "speed": 88
+    },
+    "Description": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+    "Evolution Chain": {
+        "Pecharunt": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

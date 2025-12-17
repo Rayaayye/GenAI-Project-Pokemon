@@ -1,0 +1,43 @@
+{
+    "Name": "Durant",
+    "Types": [
+        "bug",
+        "steel"
+    ],
+    "Height": 3,
+    "Weight": 330,
+    "Stats": {
+        "hp": 58,
+        "attack": 109,
+        "defense": 112,
+        "special-attack": 48,
+        "special-defense": 48,
+        "speed": 109
+    },
+    "Description": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "Evolution Chain": {
+        "Durant": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

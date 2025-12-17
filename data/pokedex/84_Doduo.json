@@ -1,0 +1,38 @@
+{
+    "Name": "Doduo",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 14,
+    "Weight": 392,
+    "Stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 75
+    },
+    "Description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+    "Evolution Chain": {
+        "Doduo": {
+            "Dodrio": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

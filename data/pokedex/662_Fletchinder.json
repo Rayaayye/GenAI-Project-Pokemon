@@ -1,0 +1,44 @@
+{
+    "Name": "Fletchinder",
+    "Types": [
+        "fire",
+        "flying"
+    ],
+    "Height": 7,
+    "Weight": 160,
+    "Stats": {
+        "hp": 62,
+        "attack": 73,
+        "defense": 55,
+        "special-attack": 56,
+        "special-defense": 52,
+        "speed": 84
+    },
+    "Description": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+    "Evolution Chain": {
+        "Fletchling": {
+            "Fletchinder": {
+                "Talonflame": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

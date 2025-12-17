@@ -1,0 +1,46 @@
+{
+    "Name": "Gloom",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 8,
+    "Weight": 86,
+    "Stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "Description": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+    "Evolution Chain": {
+        "Oddish": {
+            "Gloom": {
+                "Vileplume": {},
+                "Bellossom": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

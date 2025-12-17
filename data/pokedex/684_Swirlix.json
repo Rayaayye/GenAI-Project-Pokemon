@@ -1,0 +1,34 @@
+{
+    "Name": "Swirlix",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 4,
+    "Weight": 35,
+    "Stats": {
+        "hp": 62,
+        "attack": 48,
+        "defense": 66,
+        "special-attack": 59,
+        "special-defense": 57,
+        "speed": 49
+    },
+    "Description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+    "Evolution Chain": {
+        "Swirlix": {
+            "Slurpuff": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

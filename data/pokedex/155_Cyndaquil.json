@@ -1,0 +1,38 @@
+{
+    "Name": "Cyndaquil",
+    "Types": [
+        "fire"
+    ],
+    "Height": 5,
+    "Weight": 79,
+    "Stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "Description": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+    "Evolution Chain": {
+        "Cyndaquil": {
+            "Quilava": {
+                "Typhlosion": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

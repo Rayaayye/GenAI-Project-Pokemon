@@ -1,0 +1,41 @@
+{
+    "Name": "Claydol",
+    "Types": [
+        "ground",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 1080,
+    "Stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 105,
+        "special-attack": 70,
+        "special-defense": 120,
+        "speed": 75
+    },
+    "Description": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POKéMON moves about while levitating.",
+    "Evolution Chain": {
+        "Baltoy": {
+            "Claydol": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "fighting",
+        "rock",
+        "psychic"
+    ],
+    "Immunities": [
+        "flying",
+        "dark"
+    ]
+}

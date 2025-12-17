@@ -1,0 +1,41 @@
+{
+    "Name": "Beedrill",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 10,
+    "Weight": 295,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 40,
+        "special-attack": 45,
+        "special-defense": 80,
+        "speed": 75
+    },
+    "Description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "Evolution Chain": {
+        "Weedle": {
+            "Kakuna": {
+                "Beedrill": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

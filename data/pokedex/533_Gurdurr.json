@@ -1,0 +1,37 @@
+{
+    "Name": "Gurdurr",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 12,
+    "Weight": 400,
+    "Stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 85,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "Description": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "Evolution Chain": {
+        "Timburr": {
+            "Gurdurr": {
+                "Conkeldurr": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

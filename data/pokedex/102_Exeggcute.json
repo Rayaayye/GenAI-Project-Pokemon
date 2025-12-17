@@ -1,0 +1,43 @@
+{
+    "Name": "Exeggcute",
+    "Types": [
+        "grass",
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 25,
+    "Stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 45,
+        "speed": 40
+    },
+    "Description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+    "Evolution Chain": {
+        "Exeggcute": {
+            "Exeggutor": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

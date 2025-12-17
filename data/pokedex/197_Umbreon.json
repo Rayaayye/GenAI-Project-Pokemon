@@ -1,0 +1,39 @@
+{
+    "Name": "Umbreon",
+    "Types": [
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 270,
+    "Stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 110,
+        "special-attack": 60,
+        "special-defense": 130,
+        "speed": 65
+    },
+    "Description": "When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

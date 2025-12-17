@@ -1,0 +1,43 @@
+{
+    "Name": "Gourgeist-average",
+    "Types": [
+        "ghost",
+        "grass"
+    ],
+    "Height": 9,
+    "Weight": 125,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 122,
+        "special-attack": 58,
+        "special-defense": 75,
+        "speed": 84
+    },
+    "Description": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+    "Evolution Chain": {
+        "Pumpkaboo": {
+            "Gourgeist": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

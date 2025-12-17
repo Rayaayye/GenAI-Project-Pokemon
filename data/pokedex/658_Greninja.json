@@ -1,0 +1,41 @@
+{
+    "Name": "Greninja",
+    "Types": [
+        "water",
+        "dark"
+    ],
+    "Height": 15,
+    "Weight": 400,
+    "Stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "special-attack": 103,
+        "special-defense": 71,
+        "speed": 122
+    },
+    "Description": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+    "Evolution Chain": {
+        "Froakie": {
+            "Frogadier": {
+                "Greninja": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "grass",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Immunities": []
+}

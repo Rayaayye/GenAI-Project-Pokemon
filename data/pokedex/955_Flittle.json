@@ -1,0 +1,34 @@
+{
+    "Name": "Flittle",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 2,
+    "Weight": 15,
+    "Stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 55,
+        "special-defense": 30,
+        "speed": 75
+    },
+    "Description": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
+    "Evolution Chain": {
+        "Flittle": {
+            "Espathra": {}
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

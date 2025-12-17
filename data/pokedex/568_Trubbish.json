@@ -1,0 +1,34 @@
+{
+    "Name": "Trubbish",
+    "Types": [
+        "poison"
+    ],
+    "Height": 6,
+    "Weight": 310,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 62,
+        "special-attack": 40,
+        "special-defense": 62,
+        "speed": 65
+    },
+    "Description": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+    "Evolution Chain": {
+        "Trubbish": {
+            "Garbodor": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

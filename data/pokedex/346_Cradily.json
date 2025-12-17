@@ -1,0 +1,46 @@
+{
+    "Name": "Cradily",
+    "Types": [
+        "rock",
+        "grass"
+    ],
+    "Height": 15,
+    "Weight": 604,
+    "Stats": {
+        "hp": 86,
+        "attack": 81,
+        "defense": 97,
+        "special-attack": 81,
+        "special-defense": 107,
+        "speed": 43
+    },
+    "Description": "CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+    "Evolution Chain": {
+        "Lileep": {
+            "Cradily": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "water",
+        "ground"
+    ],
+    "Immunities": []
+}

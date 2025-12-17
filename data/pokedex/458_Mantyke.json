@@ -1,0 +1,41 @@
+{
+    "Name": "Mantyke",
+    "Types": [
+        "water",
+        "flying"
+    ],
+    "Height": 10,
+    "Weight": 650,
+    "Stats": {
+        "hp": 45,
+        "attack": 20,
+        "defense": 50,
+        "special-attack": 60,
+        "special-defense": 120,
+        "speed": 50
+    },
+    "Description": "A friendly Pokémon that captures the subtle flows of seawater using its two antennae.",
+    "Evolution Chain": {
+        "Mantyke": {
+            "Mantine": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Chansey",
+    "Types": [
+        "normal"
+    ],
+    "Height": 11,
+    "Weight": 346,
+    "Stats": {
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "special-attack": 35,
+        "special-defense": 105,
+        "speed": 50
+    },
+    "Description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
+    "Evolution Chain": {
+        "Happiny": {
+            "Chansey": {
+                "Blissey": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

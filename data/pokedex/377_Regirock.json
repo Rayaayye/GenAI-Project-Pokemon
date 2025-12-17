@@ -1,0 +1,34 @@
+{
+    "Name": "Regirock",
+    "Types": [
+        "rock"
+    ],
+    "Height": 17,
+    "Weight": 2300,
+    "Stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 200,
+        "special-attack": 50,
+        "special-defense": 100,
+        "speed": 50
+    },
+    "Description": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
+    "Evolution Chain": {
+        "Regirock": {}
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

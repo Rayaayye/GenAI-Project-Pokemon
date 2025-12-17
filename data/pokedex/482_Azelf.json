@@ -1,0 +1,32 @@
+{
+    "Name": "Azelf",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 3,
+    "Weight": 3,
+    "Stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 70,
+        "special-attack": 125,
+        "special-defense": 70,
+        "speed": 115
+    },
+    "Description": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.",
+    "Evolution Chain": {
+        "Azelf": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

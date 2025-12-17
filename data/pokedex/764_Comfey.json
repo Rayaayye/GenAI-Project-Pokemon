@@ -1,0 +1,32 @@
+{
+    "Name": "Comfey",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 1,
+    "Weight": 3,
+    "Stats": {
+        "hp": 51,
+        "attack": 52,
+        "defense": 90,
+        "special-attack": 82,
+        "special-defense": 110,
+        "speed": 100
+    },
+    "Description": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+    "Evolution Chain": {
+        "Comfey": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Marshadow",
+    "Types": [
+        "fighting",
+        "ghost"
+    ],
+    "Height": 7,
+    "Weight": 222,
+    "Stats": {
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 90,
+        "speed": 125
+    },
+    "Description": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
+    "Evolution Chain": {
+        "Marshadow": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "flying",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "normal",
+        "ghost"
+    ]
+}

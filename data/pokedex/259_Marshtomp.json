@@ -1,0 +1,42 @@
+{
+    "Name": "Marshtomp",
+    "Types": [
+        "water",
+        "ground"
+    ],
+    "Height": 7,
+    "Weight": 280,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 50
+    },
+    "Description": "The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low.",
+    "Evolution Chain": {
+        "Mudkip": {
+            "Marshtomp": {
+                "Swampert": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

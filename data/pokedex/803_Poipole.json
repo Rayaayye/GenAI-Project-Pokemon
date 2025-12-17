@@ -1,0 +1,34 @@
+{
+    "Name": "Poipole",
+    "Types": [
+        "poison"
+    ],
+    "Height": 6,
+    "Weight": 18,
+    "Stats": {
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "special-attack": 73,
+        "special-defense": 67,
+        "speed": 73
+    },
+    "Description": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+    "Evolution Chain": {
+        "Poipole": {
+            "Naganadel": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

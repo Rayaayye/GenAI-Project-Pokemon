@@ -1,0 +1,45 @@
+{
+    "Name": "Hakamo-o",
+    "Types": [
+        "dragon",
+        "fighting"
+    ],
+    "Height": 12,
+    "Weight": 470,
+    "Stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 90,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 65
+    },
+    "Description": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+    "Evolution Chain": {
+        "Jangmo-o": {
+            "Hakamo-o": {
+                "Kommo-o": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "fairy",
+        "ghost"
+    ]
+}

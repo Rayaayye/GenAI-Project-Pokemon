@@ -1,0 +1,29 @@
+{
+    "Name": "Lopunny",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 333,
+    "Stats": {
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "special-attack": 54,
+        "special-defense": 96,
+        "speed": 105
+    },
+    "Description": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+    "Evolution Chain": {
+        "Buneary": {
+            "Lopunny": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

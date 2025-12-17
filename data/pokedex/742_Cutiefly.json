@@ -1,0 +1,40 @@
+{
+    "Name": "Cutiefly",
+    "Types": [
+        "bug",
+        "fairy"
+    ],
+    "Height": 1,
+    "Weight": 2,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 55,
+        "special-defense": 40,
+        "speed": 84
+    },
+    "Description": "It feeds on the nectar and pollen of flowers. Because it’s able to sense auras, it can identify which flowers are about to bloom.",
+    "Evolution Chain": {
+        "Cutiefly": {
+            "Ribombee": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "poison",
+        "flying",
+        "steel",
+        "rock"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

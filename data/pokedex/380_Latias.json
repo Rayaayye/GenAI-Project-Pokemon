@@ -1,0 +1,41 @@
+{
+    "Name": "Latias",
+    "Types": [
+        "dragon",
+        "psychic"
+    ],
+    "Height": 14,
+    "Weight": 400,
+    "Stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 110,
+        "special-defense": 130,
+        "speed": 110
+    },
+    "Description": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
+    "Evolution Chain": {
+        "Latias": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark",
+        "fairy"
+    ]
+}

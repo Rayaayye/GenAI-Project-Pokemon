@@ -1,0 +1,35 @@
+{
+    "Name": "Dewott",
+    "Types": [
+        "water"
+    ],
+    "Height": 8,
+    "Weight": 245,
+    "Stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 83,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "Description": "Strict training is how it learns its flowing double-scalchop technique.",
+    "Evolution Chain": {
+        "Oshawott": {
+            "Dewott": {
+                "Samurott": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

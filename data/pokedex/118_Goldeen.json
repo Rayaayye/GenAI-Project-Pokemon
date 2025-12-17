@@ -1,0 +1,33 @@
+{
+    "Name": "Goldeen",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 150,
+    "Stats": {
+        "hp": 45,
+        "attack": 67,
+        "defense": 60,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 63
+    },
+    "Description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+    "Evolution Chain": {
+        "Goldeen": {
+            "Seaking": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Tyrunt",
+    "Types": [
+        "rock",
+        "dragon"
+    ],
+    "Height": 8,
+    "Weight": 260,
+    "Stats": {
+        "hp": 58,
+        "attack": 89,
+        "defense": 77,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 48
+    },
+    "Description": "This Pokémon was restored from a fossil. If something happens that it doesn’t like, it throws a tantrum and runs wild.",
+    "Evolution Chain": {
+        "Tyrunt": {
+            "Tyrantrum": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "dragon",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Electivire",
+    "Types": [
+        "electric"
+    ],
+    "Height": 18,
+    "Weight": 1386,
+    "Stats": {
+        "hp": 75,
+        "attack": 123,
+        "defense": 67,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 95
+    },
+    "Description": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+    "Evolution Chain": {
+        "Elekid": {
+            "Electabuzz": {
+                "Electivire": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

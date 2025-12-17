@@ -1,0 +1,39 @@
+{
+    "Name": "Masquerain",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 36,
+    "Stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 62,
+        "special-attack": 100,
+        "special-defense": 82,
+        "speed": 80
+    },
+    "Description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
+    "Evolution Chain": {
+        "Surskit": {
+            "Masquerain": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

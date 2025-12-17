@@ -1,0 +1,35 @@
+{
+    "Name": "Oranguru",
+    "Types": [
+        "normal",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 760,
+    "Stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 110,
+        "speed": 60
+    },
+    "Description": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it’s best suited to veteran Trainers.",
+    "Evolution Chain": {
+        "Oranguru": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

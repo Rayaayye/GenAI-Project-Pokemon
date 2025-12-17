@@ -1,0 +1,38 @@
+{
+    "Name": "Thundurus-incarnate",
+    "Types": [
+        "electric",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 610,
+    "Stats": {
+        "hp": 79,
+        "attack": 115,
+        "defense": 70,
+        "special-attack": 125,
+        "special-defense": 80,
+        "speed": 111
+    },
+    "Description": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+    "Evolution Chain": {
+        "Thundurus": {}
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Stoutland",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 610,
+    "Stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 90,
+        "special-attack": 45,
+        "special-defense": 90,
+        "speed": 80
+    },
+    "Description": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+    "Evolution Chain": {
+        "Lillipup": {
+            "Herdier": {
+                "Stoutland": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

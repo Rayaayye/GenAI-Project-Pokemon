@@ -1,0 +1,38 @@
+{
+    "Name": "Jangmo-o",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 6,
+    "Weight": 297,
+    "Stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 65,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "Description": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+    "Evolution Chain": {
+        "Jangmo-o": {
+            "Hakamo-o": {
+                "Kommo-o": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

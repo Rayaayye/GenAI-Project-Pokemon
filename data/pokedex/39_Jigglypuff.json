@@ -1,0 +1,39 @@
+{
+    "Name": "Jigglypuff",
+    "Types": [
+        "normal",
+        "fairy"
+    ],
+    "Height": 5,
+    "Weight": 55,
+    "Stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "special-attack": 45,
+        "special-defense": 25,
+        "speed": 20
+    },
+    "Description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "Evolution Chain": {
+        "Igglybuff": {
+            "Jigglypuff": {
+                "Wigglytuff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "steel",
+        "poison"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "ghost"
+    ]
+}

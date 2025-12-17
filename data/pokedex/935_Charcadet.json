@@ -1,0 +1,37 @@
+{
+    "Name": "Charcadet",
+    "Types": [
+        "fire"
+    ],
+    "Height": 6,
+    "Weight": 105,
+    "Stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 35
+    },
+    "Description": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "Evolution Chain": {
+        "Charcadet": {
+            "Armarouge": {},
+            "Ceruledge": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

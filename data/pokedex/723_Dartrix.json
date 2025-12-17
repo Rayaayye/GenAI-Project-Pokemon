@@ -1,0 +1,45 @@
+{
+    "Name": "Dartrix",
+    "Types": [
+        "grass",
+        "flying"
+    ],
+    "Height": 7,
+    "Weight": 160,
+    "Stats": {
+        "hp": 78,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 52
+    },
+    "Description": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+    "Evolution Chain": {
+        "Rowlet": {
+            "Dartrix": {
+                "Decidueye": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

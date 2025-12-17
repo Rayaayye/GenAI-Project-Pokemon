@@ -1,0 +1,38 @@
+{
+    "Name": "Braviary",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 410,
+    "Stats": {
+        "hp": 100,
+        "attack": 123,
+        "defense": 75,
+        "special-attack": 57,
+        "special-defense": 75,
+        "speed": 80
+    },
+    "Description": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+    "Evolution Chain": {
+        "Rufflet": {
+            "Braviary": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

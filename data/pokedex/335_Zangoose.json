@@ -1,0 +1,27 @@
+{
+    "Name": "Zangoose",
+    "Types": [
+        "normal"
+    ],
+    "Height": 13,
+    "Weight": 403,
+    "Stats": {
+        "hp": 73,
+        "attack": 115,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 90
+    },
+    "Description": "Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE’s body. This POKéMON adroitly dodges attacks with incredible agility.",
+    "Evolution Chain": {
+        "Zangoose": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

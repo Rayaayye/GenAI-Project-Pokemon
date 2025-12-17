@@ -1,0 +1,41 @@
+{
+    "Name": "Tirtouga",
+    "Types": [
+        "water",
+        "rock"
+    ],
+    "Height": 7,
+    "Weight": 165,
+    "Stats": {
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "special-attack": 53,
+        "special-defense": 45,
+        "speed": 22
+    },
+    "Description": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+    "Evolution Chain": {
+        "Tirtouga": {
+            "Carracosta": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

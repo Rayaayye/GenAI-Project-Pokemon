@@ -1,0 +1,47 @@
+{
+    "Name": "Bronzong",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 13,
+    "Weight": 1870,
+    "Stats": {
+        "hp": 67,
+        "attack": 89,
+        "defense": 116,
+        "special-attack": 79,
+        "special-defense": 116,
+        "speed": 33
+    },
+    "Description": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+    "Evolution Chain": {
+        "Bronzor": {
+            "Bronzong": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

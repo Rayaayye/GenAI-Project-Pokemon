@@ -1,0 +1,40 @@
+{
+    "Name": "Pidgey",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 18,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 56
+    },
+    "Description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "Evolution Chain": {
+        "Pidgey": {
+            "Pidgeotto": {
+                "Pidgeot": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Duraludon",
+    "Types": [
+        "steel",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 400,
+    "Stats": {
+        "hp": 70,
+        "attack": 95,
+        "defense": 115,
+        "special-attack": 120,
+        "special-defense": 50,
+        "speed": 85
+    },
+    "Description": "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",
+    "Evolution Chain": {
+        "Duraludon": {
+            "Archaludon": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

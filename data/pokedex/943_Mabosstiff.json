@@ -1,0 +1,32 @@
+{
+    "Name": "Mabosstiff",
+    "Types": [
+        "dark"
+    ],
+    "Height": 11,
+    "Weight": 610,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 90,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 85
+    },
+    "Description": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+    "Evolution Chain": {
+        "Maschiff": {
+            "Mabosstiff": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

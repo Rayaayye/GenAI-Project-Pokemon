@@ -1,0 +1,37 @@
+{
+    "Name": "Snom",
+    "Types": [
+        "ice",
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 38,
+    "Stats": {
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "special-attack": 45,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "Description": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+    "Evolution Chain": {
+        "Snom": {
+            "Frosmoth": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "ice",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

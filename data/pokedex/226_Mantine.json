@@ -1,0 +1,41 @@
+{
+    "Name": "Mantine",
+    "Types": [
+        "water",
+        "flying"
+    ],
+    "Height": 21,
+    "Weight": 2200,
+    "Stats": {
+        "hp": 85,
+        "attack": 40,
+        "defense": 70,
+        "special-attack": 80,
+        "special-defense": 140,
+        "speed": 70
+    },
+    "Description": "As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers.",
+    "Evolution Chain": {
+        "Mantyke": {
+            "Mantine": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

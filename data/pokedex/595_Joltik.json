@@ -1,0 +1,40 @@
+{
+    "Name": "Joltik",
+    "Types": [
+        "bug",
+        "electric"
+    ],
+    "Height": 1,
+    "Weight": 6,
+    "Stats": {
+        "hp": 50,
+        "attack": 47,
+        "defense": 50,
+        "special-attack": 57,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "Description": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+    "Evolution Chain": {
+        "Joltik": {
+            "Galvantula": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "flying",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Natu",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 2,
+    "Weight": 20,
+    "Stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 70,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "Description": "Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something.",
+    "Evolution Chain": {
+        "Natu": {
+            "Xatu": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

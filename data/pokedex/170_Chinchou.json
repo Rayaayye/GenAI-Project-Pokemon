@@ -1,0 +1,39 @@
+{
+    "Name": "Chinchou",
+    "Types": [
+        "water",
+        "electric"
+    ],
+    "Height": 5,
+    "Weight": 120,
+    "Stats": {
+        "hp": 75,
+        "attack": 38,
+        "defense": 38,
+        "special-attack": 56,
+        "special-defense": 56,
+        "speed": 67
+    },
+    "Description": "Chinchou blink their shining antennae at one another to claim their respective turf.",
+    "Evolution Chain": {
+        "Chinchou": {
+            "Lanturn": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

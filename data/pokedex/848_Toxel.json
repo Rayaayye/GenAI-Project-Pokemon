@@ -1,0 +1,40 @@
+{
+    "Name": "Toxel",
+    "Types": [
+        "electric",
+        "poison"
+    ],
+    "Height": 4,
+    "Weight": 110,
+    "Stats": {
+        "hp": 40,
+        "attack": 38,
+        "defense": 35,
+        "special-attack": 54,
+        "special-defense": 35,
+        "speed": 40
+    },
+    "Description": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
+    "Evolution Chain": {
+        "Toxel": {
+            "Toxtricity": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "steel",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

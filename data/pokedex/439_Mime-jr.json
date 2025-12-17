@@ -1,0 +1,42 @@
+{
+    "Name": "Mime-jr",
+    "Types": [
+        "psychic",
+        "fairy"
+    ],
+    "Height": 6,
+    "Weight": 130,
+    "Stats": {
+        "hp": 20,
+        "attack": 25,
+        "defense": 45,
+        "special-attack": 70,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "Description": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+    "Evolution Chain": {
+        "Mime-jr": {
+            "Mr-mime": {
+                "Mr-rime": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Trevenant",
+    "Types": [
+        "ghost",
+        "grass"
+    ],
+    "Height": 15,
+    "Weight": 710,
+    "Stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 76,
+        "special-attack": 65,
+        "special-defense": 82,
+        "speed": 56
+    },
+    "Description": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
+    "Evolution Chain": {
+        "Phantump": {
+            "Trevenant": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Goomy",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 3,
+    "Weight": 28,
+    "Stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "special-attack": 55,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "Description": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out.",
+    "Evolution Chain": {
+        "Goomy": {
+            "Sliggoo": {
+                "Goodra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

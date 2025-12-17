@@ -1,0 +1,38 @@
+{
+    "Name": "Chimchar",
+    "Types": [
+        "fire"
+    ],
+    "Height": 5,
+    "Weight": 62,
+    "Stats": {
+        "hp": 44,
+        "attack": 58,
+        "defense": 44,
+        "special-attack": 58,
+        "special-defense": 44,
+        "speed": 61
+    },
+    "Description": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+    "Evolution Chain": {
+        "Chimchar": {
+            "Monferno": {
+                "Infernape": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

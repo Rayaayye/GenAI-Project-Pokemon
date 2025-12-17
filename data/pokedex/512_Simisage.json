@@ -1,0 +1,36 @@
+{
+    "Name": "Simisage",
+    "Types": [
+        "grass"
+    ],
+    "Height": 11,
+    "Weight": 305,
+    "Stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 98,
+        "special-defense": 63,
+        "speed": 101
+    },
+    "Description": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+    "Evolution Chain": {
+        "Pansage": {
+            "Simisage": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

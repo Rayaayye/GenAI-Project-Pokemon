@@ -1,0 +1,33 @@
+{
+    "Name": "Tarountula",
+    "Types": [
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 40,
+    "Stats": {
+        "hp": 35,
+        "attack": 41,
+        "defense": 45,
+        "special-attack": 29,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "Description": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+    "Evolution Chain": {
+        "Tarountula": {
+            "Spidops": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

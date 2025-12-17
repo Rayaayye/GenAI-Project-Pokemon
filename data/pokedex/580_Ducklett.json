@@ -1,0 +1,41 @@
+{
+    "Name": "Ducklett",
+    "Types": [
+        "water",
+        "flying"
+    ],
+    "Height": 5,
+    "Weight": 55,
+    "Stats": {
+        "hp": 62,
+        "attack": 44,
+        "defense": 50,
+        "special-attack": 44,
+        "special-defense": 50,
+        "speed": 55
+    },
+    "Description": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+    "Evolution Chain": {
+        "Ducklett": {
+            "Swanna": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

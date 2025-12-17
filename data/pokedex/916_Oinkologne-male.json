@@ -1,0 +1,29 @@
+{
+    "Name": "Oinkologne-male",
+    "Types": [
+        "normal"
+    ],
+    "Height": 10,
+    "Weight": 1200,
+    "Stats": {
+        "hp": 110,
+        "attack": 100,
+        "defense": 75,
+        "special-attack": 59,
+        "special-defense": 80,
+        "speed": 65
+    },
+    "Description": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+    "Evolution Chain": {
+        "Lechonk": {
+            "Oinkologne": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

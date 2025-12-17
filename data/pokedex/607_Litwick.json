@@ -1,0 +1,44 @@
+{
+    "Name": "Litwick",
+    "Types": [
+        "ghost",
+        "fire"
+    ],
+    "Height": 3,
+    "Weight": 31,
+    "Stats": {
+        "hp": 50,
+        "attack": 30,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 20
+    },
+    "Description": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+    "Evolution Chain": {
+        "Litwick": {
+            "Lampent": {
+                "Chandelure": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "water",
+        "rock",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Bouffalant",
+    "Types": [
+        "normal"
+    ],
+    "Height": 16,
+    "Weight": 946,
+    "Stats": {
+        "hp": 95,
+        "attack": 110,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 95,
+        "speed": 55
+    },
+    "Description": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+    "Evolution Chain": {
+        "Bouffalant": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

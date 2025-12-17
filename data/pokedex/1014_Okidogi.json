@@ -1,0 +1,39 @@
+{
+    "Name": "Okidogi",
+    "Types": [
+        "poison",
+        "fighting"
+    ],
+    "Height": 18,
+    "Weight": 922,
+    "Stats": {
+        "hp": 88,
+        "attack": 128,
+        "defense": 115,
+        "special-attack": 58,
+        "special-defense": 86,
+        "speed": 80
+    },
+    "Description": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
+    "Evolution Chain": {
+        "Okidogi": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Blacephalon",
+    "Types": [
+        "fire",
+        "ghost"
+    ],
+    "Height": 18,
+    "Weight": 130,
+    "Stats": {
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "special-attack": 151,
+        "special-defense": 79,
+        "speed": 107
+    },
+    "Description": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
+    "Evolution Chain": {
+        "Blacephalon": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "rock",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

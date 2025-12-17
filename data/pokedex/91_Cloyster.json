@@ -1,0 +1,38 @@
+{
+    "Name": "Cloyster",
+    "Types": [
+        "water",
+        "ice"
+    ],
+    "Height": 15,
+    "Weight": 1325,
+    "Stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 180,
+        "special-attack": 85,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "Description": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "Evolution Chain": {
+        "Shellder": {
+            "Cloyster": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

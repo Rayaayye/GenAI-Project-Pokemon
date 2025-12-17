@@ -1,0 +1,41 @@
+{
+    "Name": "Tentacool",
+    "Types": [
+        "water",
+        "poison"
+    ],
+    "Height": 9,
+    "Weight": 455,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "special-attack": 50,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "Description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+    "Evolution Chain": {
+        "Tentacool": {
+            "Tentacruel": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

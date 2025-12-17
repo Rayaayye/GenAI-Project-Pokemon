@@ -1,0 +1,42 @@
+{
+    "Name": "Crobat",
+    "Types": [
+        "poison",
+        "flying"
+    ],
+    "Height": 18,
+    "Weight": 750,
+    "Stats": {
+        "hp": 85,
+        "attack": 90,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 130
+    },
+    "Description": "It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby.",
+    "Evolution Chain": {
+        "Zubat": {
+            "Golbat": {
+                "Crobat": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ice",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

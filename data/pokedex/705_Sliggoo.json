@@ -1,0 +1,38 @@
+{
+    "Name": "Sliggoo",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 8,
+    "Weight": 175,
+    "Stats": {
+        "hp": 68,
+        "attack": 75,
+        "defense": 53,
+        "special-attack": 83,
+        "special-defense": 113,
+        "speed": 60
+    },
+    "Description": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
+    "Evolution Chain": {
+        "Goomy": {
+            "Sliggoo": {
+                "Goodra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

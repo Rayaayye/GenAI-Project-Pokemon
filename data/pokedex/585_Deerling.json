@@ -1,0 +1,40 @@
+{
+    "Name": "Deerling",
+    "Types": [
+        "normal",
+        "grass"
+    ],
+    "Height": 6,
+    "Weight": 195,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "Description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+    "Evolution Chain": {
+        "Deerling": {
+            "Sawsbuck": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

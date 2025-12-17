@@ -1,0 +1,39 @@
+{
+    "Name": "Parasect",
+    "Types": [
+        "bug",
+        "grass"
+    ],
+    "Height": 10,
+    "Weight": 295,
+    "Stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "Description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+    "Evolution Chain": {
+        "Paras": {
+            "Parasect": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

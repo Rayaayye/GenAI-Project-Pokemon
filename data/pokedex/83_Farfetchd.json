@@ -1,0 +1,38 @@
+{
+    "Name": "Farfetchd",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 150,
+    "Stats": {
+        "hp": 52,
+        "attack": 90,
+        "defense": 55,
+        "special-attack": 58,
+        "special-defense": 62,
+        "speed": 60
+    },
+    "Description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+    "Evolution Chain": {
+        "Farfetchd": {
+            "Sirfetchd": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

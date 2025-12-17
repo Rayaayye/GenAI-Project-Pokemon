@@ -1,0 +1,42 @@
+{
+    "Name": "Slowbro",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 16,
+    "Weight": 785,
+    "Stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 110,
+        "special-attack": 100,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "Description": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+    "Evolution Chain": {
+        "Slowpoke": {
+            "Slowbro": {},
+            "Slowking": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

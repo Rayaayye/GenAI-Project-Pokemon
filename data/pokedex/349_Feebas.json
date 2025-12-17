@@ -1,0 +1,33 @@
+{
+    "Name": "Feebas",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 74,
+    "Stats": {
+        "hp": 20,
+        "attack": 15,
+        "defense": 20,
+        "special-attack": 10,
+        "special-defense": 55,
+        "speed": 80
+    },
+    "Description": "FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
+    "Evolution Chain": {
+        "Feebas": {
+            "Milotic": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Genesect",
+    "Types": [
+        "bug",
+        "steel"
+    ],
+    "Height": 15,
+    "Weight": 825,
+    "Stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special-attack": 120,
+        "special-defense": 95,
+        "speed": 99
+    },
+    "Description": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+    "Evolution Chain": {
+        "Genesect": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

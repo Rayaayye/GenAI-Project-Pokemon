@@ -1,0 +1,37 @@
+{
+    "Name": "Bewear",
+    "Types": [
+        "normal",
+        "fighting"
+    ],
+    "Height": 21,
+    "Weight": 1350,
+    "Stats": {
+        "hp": 120,
+        "attack": 125,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 60
+    },
+    "Description": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+    "Evolution Chain": {
+        "Stufful": {
+            "Bewear": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "flying",
+        "fairy",
+        "psychic"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

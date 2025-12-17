@@ -1,0 +1,35 @@
+{
+    "Name": "Hariyama",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 23,
+    "Weight": 2538,
+    "Stats": {
+        "hp": 144,
+        "attack": 120,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "Description": "It has the habit of challenging others without hesitation to tests of strength. It’s been known to stand on train tracks and stop trains using forearm thrusts.",
+    "Evolution Chain": {
+        "Makuhita": {
+            "Hariyama": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

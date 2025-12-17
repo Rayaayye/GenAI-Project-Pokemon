@@ -1,0 +1,38 @@
+{
+    "Name": "Magmar",
+    "Types": [
+        "fire"
+    ],
+    "Height": 13,
+    "Weight": 445,
+    "Stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 57,
+        "special-attack": 100,
+        "special-defense": 85,
+        "speed": 93
+    },
+    "Description": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+    "Evolution Chain": {
+        "Magby": {
+            "Magmar": {
+                "Magmortar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

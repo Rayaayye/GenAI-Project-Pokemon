@@ -1,0 +1,40 @@
+{
+    "Name": "Ho-oh",
+    "Types": [
+        "fire",
+        "flying"
+    ],
+    "Height": 38,
+    "Weight": 1990,
+    "Stats": {
+        "hp": 106,
+        "attack": 130,
+        "defense": 90,
+        "special-attack": 110,
+        "special-defense": 154,
+        "speed": 90
+    },
+    "Description": "Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings.",
+    "Evolution Chain": {
+        "Ho-oh": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

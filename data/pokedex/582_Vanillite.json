@@ -1,0 +1,34 @@
+{
+    "Name": "Vanillite",
+    "Types": [
+        "ice"
+    ],
+    "Height": 4,
+    "Weight": 57,
+    "Stats": {
+        "hp": 36,
+        "attack": 50,
+        "defense": 50,
+        "special-attack": 65,
+        "special-defense": 60,
+        "speed": 44
+    },
+    "Description": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
+    "Evolution Chain": {
+        "Vanillite": {
+            "Vanillish": {
+                "Vanilluxe": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

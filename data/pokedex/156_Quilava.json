@@ -1,0 +1,38 @@
+{
+    "Name": "Quilava",
+    "Types": [
+        "fire"
+    ],
+    "Height": 9,
+    "Weight": 190,
+    "Stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "special-attack": 80,
+        "special-defense": 65,
+        "speed": 80
+    },
+    "Description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+    "Evolution Chain": {
+        "Cyndaquil": {
+            "Quilava": {
+                "Typhlosion": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

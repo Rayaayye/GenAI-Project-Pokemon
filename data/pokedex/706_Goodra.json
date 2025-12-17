@@ -1,0 +1,38 @@
+{
+    "Name": "Goodra",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 20,
+    "Weight": 1505,
+    "Stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 110,
+        "special-defense": 150,
+        "speed": 80
+    },
+    "Description": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+    "Evolution Chain": {
+        "Goomy": {
+            "Sliggoo": {
+                "Goodra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

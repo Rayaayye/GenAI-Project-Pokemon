@@ -1,0 +1,38 @@
+{
+    "Name": "Tsareena",
+    "Types": [
+        "grass"
+    ],
+    "Height": 12,
+    "Weight": 214,
+    "Stats": {
+        "hp": 72,
+        "attack": 120,
+        "defense": 98,
+        "special-attack": 50,
+        "special-defense": 98,
+        "speed": 72
+    },
+    "Description": "Its long, striking legs aren’t just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+    "Evolution Chain": {
+        "Bounsweet": {
+            "Steenee": {
+                "Tsareena": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

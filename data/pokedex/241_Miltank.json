@@ -1,0 +1,27 @@
+{
+    "Name": "Miltank",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 755,
+    "Stats": {
+        "hp": 95,
+        "attack": 80,
+        "defense": 105,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 100
+    },
+    "Description": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+    "Evolution Chain": {
+        "Miltank": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

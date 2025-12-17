@@ -1,0 +1,49 @@
+{
+    "Name": "Metagross",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 16,
+    "Weight": 5500,
+    "Stats": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 130,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 70
+    },
+    "Description": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs.",
+    "Evolution Chain": {
+        "Beldum": {
+            "Metang": {
+                "Metagross": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

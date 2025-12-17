@@ -1,0 +1,40 @@
+{
+    "Name": "Araquanid",
+    "Types": [
+        "water",
+        "bug"
+    ],
+    "Height": 18,
+    "Weight": 820,
+    "Stats": {
+        "hp": 68,
+        "attack": 70,
+        "defense": 92,
+        "special-attack": 50,
+        "special-defense": 132,
+        "speed": 42
+    },
+    "Description": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+    "Evolution Chain": {
+        "Dewpider": {
+            "Araquanid": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "rock"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

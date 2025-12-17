@@ -1,0 +1,33 @@
+{
+    "Name": "Wailmer",
+    "Types": [
+        "water"
+    ],
+    "Height": 20,
+    "Weight": 1300,
+    "Stats": {
+        "hp": 130,
+        "attack": 70,
+        "defense": 35,
+        "special-attack": 70,
+        "special-defense": 35,
+        "speed": 60
+    },
+    "Description": "WAILMER’s nostrils are located above its eyes. This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
+    "Evolution Chain": {
+        "Wailmer": {
+            "Wailord": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

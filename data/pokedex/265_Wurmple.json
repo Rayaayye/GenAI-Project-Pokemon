@@ -1,0 +1,38 @@
+{
+    "Name": "Wurmple",
+    "Types": [
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 36,
+    "Stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "Description": "Using the spikes on its rear end,   WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+    "Evolution Chain": {
+        "Wurmple": {
+            "Silcoon": {
+                "Beautifly": {}
+            },
+            "Cascoon": {
+                "Dustox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

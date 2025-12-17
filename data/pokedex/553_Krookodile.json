@@ -1,0 +1,42 @@
+{
+    "Name": "Krookodile",
+    "Types": [
+        "ground",
+        "dark"
+    ],
+    "Height": 15,
+    "Weight": 963,
+    "Stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 80,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 92
+    },
+    "Description": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+    "Evolution Chain": {
+        "Sandile": {
+            "Krokorok": {
+                "Krookodile": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "grass",
+        "ice",
+        "water",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "ghost"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

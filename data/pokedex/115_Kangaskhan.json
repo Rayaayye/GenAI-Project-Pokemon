@@ -1,0 +1,27 @@
+{
+    "Name": "Kangaskhan",
+    "Types": [
+        "normal"
+    ],
+    "Height": 22,
+    "Weight": 800,
+    "Stats": {
+        "hp": 105,
+        "attack": 95,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 80,
+        "speed": 90
+    },
+    "Description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+    "Evolution Chain": {
+        "Kangaskhan": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

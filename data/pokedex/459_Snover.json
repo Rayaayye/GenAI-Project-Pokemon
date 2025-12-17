@@ -1,0 +1,41 @@
+{
+    "Name": "Snover",
+    "Types": [
+        "grass",
+        "ice"
+    ],
+    "Height": 10,
+    "Weight": 505,
+    "Stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 50,
+        "special-attack": 62,
+        "special-defense": 60,
+        "speed": 40
+    },
+    "Description": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+    "Evolution Chain": {
+        "Snover": {
+            "Abomasnow": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Immunities": []
+}

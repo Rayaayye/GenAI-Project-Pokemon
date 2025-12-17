@@ -1,0 +1,40 @@
+{
+    "Name": "Cufant",
+    "Types": [
+        "steel"
+    ],
+    "Height": 12,
+    "Weight": 1000,
+    "Stats": {
+        "hp": 72,
+        "attack": 80,
+        "defense": 49,
+        "special-attack": 40,
+        "special-defense": 49,
+        "speed": 40
+    },
+    "Description": "It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.",
+    "Evolution Chain": {
+        "Cufant": {
+            "Copperajah": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

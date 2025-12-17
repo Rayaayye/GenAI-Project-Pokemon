@@ -1,0 +1,48 @@
+{
+    "Name": "Aegislash-shield",
+    "Types": [
+        "steel",
+        "ghost"
+    ],
+    "Height": 17,
+    "Weight": 530,
+    "Stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 140,
+        "special-attack": 50,
+        "special-defense": 140,
+        "speed": 60
+    },
+    "Description": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.",
+    "Evolution Chain": {
+        "Honedge": {
+            "Doublade": {
+                "Aegislash": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Carvanha",
+    "Types": [
+        "water",
+        "dark"
+    ],
+    "Height": 8,
+    "Weight": 208,
+    "Stats": {
+        "hp": 45,
+        "attack": 90,
+        "defense": 20,
+        "special-attack": 65,
+        "special-defense": 20,
+        "speed": 65
+    },
+    "Description": "CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
+    "Evolution Chain": {
+        "Carvanha": {
+            "Sharpedo": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "grass",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Immunities": []
+}

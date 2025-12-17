@@ -1,0 +1,31 @@
+{
+    "Name": "Vigoroth",
+    "Types": [
+        "normal"
+    ],
+    "Height": 14,
+    "Weight": 465,
+    "Stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "Description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly.",
+    "Evolution Chain": {
+        "Slakoth": {
+            "Vigoroth": {
+                "Slaking": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

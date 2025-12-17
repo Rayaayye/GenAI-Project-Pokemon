@@ -1,0 +1,38 @@
+{
+    "Name": "Haxorus",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 1055,
+    "Stats": {
+        "hp": 76,
+        "attack": 147,
+        "defense": 90,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 97
+    },
+    "Description": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+    "Evolution Chain": {
+        "Axew": {
+            "Fraxure": {
+                "Haxorus": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Orbeetle",
+    "Types": [
+        "bug",
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 408,
+    "Stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 110,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 90
+    },
+    "Description": "It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+    "Evolution Chain": {
+        "Blipbug": {
+            "Dottler": {
+                "Orbeetle": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "flying",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

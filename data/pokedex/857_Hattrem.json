@@ -1,0 +1,36 @@
+{
+    "Name": "Hattrem",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 48,
+    "Stats": {
+        "hp": 57,
+        "attack": 40,
+        "defense": 65,
+        "special-attack": 86,
+        "special-defense": 73,
+        "speed": 49
+    },
+    "Description": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+    "Evolution Chain": {
+        "Hatenna": {
+            "Hattrem": {
+                "Hatterene": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

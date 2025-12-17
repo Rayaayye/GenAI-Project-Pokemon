@@ -1,0 +1,41 @@
+{
+    "Name": "Scolipede",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 25,
+    "Weight": 2005,
+    "Stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "special-attack": 55,
+        "special-defense": 69,
+        "speed": 112
+    },
+    "Description": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+    "Evolution Chain": {
+        "Venipede": {
+            "Whirlipede": {
+                "Scolipede": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

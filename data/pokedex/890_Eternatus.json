@@ -1,0 +1,41 @@
+{
+    "Name": "Eternatus",
+    "Types": [
+        "poison",
+        "dragon"
+    ],
+    "Height": 200,
+    "Weight": 9500,
+    "Stats": {
+        "hp": 140,
+        "attack": 85,
+        "defense": 95,
+        "special-attack": 145,
+        "special-defense": 95,
+        "speed": 130
+    },
+    "Description": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "Evolution Chain": {
+        "Eternatus": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

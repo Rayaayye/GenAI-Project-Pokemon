@@ -1,0 +1,36 @@
+{
+    "Name": "Poliwag",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 124,
+    "Stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 90
+    },
+    "Description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "Evolution Chain": {
+        "Poliwag": {
+            "Poliwhirl": {
+                "Poliwrath": {},
+                "Politoed": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

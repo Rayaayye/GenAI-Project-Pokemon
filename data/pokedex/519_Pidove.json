@@ -1,0 +1,40 @@
+{
+    "Name": "Pidove",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 21,
+    "Stats": {
+        "hp": 50,
+        "attack": 55,
+        "defense": 50,
+        "special-attack": 36,
+        "special-defense": 30,
+        "speed": 43
+    },
+    "Description": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
+    "Evolution Chain": {
+        "Pidove": {
+            "Tranquill": {
+                "Unfezant": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

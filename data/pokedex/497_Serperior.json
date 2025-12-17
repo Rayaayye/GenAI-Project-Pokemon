@@ -1,0 +1,38 @@
+{
+    "Name": "Serperior",
+    "Types": [
+        "grass"
+    ],
+    "Height": 33,
+    "Weight": 630,
+    "Stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 95,
+        "special-attack": 75,
+        "special-defense": 95,
+        "speed": 113
+    },
+    "Description": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
+    "Evolution Chain": {
+        "Snivy": {
+            "Servine": {
+                "Serperior": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

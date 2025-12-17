@@ -1,0 +1,40 @@
+{
+    "Name": "Galvantula",
+    "Types": [
+        "bug",
+        "electric"
+    ],
+    "Height": 8,
+    "Weight": 143,
+    "Stats": {
+        "hp": 70,
+        "attack": 77,
+        "defense": 60,
+        "special-attack": 97,
+        "special-defense": 60,
+        "speed": 108
+    },
+    "Description": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+    "Evolution Chain": {
+        "Joltik": {
+            "Galvantula": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "flying",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

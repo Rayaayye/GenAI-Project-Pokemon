@@ -1,0 +1,40 @@
+{
+    "Name": "Starly",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 20,
+    "Stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 60
+    },
+    "Description": "They flock in great numbers. Though small, they flap their wings with great power.",
+    "Evolution Chain": {
+        "Starly": {
+            "Staravia": {
+                "Staraptor": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

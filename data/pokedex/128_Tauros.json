@@ -1,0 +1,27 @@
+{
+    "Name": "Tauros",
+    "Types": [
+        "normal"
+    ],
+    "Height": 14,
+    "Weight": 884,
+    "Stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "special-attack": 40,
+        "special-defense": 70,
+        "speed": 110
+    },
+    "Description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "Evolution Chain": {
+        "Tauros": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

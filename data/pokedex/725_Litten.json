@@ -1,0 +1,38 @@
+{
+    "Name": "Litten",
+    "Types": [
+        "fire"
+    ],
+    "Height": 4,
+    "Weight": 43,
+    "Stats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "special-attack": 60,
+        "special-defense": 40,
+        "speed": 70
+    },
+    "Description": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+    "Evolution Chain": {
+        "Litten": {
+            "Torracat": {
+                "Incineroar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

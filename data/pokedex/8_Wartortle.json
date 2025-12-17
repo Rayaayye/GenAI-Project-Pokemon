@@ -1,0 +1,35 @@
+{
+    "Name": "Wartortle",
+    "Types": [
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 225,
+    "Stats": {
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "special-attack": 65,
+        "special-defense": 80,
+        "speed": 58
+    },
+    "Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+    "Evolution Chain": {
+        "Squirtle": {
+            "Wartortle": {
+                "Blastoise": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

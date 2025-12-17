@@ -1,0 +1,38 @@
+{
+    "Name": "Boldore",
+    "Types": [
+        "rock"
+    ],
+    "Height": 9,
+    "Weight": 1020,
+    "Stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 105,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "Description": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+    "Evolution Chain": {
+        "Roggenrola": {
+            "Boldore": {
+                "Gigalith": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

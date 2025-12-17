@@ -1,0 +1,33 @@
+{
+    "Name": "Mismagius",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 9,
+    "Weight": 44,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 105,
+        "special-defense": 105,
+        "speed": 105
+    },
+    "Description": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+    "Evolution Chain": {
+        "Misdreavus": {
+            "Mismagius": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

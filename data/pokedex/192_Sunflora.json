@@ -1,0 +1,36 @@
+{
+    "Name": "Sunflora",
+    "Types": [
+        "grass"
+    ],
+    "Height": 8,
+    "Weight": 85,
+    "Stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 55,
+        "special-attack": 105,
+        "special-defense": 85,
+        "speed": 30
+    },
+    "Description": "It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still.",
+    "Evolution Chain": {
+        "Sunkern": {
+            "Sunflora": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

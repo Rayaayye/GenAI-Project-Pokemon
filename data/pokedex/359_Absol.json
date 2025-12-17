@@ -1,0 +1,30 @@
+{
+    "Name": "Absol",
+    "Types": [
+        "dark"
+    ],
+    "Height": 12,
+    "Weight": 470,
+    "Stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 60,
+        "speed": 75
+    },
+    "Description": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON.",
+    "Evolution Chain": {
+        "Absol": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

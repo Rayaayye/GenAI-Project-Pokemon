@@ -1,0 +1,32 @@
+{
+    "Name": "Seviper",
+    "Types": [
+        "poison"
+    ],
+    "Height": 27,
+    "Weight": 525,
+    "Stats": {
+        "hp": 73,
+        "attack": 100,
+        "defense": 60,
+        "special-attack": 100,
+        "special-defense": 60,
+        "speed": 65
+    },
+    "Description": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail.",
+    "Evolution Chain": {
+        "Seviper": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

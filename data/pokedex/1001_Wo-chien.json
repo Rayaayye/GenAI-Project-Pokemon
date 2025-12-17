@@ -1,0 +1,39 @@
+{
+    "Name": "Wo-chien",
+    "Types": [
+        "dark",
+        "grass"
+    ],
+    "Height": 15,
+    "Weight": 742,
+    "Stats": {
+        "hp": 85,
+        "attack": 85,
+        "defense": 100,
+        "special-attack": 95,
+        "special-defense": 135,
+        "speed": 70
+    },
+    "Description": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+    "Evolution Chain": {
+        "Wo-chien": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Immunities": []
+}

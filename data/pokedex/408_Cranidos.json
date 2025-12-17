@@ -1,0 +1,36 @@
+{
+    "Name": "Cranidos",
+    "Types": [
+        "rock"
+    ],
+    "Height": 9,
+    "Weight": 315,
+    "Stats": {
+        "hp": 67,
+        "attack": 125,
+        "defense": 40,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 58
+    },
+    "Description": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+    "Evolution Chain": {
+        "Cranidos": {
+            "Rampardos": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

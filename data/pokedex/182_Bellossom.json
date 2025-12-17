@@ -1,0 +1,39 @@
+{
+    "Name": "Bellossom",
+    "Types": [
+        "grass"
+    ],
+    "Height": 4,
+    "Weight": 58,
+    "Stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 95,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 50
+    },
+    "Description": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+    "Evolution Chain": {
+        "Oddish": {
+            "Gloom": {
+                "Vileplume": {},
+                "Bellossom": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

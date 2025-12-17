@@ -1,0 +1,41 @@
+{
+    "Name": "Pelipper",
+    "Types": [
+        "water",
+        "flying"
+    ],
+    "Height": 12,
+    "Weight": 280,
+    "Stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 100,
+        "special-attack": 95,
+        "special-defense": 70,
+        "speed": 65
+    },
+    "Description": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+    "Evolution Chain": {
+        "Wingull": {
+            "Pelipper": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

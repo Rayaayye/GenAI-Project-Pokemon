@@ -1,0 +1,33 @@
+{
+    "Name": "Clawitzer",
+    "Types": [
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 353,
+    "Stats": {
+        "hp": 71,
+        "attack": 73,
+        "defense": 88,
+        "special-attack": 120,
+        "special-defense": 89,
+        "speed": 59
+    },
+    "Description": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
+    "Evolution Chain": {
+        "Clauncher": {
+            "Clawitzer": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

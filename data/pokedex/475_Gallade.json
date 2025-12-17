@@ -1,0 +1,45 @@
+{
+    "Name": "Gallade",
+    "Types": [
+        "psychic",
+        "fighting"
+    ],
+    "Height": 16,
+    "Weight": 520,
+    "Stats": {
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 115,
+        "speed": 80
+    },
+    "Description": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+    "Evolution Chain": {
+        "Ralts": {
+            "Kirlia": {
+                "Gardevoir": {},
+                "Gallade": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "bug",
+        "flying",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

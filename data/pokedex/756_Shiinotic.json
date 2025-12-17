@@ -1,0 +1,43 @@
+{
+    "Name": "Shiinotic",
+    "Types": [
+        "grass",
+        "fairy"
+    ],
+    "Height": 10,
+    "Weight": 115,
+    "Stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 30
+    },
+    "Description": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
+    "Evolution Chain": {
+        "Morelull": {
+            "Shiinotic": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

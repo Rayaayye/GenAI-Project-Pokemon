@@ -1,0 +1,27 @@
+{
+    "Name": "Furfrou",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 280,
+    "Stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 60,
+        "special-attack": 65,
+        "special-defense": 90,
+        "speed": 102
+    },
+    "Description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+    "Evolution Chain": {
+        "Furfrou": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

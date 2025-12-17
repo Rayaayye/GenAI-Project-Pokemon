@@ -1,0 +1,39 @@
+{
+    "Name": "Bruxish",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 9,
+    "Weight": 190,
+    "Stats": {
+        "hp": 68,
+        "attack": 105,
+        "defense": 70,
+        "special-attack": 70,
+        "special-defense": 70,
+        "speed": 92
+    },
+    "Description": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+    "Evolution Chain": {
+        "Bruxish": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

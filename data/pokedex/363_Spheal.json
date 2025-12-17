@@ -1,0 +1,40 @@
+{
+    "Name": "Spheal",
+    "Types": [
+        "ice",
+        "water"
+    ],
+    "Height": 8,
+    "Weight": 395,
+    "Stats": {
+        "hp": 70,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 50,
+        "speed": 25
+    },
+    "Description": "SPHEAL is much faster rolling than  walking to get around. When groups of this POKéMON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+    "Evolution Chain": {
+        "Spheal": {
+            "Sealeo": {
+                "Walrein": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "water",
+        "steel",
+        "ice"
+    ],
+    "Immunities": []
+}

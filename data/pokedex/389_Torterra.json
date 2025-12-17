@@ -1,0 +1,45 @@
+{
+    "Name": "Torterra",
+    "Types": [
+        "grass",
+        "ground"
+    ],
+    "Height": 22,
+    "Weight": 3100,
+    "Stats": {
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 56
+    },
+    "Description": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+    "Evolution Chain": {
+        "Turtwig": {
+            "Grotle": {
+                "Torterra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "ice",
+        "water"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "poison",
+        "water",
+        "rock",
+        "ground"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

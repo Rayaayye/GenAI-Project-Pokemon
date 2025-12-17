@@ -1,0 +1,34 @@
+{
+    "Name": "Spritzee",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 5,
+    "Stats": {
+        "hp": 78,
+        "attack": 52,
+        "defense": 60,
+        "special-attack": 63,
+        "special-defense": 65,
+        "speed": 23
+    },
+    "Description": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+    "Evolution Chain": {
+        "Spritzee": {
+            "Aromatisse": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

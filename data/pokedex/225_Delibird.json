@@ -1,0 +1,38 @@
+{
+    "Name": "Delibird",
+    "Types": [
+        "ice",
+        "flying"
+    ],
+    "Height": 9,
+    "Weight": 160,
+    "Stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 45,
+        "special-attack": 65,
+        "special-defense": 45,
+        "speed": 75
+    },
+    "Description": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+    "Evolution Chain": {
+        "Delibird": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "steel",
+        "ice",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "ice",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

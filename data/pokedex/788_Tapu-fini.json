@@ -1,0 +1,39 @@
+{
+    "Name": "Tapu-fini",
+    "Types": [
+        "water",
+        "fairy"
+    ],
+    "Height": 13,
+    "Weight": 212,
+    "Stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 115,
+        "special-attack": 95,
+        "special-defense": 130,
+        "speed": 85
+    },
+    "Description": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
+    "Evolution Chain": {
+        "Tapu-fini": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "electric",
+        "steel",
+        "grass"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

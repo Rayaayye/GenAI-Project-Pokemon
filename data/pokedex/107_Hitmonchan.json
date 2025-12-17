@@ -1,0 +1,37 @@
+{
+    "Name": "Hitmonchan",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 502,
+    "Stats": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 79,
+        "special-attack": 35,
+        "special-defense": 110,
+        "speed": 76
+    },
+    "Description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "Evolution Chain": {
+        "Tyrogue": {
+            "Hitmonlee": {},
+            "Hitmonchan": {},
+            "Hitmontop": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

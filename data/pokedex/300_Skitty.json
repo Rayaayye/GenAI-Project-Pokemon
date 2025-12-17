@@ -1,0 +1,29 @@
+{
+    "Name": "Skitty",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 110,
+    "Stats": {
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 50
+    },
+    "Description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.",
+    "Evolution Chain": {
+        "Skitty": {
+            "Delcatty": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

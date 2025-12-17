@@ -1,0 +1,41 @@
+{
+    "Name": "Croagunk",
+    "Types": [
+        "poison",
+        "fighting"
+    ],
+    "Height": 7,
+    "Weight": 230,
+    "Stats": {
+        "hp": 48,
+        "attack": 61,
+        "defense": 40,
+        "special-attack": 61,
+        "special-defense": 40,
+        "speed": 50
+    },
+    "Description": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+    "Evolution Chain": {
+        "Croagunk": {
+            "Toxicroak": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

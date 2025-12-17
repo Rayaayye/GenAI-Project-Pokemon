@@ -1,0 +1,37 @@
+{
+    "Name": "Stufful",
+    "Types": [
+        "normal",
+        "fighting"
+    ],
+    "Height": 5,
+    "Weight": 68,
+    "Stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 50,
+        "speed": 50
+    },
+    "Description": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+    "Evolution Chain": {
+        "Stufful": {
+            "Bewear": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "flying",
+        "fairy",
+        "psychic"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

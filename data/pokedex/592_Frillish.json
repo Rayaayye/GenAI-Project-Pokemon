@@ -1,0 +1,40 @@
+{
+    "Name": "Frillish",
+    "Types": [
+        "water",
+        "ghost"
+    ],
+    "Height": 12,
+    "Weight": 330,
+    "Stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 65,
+        "special-defense": 85,
+        "speed": 40
+    },
+    "Description": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+    "Evolution Chain": {
+        "Frillish": {
+            "Jellicent": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "ghost",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "poison",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

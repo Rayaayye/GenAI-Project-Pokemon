@@ -1,0 +1,37 @@
+{
+    "Name": "Rookidee",
+    "Types": [
+        "flying"
+    ],
+    "Height": 2,
+    "Weight": 18,
+    "Stats": {
+        "hp": 38,
+        "attack": 47,
+        "defense": 35,
+        "special-attack": 33,
+        "special-defense": 35,
+        "speed": 57
+    },
+    "Description": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",
+    "Evolution Chain": {
+        "Rookidee": {
+            "Corvisquire": {
+                "Corviknight": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

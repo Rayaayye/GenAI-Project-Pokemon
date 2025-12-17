@@ -1,0 +1,27 @@
+{
+    "Name": "Arceus",
+    "Types": [
+        "normal"
+    ],
+    "Height": 32,
+    "Weight": 3200,
+    "Stats": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special-attack": 120,
+        "special-defense": 120,
+        "speed": 120
+    },
+    "Description": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+    "Evolution Chain": {
+        "Arceus": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

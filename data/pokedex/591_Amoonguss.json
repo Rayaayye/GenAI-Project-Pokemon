@@ -1,0 +1,43 @@
+{
+    "Name": "Amoonguss",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 6,
+    "Weight": 105,
+    "Stats": {
+        "hp": 114,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 80,
+        "speed": 30
+    },
+    "Description": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "Evolution Chain": {
+        "Foongus": {
+            "Amoonguss": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

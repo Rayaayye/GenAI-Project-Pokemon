@@ -1,0 +1,29 @@
+{
+    "Name": "Stantler",
+    "Types": [
+        "normal"
+    ],
+    "Height": 14,
+    "Weight": 712,
+    "Stats": {
+        "hp": 73,
+        "attack": 95,
+        "defense": 62,
+        "special-attack": 85,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "The curved antlers subtly change the flow of air to create a strange space where real­ ity is distorted.",
+    "Evolution Chain": {
+        "Stantler": {
+            "Wyrdeer": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

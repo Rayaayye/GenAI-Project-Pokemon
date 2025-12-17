@@ -1,0 +1,38 @@
+{
+    "Name": "Sceptile",
+    "Types": [
+        "grass"
+    ],
+    "Height": 17,
+    "Weight": 522,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "special-attack": 105,
+        "special-defense": 85,
+        "speed": 120
+    },
+    "Description": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+    "Evolution Chain": {
+        "Treecko": {
+            "Grovyle": {
+                "Sceptile": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

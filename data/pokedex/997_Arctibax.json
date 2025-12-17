@@ -1,0 +1,44 @@
+{
+    "Name": "Arctibax",
+    "Types": [
+        "dragon",
+        "ice"
+    ],
+    "Height": 8,
+    "Weight": 300,
+    "Stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 66,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 62
+    },
+    "Description": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+    "Evolution Chain": {
+        "Frigibax": {
+            "Arctibax": {
+                "Baxcalibur": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "steel",
+        "ice",
+        "dragon",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

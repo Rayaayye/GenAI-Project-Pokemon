@@ -1,0 +1,34 @@
+{
+    "Name": "Garbodor",
+    "Types": [
+        "poison"
+    ],
+    "Height": 19,
+    "Weight": 1073,
+    "Stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "special-attack": 60,
+        "special-defense": 82,
+        "speed": 75
+    },
+    "Description": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+    "Evolution Chain": {
+        "Trubbish": {
+            "Garbodor": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

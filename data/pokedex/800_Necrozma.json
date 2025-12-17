@@ -1,0 +1,32 @@
+{
+    "Name": "Necrozma",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 24,
+    "Weight": 2300,
+    "Stats": {
+        "hp": 97,
+        "attack": 107,
+        "defense": 101,
+        "special-attack": 127,
+        "special-defense": 89,
+        "speed": 79
+    },
+    "Description": "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
+    "Evolution Chain": {
+        "Necrozma": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

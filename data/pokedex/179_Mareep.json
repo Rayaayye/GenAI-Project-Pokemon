@@ -1,0 +1,35 @@
+{
+    "Name": "Mareep",
+    "Types": [
+        "electric"
+    ],
+    "Height": 6,
+    "Weight": 78,
+    "Stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 65,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "Description": "If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+    "Evolution Chain": {
+        "Mareep": {
+            "Flaaffy": {
+                "Ampharos": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Tandemaus",
+    "Types": [
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 18,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 45,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 75
+    },
+    "Description": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+    "Evolution Chain": {
+        "Tandemaus": {
+            "Maushold": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

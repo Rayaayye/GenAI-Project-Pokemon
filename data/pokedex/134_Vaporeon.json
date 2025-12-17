@@ -1,0 +1,40 @@
+{
+    "Name": "Vaporeon",
+    "Types": [
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 290,
+    "Stats": {
+        "hp": 130,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 110,
+        "special-defense": 95,
+        "speed": 65
+    },
+    "Description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

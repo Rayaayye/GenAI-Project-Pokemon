@@ -1,0 +1,41 @@
+{
+    "Name": "Latios",
+    "Types": [
+        "dragon",
+        "psychic"
+    ],
+    "Height": 20,
+    "Weight": 600,
+    "Stats": {
+        "hp": 80,
+        "attack": 90,
+        "defense": 80,
+        "special-attack": 130,
+        "special-defense": 110,
+        "speed": 110
+    },
+    "Description": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech.",
+    "Evolution Chain": {
+        "Latios": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark",
+        "fairy"
+    ]
+}

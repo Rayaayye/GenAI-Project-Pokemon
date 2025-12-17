@@ -1,0 +1,39 @@
+{
+    "Name": "Dracozolt",
+    "Types": [
+        "electric",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 1900,
+    "Stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 70,
+        "speed": 75
+    },
+    "Description": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+    "Evolution Chain": {
+        "Dracozolt": {}
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

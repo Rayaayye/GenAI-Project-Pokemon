@@ -1,0 +1,38 @@
+{
+    "Name": "Meltan",
+    "Types": [
+        "steel"
+    ],
+    "Height": 2,
+    "Weight": 80,
+    "Stats": {
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 35,
+        "speed": 34
+    },
+    "Description": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+    "Evolution Chain": {
+        "Meltan": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

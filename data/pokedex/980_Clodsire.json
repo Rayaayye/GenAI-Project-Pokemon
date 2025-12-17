@@ -1,0 +1,42 @@
+{
+    "Name": "Clodsire",
+    "Types": [
+        "poison",
+        "ground"
+    ],
+    "Height": 18,
+    "Weight": 2230,
+    "Stats": {
+        "hp": 130,
+        "attack": 75,
+        "defense": 60,
+        "special-attack": 45,
+        "special-defense": 100,
+        "speed": 20
+    },
+    "Description": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+    "Evolution Chain": {
+        "Wooper": {
+            "Quagsire": {},
+            "Clodsire": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

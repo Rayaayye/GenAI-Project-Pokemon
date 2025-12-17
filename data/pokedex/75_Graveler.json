@@ -1,0 +1,43 @@
+{
+    "Name": "Graveler",
+    "Types": [
+        "rock",
+        "ground"
+    ],
+    "Height": 10,
+    "Weight": 1050,
+    "Stats": {
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "Description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    "Evolution Chain": {
+        "Geodude": {
+            "Graveler": {
+                "Golem": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

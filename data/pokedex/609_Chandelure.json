@@ -1,0 +1,44 @@
+{
+    "Name": "Chandelure",
+    "Types": [
+        "ghost",
+        "fire"
+    ],
+    "Height": 10,
+    "Weight": 343,
+    "Stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 90,
+        "special-attack": 145,
+        "special-defense": 90,
+        "speed": 80
+    },
+    "Description": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+    "Evolution Chain": {
+        "Litwick": {
+            "Lampent": {
+                "Chandelure": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "water",
+        "rock",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Shellder",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 40,
+    "Stats": {
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "special-attack": 45,
+        "special-defense": 25,
+        "speed": 40
+    },
+    "Description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "Evolution Chain": {
+        "Shellder": {
+            "Cloyster": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

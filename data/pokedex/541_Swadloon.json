@@ -1,0 +1,41 @@
+{
+    "Name": "Swadloon",
+    "Types": [
+        "bug",
+        "grass"
+    ],
+    "Height": 5,
+    "Weight": 73,
+    "Stats": {
+        "hp": 55,
+        "attack": 63,
+        "defense": 90,
+        "special-attack": 50,
+        "special-defense": 80,
+        "speed": 42
+    },
+    "Description": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+    "Evolution Chain": {
+        "Sewaddle": {
+            "Swadloon": {
+                "Leavanny": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

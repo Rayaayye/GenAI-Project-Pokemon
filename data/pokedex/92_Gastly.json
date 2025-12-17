@@ -1,0 +1,41 @@
+{
+    "Name": "Gastly",
+    "Types": [
+        "ghost",
+        "poison"
+    ],
+    "Height": 13,
+    "Weight": 1,
+    "Stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 100,
+        "special-defense": 35,
+        "speed": 80
+    },
+    "Description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
+    "Evolution Chain": {
+        "Gastly": {
+            "Haunter": {
+                "Gengar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground",
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

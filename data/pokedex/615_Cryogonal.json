@@ -1,0 +1,30 @@
+{
+    "Name": "Cryogonal",
+    "Types": [
+        "ice"
+    ],
+    "Height": 11,
+    "Weight": 1480,
+    "Stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "special-attack": 95,
+        "special-defense": 135,
+        "speed": 105
+    },
+    "Description": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
+    "Evolution Chain": {
+        "Cryogonal": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

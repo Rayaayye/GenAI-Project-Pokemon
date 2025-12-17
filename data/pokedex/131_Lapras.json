@@ -1,0 +1,36 @@
+{
+    "Name": "Lapras",
+    "Types": [
+        "water",
+        "ice"
+    ],
+    "Height": 25,
+    "Weight": 2200,
+    "Stats": {
+        "hp": 130,
+        "attack": 85,
+        "defense": 80,
+        "special-attack": 85,
+        "special-defense": 95,
+        "speed": 60
+    },
+    "Description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
+    "Evolution Chain": {
+        "Lapras": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

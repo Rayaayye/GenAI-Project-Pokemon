@@ -1,0 +1,38 @@
+{
+    "Name": "Typhlosion",
+    "Types": [
+        "fire"
+    ],
+    "Height": 17,
+    "Weight": 795,
+    "Stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special-attack": 109,
+        "special-defense": 85,
+        "speed": 100
+    },
+    "Description": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+    "Evolution Chain": {
+        "Cyndaquil": {
+            "Quilava": {
+                "Typhlosion": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

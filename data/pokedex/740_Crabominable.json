@@ -1,0 +1,41 @@
+{
+    "Name": "Crabominable",
+    "Types": [
+        "fighting",
+        "ice"
+    ],
+    "Height": 17,
+    "Weight": 1800,
+    "Stats": {
+        "hp": 97,
+        "attack": 132,
+        "defense": 77,
+        "special-attack": 62,
+        "special-defense": 67,
+        "speed": 43
+    },
+    "Description": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
+    "Evolution Chain": {
+        "Crabrawler": {
+            "Crabominable": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "steel",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "ice",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

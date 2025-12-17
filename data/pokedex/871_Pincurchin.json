@@ -1,0 +1,31 @@
+{
+    "Name": "Pincurchin",
+    "Types": [
+        "electric"
+    ],
+    "Height": 3,
+    "Weight": 10,
+    "Stats": {
+        "hp": 48,
+        "attack": 101,
+        "defense": 95,
+        "special-attack": 91,
+        "special-defense": 85,
+        "speed": 15
+    },
+    "Description": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+    "Evolution Chain": {
+        "Pincurchin": {}
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

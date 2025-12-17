@@ -1,0 +1,31 @@
+{
+    "Name": "Slakoth",
+    "Types": [
+        "normal"
+    ],
+    "Height": 8,
+    "Weight": 240,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 30
+    },
+    "Description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON’s sole daily meal consists of just three leaves.",
+    "Evolution Chain": {
+        "Slakoth": {
+            "Vigoroth": {
+                "Slaking": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

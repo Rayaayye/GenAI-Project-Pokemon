@@ -1,0 +1,41 @@
+{
+    "Name": "Sylveon",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 10,
+    "Weight": 235,
+    "Stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 110,
+        "special-defense": 130,
+        "speed": 60
+    },
+    "Description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

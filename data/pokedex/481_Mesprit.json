@@ -1,0 +1,32 @@
+{
+    "Name": "Mesprit",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 3,
+    "Weight": 3,
+    "Stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 105,
+        "special-attack": 105,
+        "special-defense": 105,
+        "speed": 80
+    },
+    "Description": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
+    "Evolution Chain": {
+        "Mesprit": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

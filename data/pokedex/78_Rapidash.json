@@ -1,0 +1,36 @@
+{
+    "Name": "Rapidash",
+    "Types": [
+        "fire"
+    ],
+    "Height": 17,
+    "Weight": 950,
+    "Stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 105
+    },
+    "Description": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
+    "Evolution Chain": {
+        "Ponyta": {
+            "Rapidash": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

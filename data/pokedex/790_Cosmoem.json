@@ -1,0 +1,37 @@
+{
+    "Name": "Cosmoem",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 1,
+    "Weight": 9999,
+    "Stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special-attack": 29,
+        "special-defense": 131,
+        "speed": 37
+    },
+    "Description": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+    "Evolution Chain": {
+        "Cosmog": {
+            "Cosmoem": {
+                "Solgaleo": {},
+                "Lunala": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

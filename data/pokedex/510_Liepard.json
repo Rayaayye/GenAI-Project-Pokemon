@@ -1,0 +1,32 @@
+{
+    "Name": "Liepard",
+    "Types": [
+        "dark"
+    ],
+    "Height": 11,
+    "Weight": 375,
+    "Stats": {
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "special-attack": 88,
+        "special-defense": 50,
+        "speed": 106
+    },
+    "Description": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+    "Evolution Chain": {
+        "Purrloin": {
+            "Liepard": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

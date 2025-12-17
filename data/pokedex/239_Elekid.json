@@ -1,0 +1,35 @@
+{
+    "Name": "Elekid",
+    "Types": [
+        "electric"
+    ],
+    "Height": 6,
+    "Weight": 235,
+    "Stats": {
+        "hp": 45,
+        "attack": 63,
+        "defense": 37,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 95
+    },
+    "Description": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
+    "Evolution Chain": {
+        "Elekid": {
+            "Electabuzz": {
+                "Electivire": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

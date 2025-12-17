@@ -1,0 +1,35 @@
+{
+    "Name": "Shinx",
+    "Types": [
+        "electric"
+    ],
+    "Height": 5,
+    "Weight": 95,
+    "Stats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 34,
+        "special-attack": 40,
+        "special-defense": 34,
+        "speed": 45
+    },
+    "Description": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+    "Evolution Chain": {
+        "Shinx": {
+            "Luxio": {
+                "Luxray": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

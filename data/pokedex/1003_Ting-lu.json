@@ -1,0 +1,38 @@
+{
+    "Name": "Ting-lu",
+    "Types": [
+        "dark",
+        "ground"
+    ],
+    "Height": 27,
+    "Weight": 6997,
+    "Stats": {
+        "hp": 155,
+        "attack": 110,
+        "defense": 125,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "Description": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+    "Evolution Chain": {
+        "Ting-lu": {}
+    },
+    "Weaknesses": [
+        "bug",
+        "grass",
+        "ice",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "ghost"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

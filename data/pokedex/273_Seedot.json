@@ -1,0 +1,38 @@
+{
+    "Name": "Seedot",
+    "Types": [
+        "grass"
+    ],
+    "Height": 5,
+    "Weight": 40,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 30
+    },
+    "Description": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes.",
+    "Evolution Chain": {
+        "Seedot": {
+            "Nuzleaf": {
+                "Shiftry": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

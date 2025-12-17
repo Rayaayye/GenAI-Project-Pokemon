@@ -1,0 +1,44 @@
+{
+    "Name": "Lampent",
+    "Types": [
+        "ghost",
+        "fire"
+    ],
+    "Height": 6,
+    "Weight": 130,
+    "Stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 60,
+        "speed": 55
+    },
+    "Description": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+    "Evolution Chain": {
+        "Litwick": {
+            "Lampent": {
+                "Chandelure": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "water",
+        "rock",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

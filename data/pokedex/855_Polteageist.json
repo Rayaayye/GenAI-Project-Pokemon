@@ -1,0 +1,33 @@
+{
+    "Name": "Polteageist",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 2,
+    "Weight": 4,
+    "Stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 134,
+        "special-defense": 114,
+        "speed": 70
+    },
+    "Description": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
+    "Evolution Chain": {
+        "Sinistea": {
+            "Polteageist": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

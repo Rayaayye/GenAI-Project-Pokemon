@@ -1,0 +1,31 @@
+{
+    "Name": "Whismur",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 163,
+    "Stats": {
+        "hp": 64,
+        "attack": 51,
+        "defense": 23,
+        "special-attack": 51,
+        "special-defense": 23,
+        "speed": 28
+    },
+    "Description": "Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",
+    "Evolution Chain": {
+        "Whismur": {
+            "Loudred": {
+                "Exploud": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

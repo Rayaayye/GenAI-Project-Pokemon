@@ -1,0 +1,39 @@
+{
+    "Name": "Raging-bolt",
+    "Types": [
+        "electric",
+        "dragon"
+    ],
+    "Height": 52,
+    "Weight": 4800,
+    "Stats": {
+        "hp": 125,
+        "attack": 73,
+        "defense": 91,
+        "special-attack": 137,
+        "special-defense": 89,
+        "speed": 75
+    },
+    "Description": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+    "Evolution Chain": {
+        "Raging-bolt": {}
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Abra",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 9,
+    "Weight": 195,
+    "Stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "special-attack": 105,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "Description": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+    "Evolution Chain": {
+        "Abra": {
+            "Kadabra": {
+                "Alakazam": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

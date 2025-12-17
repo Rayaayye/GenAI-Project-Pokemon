@@ -1,0 +1,29 @@
+{
+    "Name": "Patrat",
+    "Types": [
+        "normal"
+    ],
+    "Height": 5,
+    "Weight": 116,
+    "Stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 39,
+        "special-attack": 35,
+        "special-defense": 39,
+        "speed": 42
+    },
+    "Description": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+    "Evolution Chain": {
+        "Patrat": {
+            "Watchog": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

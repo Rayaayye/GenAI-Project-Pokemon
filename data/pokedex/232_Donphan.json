@@ -1,0 +1,34 @@
+{
+    "Name": "Donphan",
+    "Types": [
+        "ground"
+    ],
+    "Height": 11,
+    "Weight": 1200,
+    "Stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 120,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "Description": "It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",
+    "Evolution Chain": {
+        "Phanpy": {
+            "Donphan": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

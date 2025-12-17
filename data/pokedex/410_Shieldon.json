@@ -1,0 +1,46 @@
+{
+    "Name": "Shieldon",
+    "Types": [
+        "rock",
+        "steel"
+    ],
+    "Height": 5,
+    "Weight": 570,
+    "Stats": {
+        "hp": 30,
+        "attack": 42,
+        "defense": 118,
+        "special-attack": 42,
+        "special-defense": 88,
+        "speed": 30
+    },
+    "Description": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+    "Evolution Chain": {
+        "Shieldon": {
+            "Bastiodon": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

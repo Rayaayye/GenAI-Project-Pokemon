@@ -1,0 +1,40 @@
+{
+    "Name": "Stunky",
+    "Types": [
+        "poison",
+        "dark"
+    ],
+    "Height": 4,
+    "Weight": 192,
+    "Stats": {
+        "hp": 63,
+        "attack": 63,
+        "defense": 47,
+        "special-attack": 41,
+        "special-defense": 41,
+        "speed": 74
+    },
+    "Description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+    "Evolution Chain": {
+        "Stunky": {
+            "Skuntank": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": []
+}

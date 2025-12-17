@@ -1,0 +1,31 @@
+{
+    "Name": "Zeraora",
+    "Types": [
+        "electric"
+    ],
+    "Height": 15,
+    "Weight": 445,
+    "Stats": {
+        "hp": 88,
+        "attack": 112,
+        "defense": 75,
+        "special-attack": 102,
+        "special-defense": 80,
+        "speed": 143
+    },
+    "Description": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
+    "Evolution Chain": {
+        "Zeraora": {}
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

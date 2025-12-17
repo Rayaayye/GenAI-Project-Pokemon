@@ -1,0 +1,36 @@
+{
+    "Name": "Togepi",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 15,
+    "Stats": {
+        "hp": 35,
+        "attack": 20,
+        "defense": 65,
+        "special-attack": 40,
+        "special-defense": 65,
+        "speed": 20
+    },
+    "Description": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+    "Evolution Chain": {
+        "Togepi": {
+            "Togetic": {
+                "Togekiss": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

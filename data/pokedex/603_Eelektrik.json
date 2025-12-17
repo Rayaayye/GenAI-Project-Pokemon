@@ -1,0 +1,35 @@
+{
+    "Name": "Eelektrik",
+    "Types": [
+        "electric"
+    ],
+    "Height": 12,
+    "Weight": 220,
+    "Stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 40
+    },
+    "Description": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+    "Evolution Chain": {
+        "Tynamo": {
+            "Eelektrik": {
+                "Eelektross": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

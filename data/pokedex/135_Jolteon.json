@@ -1,0 +1,40 @@
+{
+    "Name": "Jolteon",
+    "Types": [
+        "electric"
+    ],
+    "Height": 8,
+    "Weight": 245,
+    "Stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 110,
+        "special-defense": 95,
+        "speed": 130
+    },
+    "Description": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

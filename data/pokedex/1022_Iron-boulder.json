@@ -1,0 +1,42 @@
+{
+    "Name": "Iron-boulder",
+    "Types": [
+        "rock",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 1625,
+    "Stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 80,
+        "special-attack": 68,
+        "special-defense": 108,
+        "speed": 124
+    },
+    "Description": "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+    "Evolution Chain": {
+        "Iron-boulder": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

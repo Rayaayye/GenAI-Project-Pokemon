@@ -1,0 +1,38 @@
+{
+    "Name": "Naclstack",
+    "Types": [
+        "rock"
+    ],
+    "Height": 6,
+    "Weight": 1050,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special-attack": 35,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "Description": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
+    "Evolution Chain": {
+        "Nacli": {
+            "Naclstack": {
+                "Garganacl": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

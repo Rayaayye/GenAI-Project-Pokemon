@@ -1,0 +1,39 @@
+{
+    "Name": "Palkia",
+    "Types": [
+        "water",
+        "dragon"
+    ],
+    "Height": 42,
+    "Weight": 3360,
+    "Stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 100,
+        "special-attack": 150,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "Description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "Evolution Chain": {
+        "Palkia": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Diancie",
+    "Types": [
+        "rock",
+        "fairy"
+    ],
+    "Height": 7,
+    "Weight": 88,
+    "Stats": {
+        "hp": 50,
+        "attack": 100,
+        "defense": 150,
+        "special-attack": 100,
+        "special-defense": 150,
+        "speed": 50
+    },
+    "Description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+    "Evolution Chain": {
+        "Diancie": {}
+    },
+    "Weaknesses": [
+        "grass",
+        "poison",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

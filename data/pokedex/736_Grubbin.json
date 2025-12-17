@@ -1,0 +1,35 @@
+{
+    "Name": "Grubbin",
+    "Types": [
+        "bug"
+    ],
+    "Height": 4,
+    "Weight": 44,
+    "Stats": {
+        "hp": 47,
+        "attack": 62,
+        "defense": 45,
+        "special-attack": 55,
+        "special-defense": 45,
+        "speed": 46
+    },
+    "Description": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+    "Evolution Chain": {
+        "Grubbin": {
+            "Charjabug": {
+                "Vikavolt": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

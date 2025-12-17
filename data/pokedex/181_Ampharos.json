@@ -1,0 +1,35 @@
+{
+    "Name": "Ampharos",
+    "Types": [
+        "electric"
+    ],
+    "Height": 14,
+    "Weight": 615,
+    "Stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 115,
+        "special-defense": 90,
+        "speed": 55
+    },
+    "Description": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+    "Evolution Chain": {
+        "Mareep": {
+            "Flaaffy": {
+                "Ampharos": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

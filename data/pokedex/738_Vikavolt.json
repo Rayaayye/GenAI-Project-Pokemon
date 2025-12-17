@@ -1,0 +1,42 @@
+{
+    "Name": "Vikavolt",
+    "Types": [
+        "bug",
+        "electric"
+    ],
+    "Height": 15,
+    "Weight": 450,
+    "Stats": {
+        "hp": 77,
+        "attack": 70,
+        "defense": 90,
+        "special-attack": 145,
+        "special-defense": 75,
+        "speed": 43
+    },
+    "Description": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+    "Evolution Chain": {
+        "Grubbin": {
+            "Charjabug": {
+                "Vikavolt": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "flying",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

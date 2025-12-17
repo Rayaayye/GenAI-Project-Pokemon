@@ -1,0 +1,37 @@
+{
+    "Name": "Girafarig",
+    "Types": [
+        "normal",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 415,
+    "Stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 65,
+        "special-attack": 90,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+    "Evolution Chain": {
+        "Girafarig": {
+            "Farigiraf": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

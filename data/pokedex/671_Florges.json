@@ -1,0 +1,36 @@
+{
+    "Name": "Florges",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 11,
+    "Weight": 100,
+    "Stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "special-attack": 112,
+        "special-defense": 154,
+        "speed": 75
+    },
+    "Description": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+    "Evolution Chain": {
+        "Flabebe": {
+            "Floette": {
+                "Florges": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Fuecoco",
+    "Types": [
+        "fire"
+    ],
+    "Height": 4,
+    "Weight": 98,
+    "Stats": {
+        "hp": 67,
+        "attack": 45,
+        "defense": 59,
+        "special-attack": 63,
+        "special-defense": 40,
+        "speed": 36
+    },
+    "Description": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "Evolution Chain": {
+        "Fuecoco": {
+            "Crocalor": {
+                "Skeledirge": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

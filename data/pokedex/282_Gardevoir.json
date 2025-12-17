@@ -1,0 +1,43 @@
+{
+    "Name": "Gardevoir",
+    "Types": [
+        "psychic",
+        "fairy"
+    ],
+    "Height": 16,
+    "Weight": 484,
+    "Stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 125,
+        "special-defense": 115,
+        "speed": 80
+    },
+    "Description": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
+    "Evolution Chain": {
+        "Ralts": {
+            "Kirlia": {
+                "Gardevoir": {},
+                "Gallade": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

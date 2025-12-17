@@ -1,0 +1,33 @@
+{
+    "Name": "Houndstone",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 20,
+    "Weight": 150,
+    "Stats": {
+        "hp": 72,
+        "attack": 101,
+        "defense": 100,
+        "special-attack": 50,
+        "special-defense": 97,
+        "speed": 68
+    },
+    "Description": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+    "Evolution Chain": {
+        "Greavard": {
+            "Houndstone": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

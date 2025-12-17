@@ -1,0 +1,46 @@
+{
+    "Name": "Hydrapple",
+    "Types": [
+        "grass",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 930,
+    "Stats": {
+        "hp": 106,
+        "attack": 80,
+        "defense": 110,
+        "special-attack": 120,
+        "special-defense": 80,
+        "speed": 44
+    },
+    "Description": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+    "Evolution Chain": {
+        "Applin": {
+            "Flapple": {},
+            "Appletun": {},
+            "Dipplin": {
+                "Hydrapple": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

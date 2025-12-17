@@ -1,0 +1,35 @@
+{
+    "Name": "Sirfetchd",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 8,
+    "Weight": 1170,
+    "Stats": {
+        "hp": 62,
+        "attack": 135,
+        "defense": 95,
+        "special-attack": 68,
+        "special-defense": 82,
+        "speed": 65
+    },
+    "Description": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
+    "Evolution Chain": {
+        "Farfetchd": {
+            "Sirfetchd": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

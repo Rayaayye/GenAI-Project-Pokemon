@@ -1,0 +1,38 @@
+{
+    "Name": "Hoothoot",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 7,
+    "Weight": 212,
+    "Stats": {
+        "hp": 60,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 36,
+        "special-defense": 56,
+        "speed": 50
+    },
+    "Description": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "Evolution Chain": {
+        "Hoothoot": {
+            "Noctowl": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

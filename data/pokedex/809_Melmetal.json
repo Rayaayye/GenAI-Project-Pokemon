@@ -1,0 +1,38 @@
+{
+    "Name": "Melmetal",
+    "Types": [
+        "steel"
+    ],
+    "Height": 25,
+    "Weight": 8000,
+    "Stats": {
+        "hp": 135,
+        "attack": 143,
+        "defense": 143,
+        "special-attack": 80,
+        "special-defense": 65,
+        "speed": 34
+    },
+    "Description": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "Evolution Chain": {
+        "Melmetal": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

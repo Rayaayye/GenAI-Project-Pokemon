@@ -1,0 +1,38 @@
+{
+    "Name": "Articuno",
+    "Types": [
+        "ice",
+        "flying"
+    ],
+    "Height": 17,
+    "Weight": 554,
+    "Stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 100,
+        "special-attack": 95,
+        "special-defense": 125,
+        "speed": 85
+    },
+    "Description": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
+    "Evolution Chain": {
+        "Articuno": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "steel",
+        "ice",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "ice",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

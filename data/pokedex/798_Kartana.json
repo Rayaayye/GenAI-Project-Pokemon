@@ -1,0 +1,46 @@
+{
+    "Name": "Kartana",
+    "Types": [
+        "grass",
+        "steel"
+    ],
+    "Height": 3,
+    "Weight": 1,
+    "Stats": {
+        "hp": 59,
+        "attack": 181,
+        "defense": 131,
+        "special-attack": 59,
+        "special-defense": 31,
+        "speed": 109
+    },
+    "Description": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+    "Evolution Chain": {
+        "Kartana": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "water",
+        "rock",
+        "fairy",
+        "ground"
+    ],
+    "Immunities": []
+}

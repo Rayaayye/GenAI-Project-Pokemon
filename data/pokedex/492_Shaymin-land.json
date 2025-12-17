@@ -1,0 +1,34 @@
+{
+    "Name": "Shaymin-land",
+    "Types": [
+        "grass"
+    ],
+    "Height": 2,
+    "Weight": 21,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "Description": "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+    "Evolution Chain": {
+        "Shaymin": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

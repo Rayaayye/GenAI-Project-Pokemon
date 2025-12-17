@@ -1,0 +1,42 @@
+{
+    "Name": "Swinub",
+    "Types": [
+        "ice",
+        "ground"
+    ],
+    "Height": 4,
+    "Weight": 65,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 50
+    },
+    "Description": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+    "Evolution Chain": {
+        "Swinub": {
+            "Piloswine": {
+                "Mamoswine": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "ice"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

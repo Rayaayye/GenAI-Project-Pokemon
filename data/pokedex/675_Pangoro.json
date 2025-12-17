@@ -1,0 +1,39 @@
+{
+    "Name": "Pangoro",
+    "Types": [
+        "fighting",
+        "dark"
+    ],
+    "Height": 21,
+    "Weight": 1360,
+    "Stats": {
+        "hp": 95,
+        "attack": 124,
+        "defense": 78,
+        "special-attack": 69,
+        "special-defense": 71,
+        "speed": 58
+    },
+    "Description": "Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
+    "Evolution Chain": {
+        "Pancham": {
+            "Pangoro": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "flying",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "ghost",
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

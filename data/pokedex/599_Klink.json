@@ -1,0 +1,42 @@
+{
+    "Name": "Klink",
+    "Types": [
+        "steel"
+    ],
+    "Height": 3,
+    "Weight": 210,
+    "Stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 70,
+        "special-attack": 45,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "Description": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+    "Evolution Chain": {
+        "Klink": {
+            "Klang": {
+                "Klinklang": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

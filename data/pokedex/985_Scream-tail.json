@@ -1,0 +1,38 @@
+{
+    "Name": "Scream-tail",
+    "Types": [
+        "fairy",
+        "psychic"
+    ],
+    "Height": 12,
+    "Weight": 80,
+    "Stats": {
+        "hp": 115,
+        "attack": 65,
+        "defense": 99,
+        "special-attack": 65,
+        "special-defense": 115,
+        "speed": 111
+    },
+    "Description": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+    "Evolution Chain": {
+        "Scream-tail": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Name": "Muk",
+    "Types": [
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 300,
+    "Stats": {
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "special-attack": 65,
+        "special-defense": 100,
+        "speed": 50
+    },
+    "Description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "Evolution Chain": {
+        "Grimer": {
+            "Muk": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

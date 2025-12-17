@@ -1,0 +1,31 @@
+{
+    "Name": "Ursaring",
+    "Types": [
+        "normal"
+    ],
+    "Height": 18,
+    "Weight": 1258,
+    "Stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 75,
+        "special-attack": 75,
+        "special-defense": 75,
+        "speed": 55
+    },
+    "Description": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",
+    "Evolution Chain": {
+        "Teddiursa": {
+            "Ursaring": {
+                "Ursaluna": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

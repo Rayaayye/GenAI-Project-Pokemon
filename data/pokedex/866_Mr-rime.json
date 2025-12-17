@@ -1,0 +1,42 @@
+{
+    "Name": "Mr-rime",
+    "Types": [
+        "ice",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 582,
+    "Stats": {
+        "hp": 80,
+        "attack": 85,
+        "defense": 75,
+        "special-attack": 110,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "Description": "It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+    "Evolution Chain": {
+        "Mime-jr": {
+            "Mr-mime": {
+                "Mr-rime": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "rock",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "ice"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

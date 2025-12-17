@@ -1,0 +1,44 @@
+{
+    "Name": "Kleavor",
+    "Types": [
+        "bug",
+        "rock"
+    ],
+    "Height": 18,
+    "Weight": 890,
+    "Stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 95,
+        "special-attack": 45,
+        "special-defense": 70,
+        "speed": 85
+    },
+    "Description": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.",
+    "Evolution Chain": {
+        "Scyther": {
+            "Scizor": {},
+            "Kleavor": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

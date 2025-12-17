@@ -1,0 +1,38 @@
+{
+    "Name": "Weavile",
+    "Types": [
+        "dark",
+        "ice"
+    ],
+    "Height": 11,
+    "Weight": 340,
+    "Stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 65,
+        "special-attack": 45,
+        "special-defense": 85,
+        "speed": 125
+    },
+    "Description": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+    "Evolution Chain": {
+        "Sneasel": {
+            "Weavile": {},
+            "Sneasler": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "steel",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "ice",
+        "ghost"
+    ],
+    "Immunities": []
+}

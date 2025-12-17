@@ -1,0 +1,31 @@
+{
+    "Name": "Wishiwashi-solo",
+    "Types": [
+        "water"
+    ],
+    "Height": 2,
+    "Weight": 3,
+    "Stats": {
+        "hp": 45,
+        "attack": 20,
+        "defense": 20,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 40
+    },
+    "Description": "When it’s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+    "Evolution Chain": {
+        "Wishiwashi": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

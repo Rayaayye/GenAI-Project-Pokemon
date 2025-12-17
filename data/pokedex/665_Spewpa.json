@@ -1,0 +1,35 @@
+{
+    "Name": "Spewpa",
+    "Types": [
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 84,
+    "Stats": {
+        "hp": 45,
+        "attack": 22,
+        "defense": 60,
+        "special-attack": 27,
+        "special-defense": 30,
+        "speed": 29
+    },
+    "Description": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+    "Evolution Chain": {
+        "Scatterbug": {
+            "Spewpa": {
+                "Vivillon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

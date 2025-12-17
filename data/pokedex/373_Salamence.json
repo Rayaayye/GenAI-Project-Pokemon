@@ -1,0 +1,44 @@
+{
+    "Name": "Salamence",
+    "Types": [
+        "dragon",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 1026,
+    "Stats": {
+        "hp": 95,
+        "attack": 135,
+        "defense": 80,
+        "special-attack": 110,
+        "special-defense": 80,
+        "speed": 100
+    },
+    "Description": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings.",
+    "Evolution Chain": {
+        "Bagon": {
+            "Shelgon": {
+                "Salamence": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

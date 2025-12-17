@@ -1,0 +1,32 @@
+{
+    "Name": "Zacian",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 28,
+    "Weight": 1100,
+    "Stats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 115,
+        "special-attack": 80,
+        "special-defense": 115,
+        "speed": 138
+    },
+    "Description": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
+    "Evolution Chain": {
+        "Zacian": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

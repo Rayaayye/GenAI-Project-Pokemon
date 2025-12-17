@@ -1,0 +1,34 @@
+{
+    "Name": "Clamperl",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 525,
+    "Stats": {
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "special-attack": 74,
+        "special-defense": 55,
+        "speed": 32
+    },
+    "Description": "CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over.",
+    "Evolution Chain": {
+        "Clamperl": {
+            "Huntail": {},
+            "Gorebyss": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

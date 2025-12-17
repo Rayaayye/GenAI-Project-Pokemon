@@ -1,0 +1,42 @@
+{
+    "Name": "Turtonator",
+    "Types": [
+        "fire",
+        "dragon"
+    ],
+    "Height": 20,
+    "Weight": 2120,
+    "Stats": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 135,
+        "special-attack": 91,
+        "special-defense": 85,
+        "speed": 36
+    },
+    "Description": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+    "Evolution Chain": {
+        "Turtonator": {}
+    },
+    "Weaknesses": [
+        "ice",
+        "dragon",
+        "rock",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

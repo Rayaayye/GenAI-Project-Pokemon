@@ -1,0 +1,29 @@
+{
+    "Name": "Gumshoos",
+    "Types": [
+        "normal"
+    ],
+    "Height": 7,
+    "Weight": 142,
+    "Stats": {
+        "hp": 88,
+        "attack": 110,
+        "defense": 60,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 45
+    },
+    "Description": "When it finds a trace of its prey, it patiently stakes out the location...but it’s always snoozing by nightfall.",
+    "Evolution Chain": {
+        "Yungoos": {
+            "Gumshoos": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

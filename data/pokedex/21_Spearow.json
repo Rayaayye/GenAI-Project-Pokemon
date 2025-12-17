@@ -1,0 +1,38 @@
+{
+    "Name": "Spearow",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 20,
+    "Stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 31,
+        "special-defense": 31,
+        "speed": 70
+    },
+    "Description": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+    "Evolution Chain": {
+        "Spearow": {
+            "Fearow": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Ursaluna",
+    "Types": [
+        "ground",
+        "normal"
+    ],
+    "Height": 24,
+    "Weight": 2900,
+    "Stats": {
+        "hp": 130,
+        "attack": 140,
+        "defense": 105,
+        "special-attack": 45,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "Description": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
+    "Evolution Chain": {
+        "Teddiursa": {
+            "Ursaring": {
+                "Ursaluna": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "ghost"
+    ]
+}

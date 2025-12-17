@@ -1,0 +1,44 @@
+{
+    "Name": "Skeledirge",
+    "Types": [
+        "fire",
+        "ghost"
+    ],
+    "Height": 16,
+    "Weight": 3265,
+    "Stats": {
+        "hp": 104,
+        "attack": 75,
+        "defense": 100,
+        "special-attack": 110,
+        "special-defense": 75,
+        "speed": 66
+    },
+    "Description": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
+    "Evolution Chain": {
+        "Fuecoco": {
+            "Crocalor": {
+                "Skeledirge": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "rock",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

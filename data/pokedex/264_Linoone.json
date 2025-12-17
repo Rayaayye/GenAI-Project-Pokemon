@@ -1,0 +1,31 @@
+{
+    "Name": "Linoone",
+    "Types": [
+        "normal"
+    ],
+    "Height": 5,
+    "Weight": 325,
+    "Stats": {
+        "hp": 78,
+        "attack": 70,
+        "defense": 61,
+        "special-attack": 50,
+        "special-defense": 61,
+        "speed": 100
+    },
+    "Description": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",
+    "Evolution Chain": {
+        "Zigzagoon": {
+            "Linoone": {
+                "Obstagoon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

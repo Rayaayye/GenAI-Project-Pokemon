@@ -1,0 +1,35 @@
+{
+    "Name": "Chien-pao",
+    "Types": [
+        "dark",
+        "ice"
+    ],
+    "Height": 19,
+    "Weight": 1522,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "special-attack": 90,
+        "special-defense": 65,
+        "speed": 135
+    },
+    "Description": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "Evolution Chain": {
+        "Chien-pao": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "steel",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "ice",
+        "ghost"
+    ],
+    "Immunities": []
+}

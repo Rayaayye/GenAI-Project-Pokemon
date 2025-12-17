@@ -1,0 +1,33 @@
+{
+    "Name": "Kricketot",
+    "Types": [
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 22,
+    "Stats": {
+        "hp": 37,
+        "attack": 25,
+        "defense": 41,
+        "special-attack": 25,
+        "special-defense": 41,
+        "speed": 25
+    },
+    "Description": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+    "Evolution Chain": {
+        "Kricketot": {
+            "Kricketune": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

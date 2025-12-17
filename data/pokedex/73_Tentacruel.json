@@ -1,0 +1,41 @@
+{
+    "Name": "Tentacruel",
+    "Types": [
+        "water",
+        "poison"
+    ],
+    "Height": 16,
+    "Weight": 550,
+    "Stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "Description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    "Evolution Chain": {
+        "Tentacool": {
+            "Tentacruel": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

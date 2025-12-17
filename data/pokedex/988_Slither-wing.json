@@ -1,0 +1,39 @@
+{
+    "Name": "Slither-wing",
+    "Types": [
+        "bug",
+        "fighting"
+    ],
+    "Height": 32,
+    "Weight": 920,
+    "Stats": {
+        "hp": 85,
+        "attack": 135,
+        "defense": 79,
+        "special-attack": 85,
+        "special-defense": 105,
+        "speed": 81
+    },
+    "Description": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+    "Evolution Chain": {
+        "Slither-wing": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

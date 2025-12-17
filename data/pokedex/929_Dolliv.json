@@ -1,0 +1,42 @@
+{
+    "Name": "Dolliv",
+    "Types": [
+        "grass",
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 119,
+    "Stats": {
+        "hp": 52,
+        "attack": 53,
+        "defense": 60,
+        "special-attack": 78,
+        "special-defense": 78,
+        "speed": 33
+    },
+    "Description": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+    "Evolution Chain": {
+        "Smoliv": {
+            "Dolliv": {
+                "Arboliva": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

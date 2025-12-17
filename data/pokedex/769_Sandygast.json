@@ -1,0 +1,39 @@
+{
+    "Name": "Sandygast",
+    "Types": [
+        "ghost",
+        "ground"
+    ],
+    "Height": 5,
+    "Weight": 700,
+    "Stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 45,
+        "speed": 15
+    },
+    "Description": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
+    "Evolution Chain": {
+        "Sandygast": {
+            "Palossand": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "normal"
+    ]
+}

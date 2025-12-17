@@ -1,0 +1,41 @@
+{
+    "Name": "Venipede",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 4,
+    "Weight": 53,
+    "Stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 59,
+        "special-attack": 30,
+        "special-defense": 39,
+        "speed": 57
+    },
+    "Description": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+    "Evolution Chain": {
+        "Venipede": {
+            "Whirlipede": {
+                "Scolipede": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Luxio",
+    "Types": [
+        "electric"
+    ],
+    "Height": 9,
+    "Weight": 305,
+    "Stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 49,
+        "special-attack": 60,
+        "special-defense": 49,
+        "speed": 60
+    },
+    "Description": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+    "Evolution Chain": {
+        "Shinx": {
+            "Luxio": {
+                "Luxray": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

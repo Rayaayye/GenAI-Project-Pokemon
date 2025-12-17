@@ -1,0 +1,37 @@
+{
+    "Name": "Wyrdeer",
+    "Types": [
+        "normal",
+        "psychic"
+    ],
+    "Height": 18,
+    "Weight": 951,
+    "Stats": {
+        "hp": 103,
+        "attack": 105,
+        "defense": 72,
+        "special-attack": 105,
+        "special-defense": 75,
+        "speed": 65
+    },
+    "Description": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
+    "Evolution Chain": {
+        "Stantler": {
+            "Wyrdeer": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

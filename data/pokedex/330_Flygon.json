@@ -1,0 +1,44 @@
+{
+    "Name": "Flygon",
+    "Types": [
+        "ground",
+        "dragon"
+    ],
+    "Height": 20,
+    "Weight": 820,
+    "Stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 80,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 100
+    },
+    "Description": "FLYGON is nicknamed “the elemental  spirit of the desert.” Because its flapping wings whip up a cloud of sand, this POKéMON is always enveloped in a sandstorm while flying.",
+    "Evolution Chain": {
+        "Trapinch": {
+            "Vibrava": {
+                "Flygon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "ice",
+        "dragon",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "poison",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying",
+        "fairy"
+    ]
+}

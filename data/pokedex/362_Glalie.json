@@ -1,0 +1,33 @@
+{
+    "Name": "Glalie",
+    "Types": [
+        "ice"
+    ],
+    "Height": 15,
+    "Weight": 2565,
+    "Stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 80,
+        "special-defense": 80,
+        "speed": 80
+    },
+    "Description": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
+    "Evolution Chain": {
+        "Snorunt": {
+            "Glalie": {},
+            "Froslass": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

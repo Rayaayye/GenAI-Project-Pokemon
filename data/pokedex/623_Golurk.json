@@ -1,0 +1,39 @@
+{
+    "Name": "Golurk",
+    "Types": [
+        "ground",
+        "ghost"
+    ],
+    "Height": 28,
+    "Weight": 3300,
+    "Stats": {
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "Description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+    "Evolution Chain": {
+        "Golett": {
+            "Golurk": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "normal"
+    ]
+}

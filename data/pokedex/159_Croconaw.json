@@ -1,0 +1,35 @@
+{
+    "Name": "Croconaw",
+    "Types": [
+        "water"
+    ],
+    "Height": 11,
+    "Weight": 250,
+    "Stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 80,
+        "special-attack": 59,
+        "special-defense": 63,
+        "speed": 58
+    },
+    "Description": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+    "Evolution Chain": {
+        "Totodile": {
+            "Croconaw": {
+                "Feraligatr": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

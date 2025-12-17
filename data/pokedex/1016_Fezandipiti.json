@@ -1,0 +1,38 @@
+{
+    "Name": "Fezandipiti",
+    "Types": [
+        "poison",
+        "fairy"
+    ],
+    "Height": 14,
+    "Weight": 301,
+    "Stats": {
+        "hp": 88,
+        "attack": 91,
+        "defense": 82,
+        "special-attack": 70,
+        "special-defense": 125,
+        "speed": 99
+    },
+    "Description": "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
+    "Evolution Chain": {
+        "Fezandipiti": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "steel",
+        "ground",
+        "poison"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

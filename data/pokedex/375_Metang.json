@@ -1,0 +1,49 @@
+{
+    "Name": "Metang",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 12,
+    "Weight": 2025,
+    "Stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "Description": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power.",
+    "Evolution Chain": {
+        "Beldum": {
+            "Metang": {
+                "Metagross": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Decidueye",
+    "Types": [
+        "grass",
+        "ghost"
+    ],
+    "Height": 16,
+    "Weight": 366,
+    "Stats": {
+        "hp": 78,
+        "attack": 107,
+        "defense": 75,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "Description": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+    "Evolution Chain": {
+        "Rowlet": {
+            "Dartrix": {
+                "Decidueye": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

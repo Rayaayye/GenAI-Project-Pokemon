@@ -1,0 +1,36 @@
+{
+    "Name": "Poliwhirl",
+    "Types": [
+        "water"
+    ],
+    "Height": 10,
+    "Weight": 200,
+    "Stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 90
+    },
+    "Description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "Evolution Chain": {
+        "Poliwag": {
+            "Poliwhirl": {
+                "Poliwrath": {},
+                "Politoed": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Porygon",
+    "Types": [
+        "normal"
+    ],
+    "Height": 8,
+    "Weight": 365,
+    "Stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 40
+    },
+    "Description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+    "Evolution Chain": {
+        "Porygon": {
+            "Porygon2": {
+                "Porygon-z": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

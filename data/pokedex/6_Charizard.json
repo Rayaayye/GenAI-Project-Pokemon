@@ -1,0 +1,44 @@
+{
+    "Name": "Charizard",
+    "Types": [
+        "fire",
+        "flying"
+    ],
+    "Height": 17,
+    "Weight": 905,
+    "Stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special-attack": 109,
+        "special-defense": 85,
+        "speed": 100
+    },
+    "Description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "Evolution Chain": {
+        "Charmander": {
+            "Charmeleon": {
+                "Charizard": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

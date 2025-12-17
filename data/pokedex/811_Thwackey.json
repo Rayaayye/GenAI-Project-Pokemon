@@ -1,0 +1,38 @@
+{
+    "Name": "Thwackey",
+    "Types": [
+        "grass"
+    ],
+    "Height": 7,
+    "Weight": 140,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 80
+    },
+    "Description": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+    "Evolution Chain": {
+        "Grookey": {
+            "Thwackey": {
+                "Rillaboom": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Corvisquire",
+    "Types": [
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 160,
+    "Stats": {
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "special-attack": 43,
+        "special-defense": 55,
+        "speed": 77
+    },
+    "Description": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+    "Evolution Chain": {
+        "Rookidee": {
+            "Corvisquire": {
+                "Corviknight": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Swoobat",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 9,
+    "Weight": 105,
+    "Stats": {
+        "hp": 67,
+        "attack": 57,
+        "defense": 55,
+        "special-attack": 77,
+        "special-defense": 55,
+        "speed": 114
+    },
+    "Description": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+    "Evolution Chain": {
+        "Woobat": {
+            "Swoobat": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

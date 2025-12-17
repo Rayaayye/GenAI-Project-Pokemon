@@ -1,0 +1,38 @@
+{
+    "Name": "Charmeleon",
+    "Types": [
+        "fire"
+    ],
+    "Height": 11,
+    "Weight": 190,
+    "Stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "special-attack": 80,
+        "special-defense": 65,
+        "speed": 80
+    },
+    "Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+    "Evolution Chain": {
+        "Charmander": {
+            "Charmeleon": {
+                "Charizard": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

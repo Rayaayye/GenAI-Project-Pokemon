@@ -1,0 +1,45 @@
+{
+    "Name": "Weepinbell",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 10,
+    "Weight": 64,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 50,
+        "special-attack": 85,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "Description": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+    "Evolution Chain": {
+        "Bellsprout": {
+            "Weepinbell": {
+                "Victreebel": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Dusknoir",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 22,
+    "Weight": 1066,
+    "Stats": {
+        "hp": 45,
+        "attack": 100,
+        "defense": 135,
+        "special-attack": 65,
+        "special-defense": 135,
+        "speed": 45
+    },
+    "Description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+    "Evolution Chain": {
+        "Duskull": {
+            "Dusclops": {
+                "Dusknoir": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Tangrowth",
+    "Types": [
+        "grass"
+    ],
+    "Height": 20,
+    "Weight": 1286,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 125,
+        "special-attack": 110,
+        "special-defense": 50,
+        "speed": 50
+    },
+    "Description": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+    "Evolution Chain": {
+        "Tangela": {
+            "Tangrowth": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

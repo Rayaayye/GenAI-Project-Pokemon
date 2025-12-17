@@ -1,0 +1,35 @@
+{
+    "Name": "Tympole",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 45,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 64
+    },
+    "Description": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+    "Evolution Chain": {
+        "Tympole": {
+            "Palpitoad": {
+                "Seismitoad": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

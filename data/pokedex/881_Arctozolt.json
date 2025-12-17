@@ -1,0 +1,37 @@
+{
+    "Name": "Arctozolt",
+    "Types": [
+        "electric",
+        "ice"
+    ],
+    "Height": 23,
+    "Weight": 1500,
+    "Stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special-attack": 90,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "Description": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+    "Evolution Chain": {
+        "Arctozolt": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "steel",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "ice",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Carbink",
+    "Types": [
+        "rock",
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 57,
+    "Stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 150,
+        "special-attack": 50,
+        "special-defense": 150,
+        "speed": 50
+    },
+    "Description": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.",
+    "Evolution Chain": {
+        "Carbink": {}
+    },
+    "Weaknesses": [
+        "grass",
+        "poison",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

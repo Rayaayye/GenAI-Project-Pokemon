@@ -1,0 +1,36 @@
+{
+    "Name": "Iron-bundle",
+    "Types": [
+        "ice",
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 110,
+    "Stats": {
+        "hp": 56,
+        "attack": 80,
+        "defense": 114,
+        "special-attack": 124,
+        "special-defense": 60,
+        "speed": 136
+    },
+    "Description": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+    "Evolution Chain": {
+        "Iron-bundle": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "water",
+        "steel",
+        "ice"
+    ],
+    "Immunities": []
+}

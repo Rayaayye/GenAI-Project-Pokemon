@@ -1,0 +1,43 @@
+{
+    "Name": "Primarina",
+    "Types": [
+        "water",
+        "fairy"
+    ],
+    "Height": 18,
+    "Weight": 440,
+    "Stats": {
+        "hp": 80,
+        "attack": 74,
+        "defense": 74,
+        "special-attack": 126,
+        "special-defense": 116,
+        "speed": 60
+    },
+    "Description": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
+    "Evolution Chain": {
+        "Popplio": {
+            "Brionne": {
+                "Primarina": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "electric",
+        "steel",
+        "grass"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

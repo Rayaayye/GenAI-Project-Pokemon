@@ -1,0 +1,35 @@
+{
+    "Name": "Oshawott",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 59,
+    "Stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 45,
+        "special-attack": 63,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "Description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "Evolution Chain": {
+        "Oshawott": {
+            "Dewott": {
+                "Samurott": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Purugly",
+    "Types": [
+        "normal"
+    ],
+    "Height": 10,
+    "Weight": 438,
+    "Stats": {
+        "hp": 71,
+        "attack": 82,
+        "defense": 64,
+        "special-attack": 64,
+        "special-defense": 59,
+        "speed": 112
+    },
+    "Description": "It is a brazen brute that barges its way into another Pokémon’s nest and claims it as its own.",
+    "Evolution Chain": {
+        "Glameow": {
+            "Purugly": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

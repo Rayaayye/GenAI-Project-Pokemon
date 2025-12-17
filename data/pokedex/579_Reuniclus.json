@@ -1,0 +1,36 @@
+{
+    "Name": "Reuniclus",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 10,
+    "Weight": 201,
+    "Stats": {
+        "hp": 110,
+        "attack": 65,
+        "defense": 75,
+        "special-attack": 125,
+        "special-defense": 85,
+        "speed": 30
+    },
+    "Description": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+    "Evolution Chain": {
+        "Solosis": {
+            "Duosion": {
+                "Reuniclus": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Wimpod",
+    "Types": [
+        "bug",
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 120,
+    "Stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 40,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 80
+    },
+    "Description": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+    "Evolution Chain": {
+        "Wimpod": {
+            "Golisopod": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "rock"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

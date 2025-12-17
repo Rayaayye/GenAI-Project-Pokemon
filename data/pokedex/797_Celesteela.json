@@ -1,0 +1,45 @@
+{
+    "Name": "Celesteela",
+    "Types": [
+        "steel",
+        "flying"
+    ],
+    "Height": 92,
+    "Weight": 9999,
+    "Stats": {
+        "hp": 97,
+        "attack": 101,
+        "defense": 103,
+        "special-attack": 107,
+        "special-defense": 101,
+        "speed": 61
+    },
+    "Description": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
+    "Evolution Chain": {
+        "Celesteela": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "ice",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Tepig",
+    "Types": [
+        "fire"
+    ],
+    "Height": 5,
+    "Weight": 99,
+    "Stats": {
+        "hp": 65,
+        "attack": 63,
+        "defense": 45,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 45
+    },
+    "Description": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "Evolution Chain": {
+        "Tepig": {
+            "Pignite": {
+                "Emboar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Drampa",
+    "Types": [
+        "normal",
+        "dragon"
+    ],
+    "Height": 30,
+    "Weight": 1850,
+    "Stats": {
+        "hp": 78,
+        "attack": 60,
+        "defense": 85,
+        "special-attack": 135,
+        "special-defense": 91,
+        "speed": 36
+    },
+    "Description": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+    "Evolution Chain": {
+        "Drampa": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "ice",
+        "dragon"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy",
+        "ghost"
+    ]
+}

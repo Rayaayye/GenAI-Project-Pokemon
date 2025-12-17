@@ -1,0 +1,38 @@
+{
+    "Name": "Magby",
+    "Types": [
+        "fire"
+    ],
+    "Height": 7,
+    "Weight": 214,
+    "Stats": {
+        "hp": 45,
+        "attack": 75,
+        "defense": 37,
+        "special-attack": 70,
+        "special-defense": 55,
+        "speed": 83
+    },
+    "Description": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+    "Evolution Chain": {
+        "Magby": {
+            "Magmar": {
+                "Magmortar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

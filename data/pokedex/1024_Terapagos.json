@@ -1,0 +1,27 @@
+{
+    "Name": "Terapagos",
+    "Types": [
+        "normal"
+    ],
+    "Height": 2,
+    "Weight": 65,
+    "Stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 85,
+        "special-attack": 65,
+        "special-defense": 85,
+        "speed": 60
+    },
+    "Description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+    "Evolution Chain": {
+        "Terapagos": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

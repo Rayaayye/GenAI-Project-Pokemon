@@ -1,0 +1,38 @@
+{
+    "Name": "Steenee",
+    "Types": [
+        "grass"
+    ],
+    "Height": 7,
+    "Weight": 82,
+    "Stats": {
+        "hp": 52,
+        "attack": 40,
+        "defense": 48,
+        "special-attack": 40,
+        "special-defense": 48,
+        "speed": 62
+    },
+    "Description": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
+    "Evolution Chain": {
+        "Bounsweet": {
+            "Steenee": {
+                "Tsareena": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

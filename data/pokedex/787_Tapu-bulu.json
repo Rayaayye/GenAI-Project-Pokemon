@@ -1,0 +1,41 @@
+{
+    "Name": "Tapu-bulu",
+    "Types": [
+        "grass",
+        "fairy"
+    ],
+    "Height": 19,
+    "Weight": 455,
+    "Stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 115,
+        "special-attack": 85,
+        "special-defense": 95,
+        "speed": 75
+    },
+    "Description": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+    "Evolution Chain": {
+        "Tapu-bulu": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

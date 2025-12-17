@@ -1,0 +1,46 @@
+{
+    "Name": "Monferno",
+    "Types": [
+        "fire",
+        "fighting"
+    ],
+    "Height": 9,
+    "Weight": 220,
+    "Stats": {
+        "hp": 64,
+        "attack": 78,
+        "defense": 52,
+        "special-attack": 78,
+        "special-defense": 52,
+        "speed": 81
+    },
+    "Description": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+    "Evolution Chain": {
+        "Chimchar": {
+            "Monferno": {
+                "Infernape": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "rock",
+        "water",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

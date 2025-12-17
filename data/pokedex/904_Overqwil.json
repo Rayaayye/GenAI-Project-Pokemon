@@ -1,0 +1,40 @@
+{
+    "Name": "Overqwil",
+    "Types": [
+        "dark",
+        "poison"
+    ],
+    "Height": 25,
+    "Weight": 605,
+    "Stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 95,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself.",
+    "Evolution Chain": {
+        "Qwilfish": {
+            "Overqwil": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "Magnezone",
+    "Types": [
+        "electric",
+        "steel"
+    ],
+    "Height": 12,
+    "Weight": 1800,
+    "Stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 115,
+        "special-attack": 130,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "Description": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+    "Evolution Chain": {
+        "Magnemite": {
+            "Magneton": {
+                "Magnezone": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

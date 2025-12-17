@@ -1,0 +1,34 @@
+{
+    "Name": "Huntail",
+    "Types": [
+        "water"
+    ],
+    "Height": 17,
+    "Weight": 270,
+    "Stats": {
+        "hp": 55,
+        "attack": 104,
+        "defense": 105,
+        "special-attack": 94,
+        "special-defense": 75,
+        "speed": 52
+    },
+    "Description": "HUNTAIL’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON’s eyes can see clearly even in the murky dark depths of the ocean.",
+    "Evolution Chain": {
+        "Clamperl": {
+            "Huntail": {},
+            "Gorebyss": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

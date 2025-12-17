@@ -1,0 +1,34 @@
+{
+    "Name": "Alcremie",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 5,
+    "Stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 110,
+        "special-defense": 121,
+        "speed": 64
+    },
+    "Description": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
+    "Evolution Chain": {
+        "Milcery": {
+            "Alcremie": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

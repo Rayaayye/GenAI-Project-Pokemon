@@ -1,0 +1,35 @@
+{
+    "Name": "Blastoise",
+    "Types": [
+        "water"
+    ],
+    "Height": 16,
+    "Weight": 855,
+    "Stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "special-attack": 85,
+        "special-defense": 105,
+        "speed": 78
+    },
+    "Description": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
+    "Evolution Chain": {
+        "Squirtle": {
+            "Wartortle": {
+                "Blastoise": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

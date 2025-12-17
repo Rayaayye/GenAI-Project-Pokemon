@@ -1,0 +1,36 @@
+{
+    "Name": "Helioptile",
+    "Types": [
+        "electric",
+        "normal"
+    ],
+    "Height": 5,
+    "Weight": 60,
+    "Stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 33,
+        "special-attack": 61,
+        "special-defense": 43,
+        "speed": 70
+    },
+    "Description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+    "Evolution Chain": {
+        "Helioptile": {
+            "Heliolisk": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ghost",
+        "ground"
+    ]
+}

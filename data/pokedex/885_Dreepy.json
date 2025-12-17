@@ -1,0 +1,44 @@
+{
+    "Name": "Dreepy",
+    "Types": [
+        "dragon",
+        "ghost"
+    ],
+    "Height": 5,
+    "Weight": 20,
+    "Stats": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 30,
+        "speed": 82
+    },
+    "Description": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+    "Evolution Chain": {
+        "Dreepy": {
+            "Drakloak": {
+                "Dragapult": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ice",
+        "dragon",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "water"
+    ],
+    "Immunities": [
+        "normal",
+        "fairy"
+    ]
+}

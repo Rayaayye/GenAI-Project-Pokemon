@@ -1,0 +1,34 @@
+{
+    "Name": "Heatmor",
+    "Types": [
+        "fire"
+    ],
+    "Height": 14,
+    "Weight": 580,
+    "Stats": {
+        "hp": 85,
+        "attack": 97,
+        "defense": 66,
+        "special-attack": 105,
+        "special-defense": 66,
+        "speed": 65
+    },
+    "Description": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+    "Evolution Chain": {
+        "Heatmor": {}
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

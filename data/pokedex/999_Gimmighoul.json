@@ -1,0 +1,33 @@
+{
+    "Name": "Gimmighoul",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 3,
+    "Weight": 50,
+    "Stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 70,
+        "speed": 10
+    },
+    "Description": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "Evolution Chain": {
+        "Gimmighoul": {
+            "Gholdengo": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Pineco",
+    "Types": [
+        "bug"
+    ],
+    "Height": 6,
+    "Weight": 72,
+    "Stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 90,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 15
+    },
+    "Description": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+    "Evolution Chain": {
+        "Pineco": {
+            "Forretress": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

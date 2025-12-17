@@ -1,0 +1,42 @@
+{
+    "Name": "Sneasler",
+    "Types": [
+        "fighting",
+        "poison"
+    ],
+    "Height": 13,
+    "Weight": 430,
+    "Stats": {
+        "hp": 80,
+        "attack": 130,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 80,
+        "speed": 120
+    },
+    "Description": "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
+    "Evolution Chain": {
+        "Sneasel": {
+            "Weavile": {},
+            "Sneasler": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

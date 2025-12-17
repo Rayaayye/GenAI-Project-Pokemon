@@ -1,0 +1,35 @@
+{
+    "Name": "Meloetta-aria",
+    "Types": [
+        "normal",
+        "psychic"
+    ],
+    "Height": 6,
+    "Weight": 65,
+    "Stats": {
+        "hp": 100,
+        "attack": 77,
+        "defense": 77,
+        "special-attack": 128,
+        "special-defense": 128,
+        "speed": 90
+    },
+    "Description": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+    "Evolution Chain": {
+        "Meloetta": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

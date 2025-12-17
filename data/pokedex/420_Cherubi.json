@@ -1,0 +1,36 @@
+{
+    "Name": "Cherubi",
+    "Types": [
+        "grass"
+    ],
+    "Height": 4,
+    "Weight": 33,
+    "Stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 45,
+        "special-attack": 62,
+        "special-defense": 53,
+        "speed": 35
+    },
+    "Description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+    "Evolution Chain": {
+        "Cherubi": {
+            "Cherrim": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

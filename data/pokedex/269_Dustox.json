@@ -1,0 +1,44 @@
+{
+    "Name": "Dustox",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 316,
+    "Stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "special-attack": 50,
+        "special-defense": 90,
+        "speed": 65
+    },
+    "Description": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+    "Evolution Chain": {
+        "Wurmple": {
+            "Silcoon": {
+                "Beautifly": {}
+            },
+            "Cascoon": {
+                "Dustox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Popplio",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 75,
+    "Stats": {
+        "hp": 50,
+        "attack": 54,
+        "defense": 54,
+        "special-attack": 66,
+        "special-defense": 56,
+        "speed": 40
+    },
+    "Description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+    "Evolution Chain": {
+        "Popplio": {
+            "Brionne": {
+                "Primarina": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

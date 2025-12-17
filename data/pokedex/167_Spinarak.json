@@ -1,0 +1,39 @@
+{
+    "Name": "Spinarak",
+    "Types": [
+        "bug",
+        "poison"
+    ],
+    "Height": 5,
+    "Weight": 85,
+    "Stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 30
+    },
+    "Description": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+    "Evolution Chain": {
+        "Spinarak": {
+            "Ariados": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Cosmog",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 2,
+    "Weight": 1,
+    "Stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special-attack": 29,
+        "special-defense": 31,
+        "speed": 37
+    },
+    "Description": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+    "Evolution Chain": {
+        "Cosmog": {
+            "Cosmoem": {
+                "Solgaleo": {},
+                "Lunala": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

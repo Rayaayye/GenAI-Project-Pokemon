@@ -1,0 +1,43 @@
+{
+    "Name": "Pawmot",
+    "Types": [
+        "electric",
+        "fighting"
+    ],
+    "Height": 9,
+    "Weight": 410,
+    "Stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 70,
+        "special-attack": 70,
+        "special-defense": 60,
+        "speed": 105
+    },
+    "Description": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "Evolution Chain": {
+        "Pawmi": {
+            "Pawmo": {
+                "Pawmot": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "flying",
+        "steel",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost",
+        "ground"
+    ]
+}

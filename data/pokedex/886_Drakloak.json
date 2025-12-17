@@ -1,0 +1,44 @@
+{
+    "Name": "Drakloak",
+    "Types": [
+        "dragon",
+        "ghost"
+    ],
+    "Height": 14,
+    "Weight": 110,
+    "Stats": {
+        "hp": 68,
+        "attack": 80,
+        "defense": 50,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 102
+    },
+    "Description": "It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
+    "Evolution Chain": {
+        "Dreepy": {
+            "Drakloak": {
+                "Dragapult": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ice",
+        "dragon",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "water"
+    ],
+    "Immunities": [
+        "normal",
+        "fairy"
+    ]
+}

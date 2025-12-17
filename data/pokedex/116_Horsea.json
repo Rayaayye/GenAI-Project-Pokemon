@@ -1,0 +1,35 @@
+{
+    "Name": "Horsea",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 80,
+    "Stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "special-attack": 70,
+        "special-defense": 25,
+        "speed": 60
+    },
+    "Description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+    "Evolution Chain": {
+        "Horsea": {
+            "Seadra": {
+                "Kingdra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

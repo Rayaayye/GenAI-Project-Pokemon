@@ -1,0 +1,42 @@
+{
+    "Name": "Togedemaru",
+    "Types": [
+        "electric",
+        "steel"
+    ],
+    "Height": 3,
+    "Weight": 33,
+    "Stats": {
+        "hp": 65,
+        "attack": 98,
+        "defense": 63,
+        "special-attack": 40,
+        "special-defense": 73,
+        "speed": 96
+    },
+    "Description": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
+    "Evolution Chain": {
+        "Togedemaru": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

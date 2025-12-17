@@ -1,0 +1,35 @@
+{
+    "Name": "Duskull",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 8,
+    "Weight": 150,
+    "Stats": {
+        "hp": 20,
+        "attack": 40,
+        "defense": 90,
+        "special-attack": 30,
+        "special-defense": 90,
+        "speed": 25
+    },
+    "Description": "DUSKULL can pass through any wall no matter how thick it may be. Once this POKéMON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+    "Evolution Chain": {
+        "Duskull": {
+            "Dusclops": {
+                "Dusknoir": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

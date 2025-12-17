@@ -1,0 +1,36 @@
+{
+    "Name": "Clefairy",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 6,
+    "Weight": 75,
+    "Stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "special-attack": 60,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "Description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "Evolution Chain": {
+        "Cleffa": {
+            "Clefairy": {
+                "Clefable": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

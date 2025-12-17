@@ -1,0 +1,40 @@
+{
+    "Name": "Rabsca",
+    "Types": [
+        "bug",
+        "psychic"
+    ],
+    "Height": 3,
+    "Weight": 35,
+    "Stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 85,
+        "special-attack": 115,
+        "special-defense": 100,
+        "speed": 45
+    },
+    "Description": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
+    "Evolution Chain": {
+        "Rellor": {
+            "Rabsca": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "flying",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

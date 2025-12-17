@@ -1,0 +1,33 @@
+{
+    "Name": "Shuppet",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 6,
+    "Weight": 23,
+    "Stats": {
+        "hp": 44,
+        "attack": 75,
+        "defense": 35,
+        "special-attack": 63,
+        "special-defense": 33,
+        "speed": 45
+    },
+    "Description": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home.",
+    "Evolution Chain": {
+        "Shuppet": {
+            "Banette": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

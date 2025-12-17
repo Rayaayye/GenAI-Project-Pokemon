@@ -1,0 +1,35 @@
+{
+    "Name": "Makuhita",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 10,
+    "Weight": 864,
+    "Stats": {
+        "hp": 72,
+        "attack": 60,
+        "defense": 30,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 25
+    },
+    "Description": "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving.",
+    "Evolution Chain": {
+        "Makuhita": {
+            "Hariyama": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

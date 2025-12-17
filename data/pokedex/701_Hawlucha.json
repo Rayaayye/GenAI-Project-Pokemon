@@ -1,0 +1,40 @@
+{
+    "Name": "Hawlucha",
+    "Types": [
+        "fighting",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 215,
+    "Stats": {
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "special-attack": 74,
+        "special-defense": 63,
+        "speed": 118
+    },
+    "Description": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
+    "Evolution Chain": {
+        "Hawlucha": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "flying",
+        "ice",
+        "fairy",
+        "rock"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

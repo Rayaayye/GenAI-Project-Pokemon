@@ -1,0 +1,41 @@
+{
+    "Name": "Drednaw",
+    "Types": [
+        "water",
+        "rock"
+    ],
+    "Height": 10,
+    "Weight": 1155,
+    "Stats": {
+        "hp": 90,
+        "attack": 115,
+        "defense": 90,
+        "special-attack": 48,
+        "special-defense": 68,
+        "speed": 74
+    },
+    "Description": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+    "Evolution Chain": {
+        "Chewtle": {
+            "Drednaw": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

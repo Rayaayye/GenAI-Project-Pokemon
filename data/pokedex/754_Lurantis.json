@@ -1,0 +1,36 @@
+{
+    "Name": "Lurantis",
+    "Types": [
+        "grass"
+    ],
+    "Height": 9,
+    "Weight": 185,
+    "Stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 45
+    },
+    "Description": "It requires a lot of effort to maintain Lurantis’s vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
+    "Evolution Chain": {
+        "Fomantis": {
+            "Lurantis": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Mankey",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 5,
+    "Weight": 280,
+    "Stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "Description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+    "Evolution Chain": {
+        "Mankey": {
+            "Primeape": {
+                "Annihilape": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

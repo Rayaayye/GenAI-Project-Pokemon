@@ -1,0 +1,42 @@
+{
+    "Name": "Altaria",
+    "Types": [
+        "dragon",
+        "flying"
+    ],
+    "Height": 11,
+    "Weight": 206,
+    "Stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 90,
+        "special-attack": 70,
+        "special-defense": 105,
+        "speed": 80
+    },
+    "Description": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
+    "Evolution Chain": {
+        "Swablu": {
+            "Altaria": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Nidoran-m",
+    "Types": [
+        "poison"
+    ],
+    "Height": 5,
+    "Weight": 90,
+    "Stats": {
+        "hp": 46,
+        "attack": 57,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 50
+    },
+    "Description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+    "Evolution Chain": {
+        "Nidoran-m": {
+            "Nidorino": {
+                "Nidoking": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

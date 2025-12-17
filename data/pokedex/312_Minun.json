@@ -1,0 +1,31 @@
+{
+    "Name": "Minun",
+    "Types": [
+        "electric"
+    ],
+    "Height": 4,
+    "Weight": 42,
+    "Stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 95
+    },
+    "Description": "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+    "Evolution Chain": {
+        "Minun": {}
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

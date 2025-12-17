@@ -1,0 +1,33 @@
+{
+    "Name": "Tadbulb",
+    "Types": [
+        "electric"
+    ],
+    "Height": 3,
+    "Weight": 4,
+    "Stats": {
+        "hp": 61,
+        "attack": 31,
+        "defense": 41,
+        "special-attack": 59,
+        "special-defense": 35,
+        "speed": 45
+    },
+    "Description": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+    "Evolution Chain": {
+        "Tadbulb": {
+            "Bellibolt": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

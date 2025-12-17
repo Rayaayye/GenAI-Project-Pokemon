@@ -1,0 +1,41 @@
+{
+    "Name": "Starmie",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 11,
+    "Weight": 800,
+    "Stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 100,
+        "special-defense": 85,
+        "speed": 115
+    },
+    "Description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+    "Evolution Chain": {
+        "Staryu": {
+            "Starmie": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

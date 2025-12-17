@@ -1,0 +1,44 @@
+{
+    "Name": "Quaquaval",
+    "Types": [
+        "water",
+        "fighting"
+    ],
+    "Height": 18,
+    "Weight": 619,
+    "Stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 80,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 85
+    },
+    "Description": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
+    "Evolution Chain": {
+        "Quaxly": {
+            "Quaxwell": {
+                "Quaquaval": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "grass",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

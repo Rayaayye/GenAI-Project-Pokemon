@@ -1,0 +1,41 @@
+{
+    "Name": "Grimmsnarl",
+    "Types": [
+        "dark",
+        "fairy"
+    ],
+    "Height": 15,
+    "Weight": 610,
+    "Stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "special-attack": 95,
+        "special-defense": 75,
+        "speed": 60
+    },
+    "Description": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
+    "Evolution Chain": {
+        "Impidimp": {
+            "Morgrem": {
+                "Grimmsnarl": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "poison",
+        "steel",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

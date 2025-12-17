@@ -1,0 +1,33 @@
+{
+    "Name": "Panpour",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 135,
+    "Stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special-attack": 53,
+        "special-defense": 48,
+        "speed": 64
+    },
+    "Description": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+    "Evolution Chain": {
+        "Panpour": {
+            "Simipour": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

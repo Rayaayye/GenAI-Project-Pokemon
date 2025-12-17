@@ -1,0 +1,36 @@
+{
+    "Name": "Rampardos",
+    "Types": [
+        "rock"
+    ],
+    "Height": 16,
+    "Weight": 1025,
+    "Stats": {
+        "hp": 97,
+        "attack": 165,
+        "defense": 60,
+        "special-attack": 65,
+        "special-defense": 50,
+        "speed": 58
+    },
+    "Description": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+    "Evolution Chain": {
+        "Cranidos": {
+            "Rampardos": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

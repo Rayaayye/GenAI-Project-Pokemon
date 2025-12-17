@@ -1,0 +1,38 @@
+{
+    "Name": "Grafaiai",
+    "Types": [
+        "poison",
+        "normal"
+    ],
+    "Height": 7,
+    "Weight": 272,
+    "Stats": {
+        "hp": 63,
+        "attack": 95,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 72,
+        "speed": 110
+    },
+    "Description": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "Evolution Chain": {
+        "Shroodle": {
+            "Grafaiai": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fighting",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

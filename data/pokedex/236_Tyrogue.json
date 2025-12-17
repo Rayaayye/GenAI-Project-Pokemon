@@ -1,0 +1,37 @@
+{
+    "Name": "Tyrogue",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 7,
+    "Weight": 210,
+    "Stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 35,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 35
+    },
+    "Description": "It is always bursting with en­ ergy. To make it­ self stronger, it keeps on fighting even if it loses.",
+    "Evolution Chain": {
+        "Tyrogue": {
+            "Hitmonlee": {},
+            "Hitmonchan": {},
+            "Hitmontop": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

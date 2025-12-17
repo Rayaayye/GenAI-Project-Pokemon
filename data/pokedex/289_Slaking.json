@@ -1,0 +1,31 @@
+{
+    "Name": "Slaking",
+    "Types": [
+        "normal"
+    ],
+    "Height": 20,
+    "Weight": 1305,
+    "Stats": {
+        "hp": 150,
+        "attack": 160,
+        "defense": 100,
+        "special-attack": 95,
+        "special-defense": 65,
+        "speed": 100
+    },
+    "Description": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",
+    "Evolution Chain": {
+        "Slakoth": {
+            "Vigoroth": {
+                "Slaking": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

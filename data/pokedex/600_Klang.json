@@ -1,0 +1,42 @@
+{
+    "Name": "Klang",
+    "Types": [
+        "steel"
+    ],
+    "Height": 6,
+    "Weight": 510,
+    "Stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 95,
+        "special-attack": 70,
+        "special-defense": 85,
+        "speed": 50
+    },
+    "Description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+    "Evolution Chain": {
+        "Klink": {
+            "Klang": {
+                "Klinklang": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

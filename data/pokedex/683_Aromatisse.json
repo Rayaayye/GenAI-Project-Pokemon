@@ -1,0 +1,34 @@
+{
+    "Name": "Aromatisse",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 8,
+    "Weight": 155,
+    "Stats": {
+        "hp": 101,
+        "attack": 72,
+        "defense": 72,
+        "special-attack": 99,
+        "special-defense": 89,
+        "speed": 29
+    },
+    "Description": "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.",
+    "Evolution Chain": {
+        "Spritzee": {
+            "Aromatisse": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Slowpoke",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 12,
+    "Weight": 360,
+    "Stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 15
+    },
+    "Description": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+    "Evolution Chain": {
+        "Slowpoke": {
+            "Slowbro": {},
+            "Slowking": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Raboot",
+    "Types": [
+        "fire"
+    ],
+    "Height": 6,
+    "Weight": 90,
+    "Stats": {
+        "hp": 65,
+        "attack": 86,
+        "defense": 60,
+        "special-attack": 55,
+        "special-defense": 60,
+        "speed": 94
+    },
+    "Description": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+    "Evolution Chain": {
+        "Scorbunny": {
+            "Raboot": {
+                "Cinderace": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Roserade",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 9,
+    "Weight": 145,
+    "Stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 65,
+        "special-attack": 125,
+        "special-defense": 105,
+        "speed": 90
+    },
+    "Description": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+    "Evolution Chain": {
+        "Budew": {
+            "Roselia": {
+                "Roserade": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Voltorb",
+    "Types": [
+        "electric"
+    ],
+    "Height": 5,
+    "Weight": 104,
+    "Stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 100
+    },
+    "Description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+    "Evolution Chain": {
+        "Voltorb": {
+            "Electrode": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Naganadel",
+    "Types": [
+        "poison",
+        "dragon"
+    ],
+    "Height": 36,
+    "Weight": 1500,
+    "Stats": {
+        "hp": 73,
+        "attack": 73,
+        "defense": 73,
+        "special-attack": 127,
+        "special-defense": 73,
+        "speed": 121
+    },
+    "Description": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+    "Evolution Chain": {
+        "Poipole": {
+            "Naganadel": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

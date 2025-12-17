@@ -1,0 +1,40 @@
+{
+    "Name": "Pyroar",
+    "Types": [
+        "fire",
+        "normal"
+    ],
+    "Height": 15,
+    "Weight": 815,
+    "Stats": {
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "special-attack": 109,
+        "special-defense": 66,
+        "speed": 106
+    },
+    "Description": "The male with the largest mane of fire is the leader of the pride.",
+    "Evolution Chain": {
+        "Litleo": {
+            "Pyroar": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

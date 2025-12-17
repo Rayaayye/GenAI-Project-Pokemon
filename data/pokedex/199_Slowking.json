@@ -1,0 +1,42 @@
+{
+    "Name": "Slowking",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 20,
+    "Weight": 795,
+    "Stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 80,
+        "special-attack": 100,
+        "special-defense": 110,
+        "speed": 30
+    },
+    "Description": "It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected.",
+    "Evolution Chain": {
+        "Slowpoke": {
+            "Slowbro": {},
+            "Slowking": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

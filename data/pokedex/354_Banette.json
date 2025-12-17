@@ -1,0 +1,33 @@
+{
+    "Name": "Banette",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 11,
+    "Weight": 125,
+    "Stats": {
+        "hp": 64,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 83,
+        "special-defense": 63,
+        "speed": 65
+    },
+    "Description": "BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away.",
+    "Evolution Chain": {
+        "Shuppet": {
+            "Banette": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

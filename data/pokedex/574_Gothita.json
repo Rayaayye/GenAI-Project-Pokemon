@@ -1,0 +1,36 @@
+{
+    "Name": "Gothita",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 58,
+    "Stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 50,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "Description": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+    "Evolution Chain": {
+        "Gothita": {
+            "Gothorita": {
+                "Gothitelle": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Raikou",
+    "Types": [
+        "electric"
+    ],
+    "Height": 19,
+    "Weight": 1780,
+    "Stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 75,
+        "special-attack": 115,
+        "special-defense": 100,
+        "speed": 115
+    },
+    "Description": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+    "Evolution Chain": {
+        "Raikou": {}
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

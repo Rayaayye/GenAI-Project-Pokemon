@@ -1,0 +1,41 @@
+{
+    "Name": "Kabuto",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 115,
+    "Stats": {
+        "hp": 30,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 55,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "Description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+    "Evolution Chain": {
+        "Kabuto": {
+            "Kabutops": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

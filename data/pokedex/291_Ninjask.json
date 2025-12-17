@@ -1,0 +1,40 @@
+{
+    "Name": "Ninjask",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 120,
+    "Stats": {
+        "hp": 61,
+        "attack": 90,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 160
+    },
+    "Description": "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible.",
+    "Evolution Chain": {
+        "Nincada": {
+            "Ninjask": {},
+            "Shedinja": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

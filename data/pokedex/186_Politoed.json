@@ -1,0 +1,36 @@
+{
+    "Name": "Politoed",
+    "Types": [
+        "water"
+    ],
+    "Height": 11,
+    "Weight": 339,
+    "Stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 75,
+        "special-attack": 90,
+        "special-defense": 100,
+        "speed": 70
+    },
+    "Description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide.",
+    "Evolution Chain": {
+        "Poliwag": {
+            "Poliwhirl": {
+                "Poliwrath": {},
+                "Politoed": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

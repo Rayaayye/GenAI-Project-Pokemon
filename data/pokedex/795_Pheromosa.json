@@ -1,0 +1,39 @@
+{
+    "Name": "Pheromosa",
+    "Types": [
+        "bug",
+        "fighting"
+    ],
+    "Height": 18,
+    "Weight": 250,
+    "Stats": {
+        "hp": 71,
+        "attack": 137,
+        "defense": 37,
+        "special-attack": 137,
+        "special-defense": 37,
+        "speed": 151
+    },
+    "Description": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
+    "Evolution Chain": {
+        "Pheromosa": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Corsola",
+    "Types": [
+        "water",
+        "rock"
+    ],
+    "Height": 6,
+    "Weight": 50,
+    "Stats": {
+        "hp": 65,
+        "attack": 55,
+        "defense": 95,
+        "special-attack": 65,
+        "special-defense": 95,
+        "speed": 35
+    },
+    "Description": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+    "Evolution Chain": {
+        "Corsola": {
+            "Cursola": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

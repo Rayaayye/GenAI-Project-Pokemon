@@ -1,0 +1,30 @@
+{
+    "Name": "Persian",
+    "Types": [
+        "normal"
+    ],
+    "Height": 10,
+    "Weight": 320,
+    "Stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 115
+    },
+    "Description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+    "Evolution Chain": {
+        "Meowth": {
+            "Persian": {},
+            "Perrserker": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

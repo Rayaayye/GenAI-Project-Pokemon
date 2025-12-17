@@ -1,0 +1,40 @@
+{
+    "Name": "Ribombee",
+    "Types": [
+        "bug",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 5,
+    "Stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 70,
+        "speed": 124
+    },
+    "Description": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+    "Evolution Chain": {
+        "Cutiefly": {
+            "Ribombee": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "poison",
+        "flying",
+        "steel",
+        "rock"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Lechonk",
+    "Types": [
+        "normal"
+    ],
+    "Height": 5,
+    "Weight": 102,
+    "Stats": {
+        "hp": 54,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "Description": "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.",
+    "Evolution Chain": {
+        "Lechonk": {
+            "Oinkologne": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

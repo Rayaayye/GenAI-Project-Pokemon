@@ -1,0 +1,41 @@
+{
+    "Name": "Onix",
+    "Types": [
+        "rock",
+        "ground"
+    ],
+    "Height": 88,
+    "Weight": 2100,
+    "Stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "special-attack": 30,
+        "special-defense": 45,
+        "speed": 70
+    },
+    "Description": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+    "Evolution Chain": {
+        "Onix": {
+            "Steelix": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

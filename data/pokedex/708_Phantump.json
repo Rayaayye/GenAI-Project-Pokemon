@@ -1,0 +1,43 @@
+{
+    "Name": "Phantump",
+    "Types": [
+        "ghost",
+        "grass"
+    ],
+    "Height": 4,
+    "Weight": 70,
+    "Stats": {
+        "hp": 43,
+        "attack": 70,
+        "defense": 48,
+        "special-attack": 50,
+        "special-defense": 60,
+        "speed": 38
+    },
+    "Description": "These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.",
+    "Evolution Chain": {
+        "Phantump": {
+            "Trevenant": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

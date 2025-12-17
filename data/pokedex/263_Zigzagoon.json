@@ -1,0 +1,31 @@
+{
+    "Name": "Zigzagoon",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 175,
+    "Stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "special-attack": 30,
+        "special-defense": 41,
+        "speed": 60
+    },
+    "Description": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.",
+    "Evolution Chain": {
+        "Zigzagoon": {
+            "Linoone": {
+                "Obstagoon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Throh",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 13,
+    "Weight": 555,
+    "Stats": {
+        "hp": 120,
+        "attack": 100,
+        "defense": 85,
+        "special-attack": 30,
+        "special-defense": 85,
+        "speed": 45
+    },
+    "Description": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+    "Evolution Chain": {
+        "Throh": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

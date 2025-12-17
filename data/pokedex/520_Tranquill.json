@@ -1,0 +1,40 @@
+{
+    "Name": "Tranquill",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 150,
+    "Stats": {
+        "hp": 62,
+        "attack": 77,
+        "defense": 62,
+        "special-attack": 50,
+        "special-defense": 42,
+        "speed": 65
+    },
+    "Description": "It can return to its Trainer’s location regardless of the distance separating them.",
+    "Evolution Chain": {
+        "Pidove": {
+            "Tranquill": {
+                "Unfezant": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

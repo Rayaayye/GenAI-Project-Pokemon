@@ -1,0 +1,34 @@
+{
+    "Name": "Sandshrew",
+    "Types": [
+        "ground"
+    ],
+    "Height": 6,
+    "Weight": 120,
+    "Stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "special-attack": 20,
+        "special-defense": 30,
+        "speed": 40
+    },
+    "Description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "Evolution Chain": {
+        "Sandshrew": {
+            "Sandslash": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Klinklang",
+    "Types": [
+        "steel"
+    ],
+    "Height": 6,
+    "Weight": 810,
+    "Stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 115,
+        "special-attack": 70,
+        "special-defense": 85,
+        "speed": 90
+    },
+    "Description": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+    "Evolution Chain": {
+        "Klink": {
+            "Klang": {
+                "Klinklang": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Archaludon",
+    "Types": [
+        "steel",
+        "dragon"
+    ],
+    "Height": 20,
+    "Weight": 600,
+    "Stats": {
+        "hp": 90,
+        "attack": 105,
+        "defense": 130,
+        "special-attack": 125,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+    "Evolution Chain": {
+        "Duraludon": {
+            "Archaludon": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

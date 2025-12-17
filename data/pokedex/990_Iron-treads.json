@@ -1,0 +1,45 @@
+{
+    "Name": "Iron-treads",
+    "Types": [
+        "ground",
+        "steel"
+    ],
+    "Height": 9,
+    "Weight": 2400,
+    "Stats": {
+        "hp": 90,
+        "attack": 112,
+        "defense": 120,
+        "special-attack": 72,
+        "special-defense": 70,
+        "speed": 106
+    },
+    "Description": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+    "Evolution Chain": {
+        "Iron-treads": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

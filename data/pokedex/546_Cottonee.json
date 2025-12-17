@@ -1,0 +1,43 @@
+{
+    "Name": "Cottonee",
+    "Types": [
+        "grass",
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 6,
+    "Stats": {
+        "hp": 40,
+        "attack": 27,
+        "defense": 60,
+        "special-attack": 37,
+        "special-defense": 50,
+        "speed": 66
+    },
+    "Description": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "Evolution Chain": {
+        "Cottonee": {
+            "Whimsicott": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

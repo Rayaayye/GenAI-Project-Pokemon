@@ -1,0 +1,35 @@
+{
+    "Name": "Electabuzz",
+    "Types": [
+        "electric"
+    ],
+    "Height": 11,
+    "Weight": 300,
+    "Stats": {
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 105
+    },
+    "Description": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+    "Evolution Chain": {
+        "Elekid": {
+            "Electabuzz": {
+                "Electivire": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

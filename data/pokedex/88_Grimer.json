@@ -1,0 +1,34 @@
+{
+    "Name": "Grimer",
+    "Types": [
+        "poison"
+    ],
+    "Height": 9,
+    "Weight": 300,
+    "Stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 25
+    },
+    "Description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+    "Evolution Chain": {
+        "Grimer": {
+            "Muk": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

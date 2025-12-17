@@ -1,0 +1,40 @@
+{
+    "Name": "Toucannon",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 11,
+    "Weight": 260,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 75,
+        "special-attack": 75,
+        "special-defense": 75,
+        "speed": 60
+    },
+    "Description": "When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits.",
+    "Evolution Chain": {
+        "Pikipek": {
+            "Trumbeak": {
+                "Toucannon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Drizzile",
+    "Types": [
+        "water"
+    ],
+    "Height": 7,
+    "Weight": 115,
+    "Stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 55,
+        "special-attack": 95,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "Description": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+    "Evolution Chain": {
+        "Sobble": {
+            "Drizzile": {
+                "Inteleon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

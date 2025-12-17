@@ -1,0 +1,39 @@
+{
+    "Name": "Lokix",
+    "Types": [
+        "bug",
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 175,
+    "Stats": {
+        "hp": 71,
+        "attack": 102,
+        "defense": 78,
+        "special-attack": 52,
+        "special-defense": 55,
+        "speed": 92
+    },
+    "Description": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+    "Evolution Chain": {
+        "Nymble": {
+            "Lokix": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "flying",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "grass",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": []
+}

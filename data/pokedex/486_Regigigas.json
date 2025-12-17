@@ -1,0 +1,27 @@
+{
+    "Name": "Regigigas",
+    "Types": [
+        "normal"
+    ],
+    "Height": 37,
+    "Weight": 4200,
+    "Stats": {
+        "hp": 110,
+        "attack": 160,
+        "defense": 110,
+        "special-attack": 80,
+        "special-defense": 110,
+        "speed": 100
+    },
+    "Description": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+    "Evolution Chain": {
+        "Regigigas": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

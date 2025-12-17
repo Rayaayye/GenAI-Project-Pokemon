@@ -1,0 +1,38 @@
+{
+    "Name": "Zapdos",
+    "Types": [
+        "electric",
+        "flying"
+    ],
+    "Height": 16,
+    "Weight": 526,
+    "Stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 85,
+        "special-attack": 125,
+        "special-defense": 90,
+        "speed": 100
+    },
+    "Description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
+    "Evolution Chain": {
+        "Zapdos": {}
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "steel",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

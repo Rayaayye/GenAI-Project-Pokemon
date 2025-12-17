@@ -1,0 +1,44 @@
+{
+    "Name": "Stakataka",
+    "Types": [
+        "rock",
+        "steel"
+    ],
+    "Height": 55,
+    "Weight": 8200,
+    "Stats": {
+        "hp": 61,
+        "attack": 131,
+        "defense": 211,
+        "special-attack": 53,
+        "special-defense": 101,
+        "speed": 13
+    },
+    "Description": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+    "Evolution Chain": {
+        "Stakataka": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

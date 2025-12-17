@@ -1,0 +1,34 @@
+{
+    "Name": "Mudbray",
+    "Types": [
+        "ground"
+    ],
+    "Height": 10,
+    "Weight": 1100,
+    "Stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 45
+    },
+    "Description": "The mud stuck to Mudbray’s hooves enhances its grip and its powerful running gait.",
+    "Evolution Chain": {
+        "Mudbray": {
+            "Mudsdale": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

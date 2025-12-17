@@ -1,0 +1,36 @@
+{
+    "Name": "Eevee",
+    "Types": [
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 65,
+    "Stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 55
+    },
+    "Description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

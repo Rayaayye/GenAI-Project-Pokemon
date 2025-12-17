@@ -1,0 +1,33 @@
+{
+    "Name": "Clauncher",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 83,
+    "Stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "special-attack": 58,
+        "special-defense": 63,
+        "speed": 44
+    },
+    "Description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+    "Evolution Chain": {
+        "Clauncher": {
+            "Clawitzer": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

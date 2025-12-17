@@ -1,0 +1,46 @@
+{
+    "Name": "Applin",
+    "Types": [
+        "grass",
+        "dragon"
+    ],
+    "Height": 2,
+    "Weight": 5,
+    "Stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "Description": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
+    "Evolution Chain": {
+        "Applin": {
+            "Flapple": {},
+            "Appletun": {},
+            "Dipplin": {
+                "Hydrapple": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

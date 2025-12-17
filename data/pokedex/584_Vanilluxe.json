@@ -1,0 +1,34 @@
+{
+    "Name": "Vanilluxe",
+    "Types": [
+        "ice"
+    ],
+    "Height": 13,
+    "Weight": 575,
+    "Stats": {
+        "hp": 71,
+        "attack": 95,
+        "defense": 85,
+        "special-attack": 110,
+        "special-defense": 95,
+        "speed": 79
+    },
+    "Description": "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.",
+    "Evolution Chain": {
+        "Vanillite": {
+            "Vanillish": {
+                "Vanilluxe": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

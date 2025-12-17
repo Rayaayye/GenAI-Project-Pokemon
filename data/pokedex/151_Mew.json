@@ -1,0 +1,32 @@
+{
+    "Name": "Mew",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 40,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "Description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "Evolution Chain": {
+        "Mew": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

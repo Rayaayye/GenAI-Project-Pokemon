@@ -1,0 +1,27 @@
+{
+    "Name": "Ditto",
+    "Types": [
+        "normal"
+    ],
+    "Height": 3,
+    "Weight": 40,
+    "Stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "special-attack": 48,
+        "special-defense": 48,
+        "speed": 48
+    },
+    "Description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "Evolution Chain": {
+        "Ditto": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

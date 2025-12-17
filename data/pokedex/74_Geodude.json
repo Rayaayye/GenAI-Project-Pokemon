@@ -1,0 +1,43 @@
+{
+    "Name": "Geodude",
+    "Types": [
+        "rock",
+        "ground"
+    ],
+    "Height": 4,
+    "Weight": 200,
+    "Stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 20
+    },
+    "Description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "Evolution Chain": {
+        "Geodude": {
+            "Graveler": {
+                "Golem": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

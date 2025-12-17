@@ -1,0 +1,42 @@
+{
+    "Name": "Golbat",
+    "Types": [
+        "poison",
+        "flying"
+    ],
+    "Height": 16,
+    "Weight": 550,
+    "Stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 90
+    },
+    "Description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "Evolution Chain": {
+        "Zubat": {
+            "Golbat": {
+                "Crobat": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ice",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

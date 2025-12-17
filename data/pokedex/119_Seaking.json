@@ -1,0 +1,33 @@
+{
+    "Name": "Seaking",
+    "Types": [
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 390,
+    "Stats": {
+        "hp": 80,
+        "attack": 92,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 80,
+        "speed": 68
+    },
+    "Description": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+    "Evolution Chain": {
+        "Goldeen": {
+            "Seaking": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

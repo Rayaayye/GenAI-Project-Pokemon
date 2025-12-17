@@ -1,0 +1,34 @@
+{
+    "Name": "Arbok",
+    "Types": [
+        "poison"
+    ],
+    "Height": 35,
+    "Weight": 650,
+    "Stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 69,
+        "special-attack": 65,
+        "special-defense": 79,
+        "speed": 80
+    },
+    "Description": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "Evolution Chain": {
+        "Ekans": {
+            "Arbok": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Nuzleaf",
+    "Types": [
+        "grass",
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 280,
+    "Stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 40,
+        "special-attack": 60,
+        "special-defense": 40,
+        "speed": 60
+    },
+    "Description": "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched.",
+    "Evolution Chain": {
+        "Seedot": {
+            "Nuzleaf": {
+                "Shiftry": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "grass",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Roaring-moon",
+    "Types": [
+        "dragon",
+        "dark"
+    ],
+    "Height": 20,
+    "Weight": 3800,
+    "Stats": {
+        "hp": 105,
+        "attack": 139,
+        "defense": 71,
+        "special-attack": 55,
+        "special-defense": 101,
+        "speed": 119
+    },
+    "Description": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "Evolution Chain": {
+        "Roaring-moon": {}
+    },
+    "Weaknesses": [
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ghost"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Psyduck",
+    "Types": [
+        "water"
+    ],
+    "Height": 8,
+    "Weight": 196,
+    "Stats": {
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "special-attack": 65,
+        "special-defense": 50,
+        "speed": 55
+    },
+    "Description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
+    "Evolution Chain": {
+        "Psyduck": {
+            "Golduck": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

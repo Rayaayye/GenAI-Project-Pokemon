@@ -1,0 +1,47 @@
+{
+    "Name": "Bisharp",
+    "Types": [
+        "dark",
+        "steel"
+    ],
+    "Height": 16,
+    "Weight": 700,
+    "Stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 60,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+    "Evolution Chain": {
+        "Pawniard": {
+            "Bisharp": {
+                "Kingambit": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ghost"
+    ],
+    "Immunities": []
+}

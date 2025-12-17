@@ -1,0 +1,32 @@
+{
+    "Name": "Xerneas",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 30,
+    "Weight": 2150,
+    "Stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "special-attack": 131,
+        "special-defense": 98,
+        "speed": 99
+    },
+    "Description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+    "Evolution Chain": {
+        "Xerneas": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Ambipom",
+    "Types": [
+        "normal"
+    ],
+    "Height": 12,
+    "Weight": 203,
+    "Stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 66,
+        "special-attack": 60,
+        "special-defense": 66,
+        "speed": 115
+    },
+    "Description": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+    "Evolution Chain": {
+        "Aipom": {
+            "Ambipom": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

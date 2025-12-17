@@ -1,0 +1,40 @@
+{
+    "Name": "Trumbeak",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 148,
+    "Stats": {
+        "hp": 55,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 75
+    },
+    "Description": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+    "Evolution Chain": {
+        "Pikipek": {
+            "Trumbeak": {
+                "Toucannon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

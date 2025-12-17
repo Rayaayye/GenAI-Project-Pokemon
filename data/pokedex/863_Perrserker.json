@@ -1,0 +1,41 @@
+{
+    "Name": "Perrserker",
+    "Types": [
+        "steel"
+    ],
+    "Height": 8,
+    "Weight": 280,
+    "Stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 100,
+        "special-attack": 50,
+        "special-defense": 60,
+        "speed": 50
+    },
+    "Description": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+    "Evolution Chain": {
+        "Meowth": {
+            "Persian": {},
+            "Perrserker": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

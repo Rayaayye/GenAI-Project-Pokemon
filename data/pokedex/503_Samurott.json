@@ -1,0 +1,35 @@
+{
+    "Name": "Samurott",
+    "Types": [
+        "water"
+    ],
+    "Height": 15,
+    "Weight": 946,
+    "Stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "special-attack": 108,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+    "Evolution Chain": {
+        "Oshawott": {
+            "Dewott": {
+                "Samurott": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Blitzle",
+    "Types": [
+        "electric"
+    ],
+    "Height": 8,
+    "Weight": 298,
+    "Stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 32,
+        "special-attack": 50,
+        "special-defense": 32,
+        "speed": 76
+    },
+    "Description": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+    "Evolution Chain": {
+        "Blitzle": {
+            "Zebstrika": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Obstagoon",
+    "Types": [
+        "dark",
+        "normal"
+    ],
+    "Height": 16,
+    "Weight": 460,
+    "Stats": {
+        "hp": 93,
+        "attack": 90,
+        "defense": 101,
+        "special-attack": 60,
+        "special-defense": 81,
+        "speed": 95
+    },
+    "Description": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+    "Evolution Chain": {
+        "Zigzagoon": {
+            "Linoone": {
+                "Obstagoon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Basculegion-male",
+    "Types": [
+        "water",
+        "ghost"
+    ],
+    "Height": 30,
+    "Weight": 1100,
+    "Stats": {
+        "hp": 120,
+        "attack": 112,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 75,
+        "speed": 78
+    },
+    "Description": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
+    "Evolution Chain": {
+        "Basculin": {
+            "Basculegion": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "ghost",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "poison",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

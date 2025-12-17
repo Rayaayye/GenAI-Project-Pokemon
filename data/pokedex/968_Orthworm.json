@@ -1,0 +1,38 @@
+{
+    "Name": "Orthworm",
+    "Types": [
+        "steel"
+    ],
+    "Height": 25,
+    "Weight": 3100,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 145,
+        "special-attack": 60,
+        "special-defense": 55,
+        "speed": 65
+    },
+    "Description": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "Evolution Chain": {
+        "Orthworm": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

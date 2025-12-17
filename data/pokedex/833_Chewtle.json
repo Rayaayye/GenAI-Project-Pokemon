@@ -1,0 +1,33 @@
+{
+    "Name": "Chewtle",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 85,
+    "Stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special-attack": 38,
+        "special-defense": 38,
+        "speed": 44
+    },
+    "Description": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+    "Evolution Chain": {
+        "Chewtle": {
+            "Drednaw": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

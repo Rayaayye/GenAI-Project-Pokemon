@@ -1,0 +1,32 @@
+{
+    "Name": "Cetitan",
+    "Types": [
+        "ice"
+    ],
+    "Height": 45,
+    "Weight": 7000,
+    "Stats": {
+        "hp": 170,
+        "attack": 113,
+        "defense": 65,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 73
+    },
+    "Description": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+    "Evolution Chain": {
+        "Cetoddle": {
+            "Cetitan": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

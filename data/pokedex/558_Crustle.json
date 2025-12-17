@@ -1,0 +1,43 @@
+{
+    "Name": "Crustle",
+    "Types": [
+        "bug",
+        "rock"
+    ],
+    "Height": 14,
+    "Weight": 2000,
+    "Stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 125,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 45
+    },
+    "Description": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+    "Evolution Chain": {
+        "Dwebble": {
+            "Crustle": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

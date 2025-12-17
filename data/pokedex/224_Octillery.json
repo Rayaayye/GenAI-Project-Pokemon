@@ -1,0 +1,33 @@
+{
+    "Name": "Octillery",
+    "Types": [
+        "water"
+    ],
+    "Height": 9,
+    "Weight": 285,
+    "Stats": {
+        "hp": 75,
+        "attack": 105,
+        "defense": 75,
+        "special-attack": 105,
+        "special-defense": 75,
+        "speed": 45
+    },
+    "Description": "It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head.",
+    "Evolution Chain": {
+        "Remoraid": {
+            "Octillery": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

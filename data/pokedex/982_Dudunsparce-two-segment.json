@@ -1,0 +1,29 @@
+{
+    "Name": "Dudunsparce-two-segment",
+    "Types": [
+        "normal"
+    ],
+    "Height": 36,
+    "Weight": 392,
+    "Stats": {
+        "hp": 125,
+        "attack": 100,
+        "defense": 80,
+        "special-attack": 85,
+        "special-defense": 75,
+        "speed": 55
+    },
+    "Description": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+    "Evolution Chain": {
+        "Dunsparce": {
+            "Dudunsparce": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

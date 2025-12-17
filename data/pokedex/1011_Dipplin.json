@@ -1,0 +1,46 @@
+{
+    "Name": "Dipplin",
+    "Types": [
+        "grass",
+        "dragon"
+    ],
+    "Height": 4,
+    "Weight": 97,
+    "Stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 110,
+        "special-attack": 95,
+        "special-defense": 80,
+        "speed": 40
+    },
+    "Description": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+    "Evolution Chain": {
+        "Applin": {
+            "Flapple": {},
+            "Appletun": {},
+            "Dipplin": {
+                "Hydrapple": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

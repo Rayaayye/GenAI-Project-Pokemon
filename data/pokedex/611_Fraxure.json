@@ -1,0 +1,38 @@
+{
+    "Name": "Fraxure",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 10,
+    "Weight": 360,
+    "Stats": {
+        "hp": 66,
+        "attack": 117,
+        "defense": 70,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 67
+    },
+    "Description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting.",
+    "Evolution Chain": {
+        "Axew": {
+            "Fraxure": {
+                "Haxorus": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

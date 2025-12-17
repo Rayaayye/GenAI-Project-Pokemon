@@ -1,0 +1,33 @@
+{
+    "Name": "Krabby",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 65,
+    "Stats": {
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 50
+    },
+    "Description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+    "Evolution Chain": {
+        "Krabby": {
+            "Kingler": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

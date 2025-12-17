@@ -1,0 +1,33 @@
+{
+    "Name": "Falinks",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 30,
+    "Weight": 620,
+    "Stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 70,
+        "special-defense": 60,
+        "speed": 75
+    },
+    "Description": "Five of them are troopers, and one is the brass. The brass’s orders are absolute.",
+    "Evolution Chain": {
+        "Falinks": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

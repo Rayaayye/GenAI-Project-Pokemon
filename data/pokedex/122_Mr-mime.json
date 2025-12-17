@@ -1,0 +1,42 @@
+{
+    "Name": "Mr-mime",
+    "Types": [
+        "psychic",
+        "fairy"
+    ],
+    "Height": 13,
+    "Weight": 545,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 65,
+        "special-attack": 100,
+        "special-defense": 120,
+        "speed": 90
+    },
+    "Description": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+    "Evolution Chain": {
+        "Mime-jr": {
+            "Mr-mime": {
+                "Mr-rime": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

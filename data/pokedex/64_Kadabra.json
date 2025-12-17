@@ -1,0 +1,36 @@
+{
+    "Name": "Kadabra",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 13,
+    "Weight": 565,
+    "Stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 120,
+        "special-defense": 70,
+        "speed": 105
+    },
+    "Description": "It emits special alpha waves from its body that induce headaches just by being close by.",
+    "Evolution Chain": {
+        "Abra": {
+            "Kadabra": {
+                "Alakazam": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

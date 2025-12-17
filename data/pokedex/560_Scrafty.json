@@ -1,0 +1,39 @@
+{
+    "Name": "Scrafty",
+    "Types": [
+        "dark",
+        "fighting"
+    ],
+    "Height": 11,
+    "Weight": 300,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 115,
+        "special-attack": 45,
+        "special-defense": 115,
+        "speed": 58
+    },
+    "Description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+    "Evolution Chain": {
+        "Scraggy": {
+            "Scrafty": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "flying",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug",
+        "ghost"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

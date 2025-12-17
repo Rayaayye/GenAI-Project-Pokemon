@@ -1,0 +1,29 @@
+{
+    "Name": "Sentret",
+    "Types": [
+        "normal"
+    ],
+    "Height": 8,
+    "Weight": 60,
+    "Stats": {
+        "hp": 35,
+        "attack": 46,
+        "defense": 34,
+        "special-attack": 35,
+        "special-defense": 45,
+        "speed": 20
+    },
+    "Description": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings.",
+    "Evolution Chain": {
+        "Sentret": {
+            "Furret": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

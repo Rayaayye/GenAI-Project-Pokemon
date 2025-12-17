@@ -1,0 +1,38 @@
+{
+    "Name": "Swellow",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 7,
+    "Weight": 198,
+    "Stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special-attack": 75,
+        "special-defense": 50,
+        "speed": 125
+    },
+    "Description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
+    "Evolution Chain": {
+        "Taillow": {
+            "Swellow": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

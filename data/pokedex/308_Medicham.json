@@ -1,0 +1,42 @@
+{
+    "Name": "Medicham",
+    "Types": [
+        "fighting",
+        "psychic"
+    ],
+    "Height": 13,
+    "Weight": 315,
+    "Stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special-attack": 60,
+        "special-defense": 75,
+        "speed": 80
+    },
+    "Description": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POKéMON hides its presence by merging itself with fields and mountains.",
+    "Evolution Chain": {
+        "Meditite": {
+            "Medicham": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "bug",
+        "flying",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

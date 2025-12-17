@@ -1,0 +1,41 @@
+{
+    "Name": "Woobat",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 21,
+    "Stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 43,
+        "special-attack": 55,
+        "special-defense": 43,
+        "speed": 72
+    },
+    "Description": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+    "Evolution Chain": {
+        "Woobat": {
+            "Swoobat": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

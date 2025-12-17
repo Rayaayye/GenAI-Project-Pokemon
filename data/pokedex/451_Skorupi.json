@@ -1,0 +1,39 @@
+{
+    "Name": "Skorupi",
+    "Types": [
+        "poison",
+        "bug"
+    ],
+    "Height": 8,
+    "Weight": 120,
+    "Stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 90,
+        "special-attack": 30,
+        "special-defense": 55,
+        "speed": 65
+    },
+    "Description": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+    "Evolution Chain": {
+        "Skorupi": {
+            "Drapion": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

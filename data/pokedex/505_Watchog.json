@@ -1,0 +1,29 @@
+{
+    "Name": "Watchog",
+    "Types": [
+        "normal"
+    ],
+    "Height": 11,
+    "Weight": 270,
+    "Stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 69,
+        "special-attack": 60,
+        "special-defense": 69,
+        "speed": 77
+    },
+    "Description": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+    "Evolution Chain": {
+        "Patrat": {
+            "Watchog": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

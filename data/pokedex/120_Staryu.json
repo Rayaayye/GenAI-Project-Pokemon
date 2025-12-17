@@ -1,0 +1,33 @@
+{
+    "Name": "Staryu",
+    "Types": [
+        "water"
+    ],
+    "Height": 8,
+    "Weight": 345,
+    "Stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 55,
+        "special-attack": 70,
+        "special-defense": 55,
+        "speed": 85
+    },
+    "Description": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "Evolution Chain": {
+        "Staryu": {
+            "Starmie": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

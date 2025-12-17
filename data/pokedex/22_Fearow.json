@@ -1,0 +1,38 @@
+{
+    "Name": "Fearow",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 12,
+    "Weight": 380,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "special-attack": 61,
+        "special-defense": 61,
+        "speed": 100
+    },
+    "Description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+    "Evolution Chain": {
+        "Spearow": {
+            "Fearow": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

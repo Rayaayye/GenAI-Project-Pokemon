@@ -1,0 +1,40 @@
+{
+    "Name": "Fletchling",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 17,
+    "Stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 43,
+        "special-attack": 40,
+        "special-defense": 38,
+        "speed": 62
+    },
+    "Description": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+    "Evolution Chain": {
+        "Fletchling": {
+            "Fletchinder": {
+                "Talonflame": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

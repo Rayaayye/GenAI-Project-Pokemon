@@ -1,0 +1,43 @@
+{
+    "Name": "Foongus",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 2,
+    "Weight": 10,
+    "Stats": {
+        "hp": 69,
+        "attack": 55,
+        "defense": 45,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 15
+    },
+    "Description": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+    "Evolution Chain": {
+        "Foongus": {
+            "Amoonguss": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

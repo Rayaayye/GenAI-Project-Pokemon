@@ -1,0 +1,39 @@
+{
+    "Name": "Azurill",
+    "Types": [
+        "normal",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 20,
+    "Stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 40,
+        "special-attack": 20,
+        "special-defense": 40,
+        "speed": 20
+    },
+    "Description": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+    "Evolution Chain": {
+        "Azurill": {
+            "Marill": {
+                "Azumarill": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "steel",
+        "poison"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "ghost"
+    ]
+}

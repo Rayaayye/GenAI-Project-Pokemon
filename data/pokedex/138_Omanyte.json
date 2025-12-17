@@ -1,0 +1,41 @@
+{
+    "Name": "Omanyte",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 75,
+    "Stats": {
+        "hp": 35,
+        "attack": 40,
+        "defense": 100,
+        "special-attack": 90,
+        "special-defense": 55,
+        "speed": 35
+    },
+    "Description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+    "Evolution Chain": {
+        "Omanyte": {
+            "Omastar": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

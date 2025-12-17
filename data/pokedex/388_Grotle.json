@@ -1,0 +1,38 @@
+{
+    "Name": "Grotle",
+    "Types": [
+        "grass"
+    ],
+    "Height": 11,
+    "Weight": 970,
+    "Stats": {
+        "hp": 75,
+        "attack": 89,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 65,
+        "speed": 36
+    },
+    "Description": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+    "Evolution Chain": {
+        "Turtwig": {
+            "Grotle": {
+                "Torterra": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

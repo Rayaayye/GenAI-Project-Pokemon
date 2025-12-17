@@ -1,0 +1,27 @@
+{
+    "Name": "Kecleon",
+    "Types": [
+        "normal"
+    ],
+    "Height": 10,
+    "Weight": 220,
+    "Stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 120,
+        "speed": 40
+    },
+    "Description": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+    "Evolution Chain": {
+        "Kecleon": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Forretress",
+    "Types": [
+        "bug",
+        "steel"
+    ],
+    "Height": 12,
+    "Weight": 1258,
+    "Stats": {
+        "hp": 75,
+        "attack": 90,
+        "defense": 140,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 40
+    },
+    "Description": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+    "Evolution Chain": {
+        "Pineco": {
+            "Forretress": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

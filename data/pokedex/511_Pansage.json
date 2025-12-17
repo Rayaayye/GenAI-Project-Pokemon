@@ -1,0 +1,36 @@
+{
+    "Name": "Pansage",
+    "Types": [
+        "grass"
+    ],
+    "Height": 6,
+    "Weight": 105,
+    "Stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special-attack": 53,
+        "special-defense": 48,
+        "speed": 64
+    },
+    "Description": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+    "Evolution Chain": {
+        "Pansage": {
+            "Simisage": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Annihilape",
+    "Types": [
+        "fighting",
+        "ghost"
+    ],
+    "Height": 12,
+    "Weight": 560,
+    "Stats": {
+        "hp": 110,
+        "attack": 115,
+        "defense": 80,
+        "special-attack": 50,
+        "special-defense": 90,
+        "speed": 90
+    },
+    "Description": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+    "Evolution Chain": {
+        "Mankey": {
+            "Primeape": {
+                "Annihilape": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "dark",
+        "flying",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "normal",
+        "ghost"
+    ]
+}

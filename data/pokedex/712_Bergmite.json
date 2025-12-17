@@ -1,0 +1,32 @@
+{
+    "Name": "Bergmite",
+    "Types": [
+        "ice"
+    ],
+    "Height": 10,
+    "Weight": 995,
+    "Stats": {
+        "hp": 55,
+        "attack": 69,
+        "defense": 85,
+        "special-attack": 32,
+        "special-defense": 35,
+        "speed": 28
+    },
+    "Description": "It blocks opponents’ attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+    "Evolution Chain": {
+        "Bergmite": {
+            "Avalugg": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

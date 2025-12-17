@@ -1,0 +1,35 @@
+{
+    "Name": "Squirtle",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 90,
+    "Stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 64,
+        "speed": 43
+    },
+    "Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "Evolution Chain": {
+        "Squirtle": {
+            "Wartortle": {
+                "Blastoise": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Exploud",
+    "Types": [
+        "normal"
+    ],
+    "Height": 15,
+    "Weight": 840,
+    "Stats": {
+        "hp": 104,
+        "attack": 91,
+        "defense": 63,
+        "special-attack": 91,
+        "special-defense": 73,
+        "speed": 68
+    },
+    "Description": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",
+    "Evolution Chain": {
+        "Whismur": {
+            "Loudred": {
+                "Exploud": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

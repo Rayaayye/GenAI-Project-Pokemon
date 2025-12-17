@@ -1,0 +1,34 @@
+{
+    "Name": "Ogerpon",
+    "Types": [
+        "grass"
+    ],
+    "Height": 12,
+    "Weight": 398,
+    "Stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 84,
+        "special-attack": 60,
+        "special-defense": 96,
+        "speed": 110
+    },
+    "Description": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "Evolution Chain": {
+        "Ogerpon": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

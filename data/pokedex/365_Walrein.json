@@ -1,0 +1,40 @@
+{
+    "Name": "Walrein",
+    "Types": [
+        "ice",
+        "water"
+    ],
+    "Height": 14,
+    "Weight": 1506,
+    "Stats": {
+        "hp": 110,
+        "attack": 80,
+        "defense": 90,
+        "special-attack": 95,
+        "special-defense": 90,
+        "speed": 65
+    },
+    "Description": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
+    "Evolution Chain": {
+        "Spheal": {
+            "Sealeo": {
+                "Walrein": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "water",
+        "steel",
+        "ice"
+    ],
+    "Immunities": []
+}

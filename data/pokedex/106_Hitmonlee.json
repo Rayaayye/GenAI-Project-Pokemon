@@ -1,0 +1,37 @@
+{
+    "Name": "Hitmonlee",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 15,
+    "Weight": 498,
+    "Stats": {
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "special-attack": 35,
+        "special-defense": 110,
+        "speed": 87
+    },
+    "Description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "Evolution Chain": {
+        "Tyrogue": {
+            "Hitmonlee": {},
+            "Hitmonchan": {},
+            "Hitmontop": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

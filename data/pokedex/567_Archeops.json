@@ -1,0 +1,45 @@
+{
+    "Name": "Archeops",
+    "Types": [
+        "rock",
+        "flying"
+    ],
+    "Height": 14,
+    "Weight": 320,
+    "Stats": {
+        "hp": 75,
+        "attack": 140,
+        "defense": 65,
+        "special-attack": 112,
+        "special-defense": 65,
+        "speed": 110
+    },
+    "Description": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+    "Evolution Chain": {
+        "Archen": {
+            "Archeops": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Mimikyu-disguised",
+    "Types": [
+        "ghost",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 7,
+    "Stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "special-attack": 50,
+        "special-defense": 105,
+        "speed": 96
+    },
+    "Description": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
+    "Evolution Chain": {
+        "Mimikyu": {}
+    },
+    "Weaknesses": [
+        "poison",
+        "dark",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "normal"
+    ]
+}

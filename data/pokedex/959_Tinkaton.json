@@ -1,0 +1,49 @@
+{
+    "Name": "Tinkaton",
+    "Types": [
+        "fairy",
+        "steel"
+    ],
+    "Height": 7,
+    "Weight": 1128,
+    "Stats": {
+        "hp": 85,
+        "attack": 75,
+        "defense": 77,
+        "special-attack": 70,
+        "special-defense": 105,
+        "speed": 94
+    },
+    "Description": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+    "Evolution Chain": {
+        "Tinkatink": {
+            "Tinkatuff": {
+                "Tinkaton": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "poison",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

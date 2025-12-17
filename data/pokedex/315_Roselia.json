@@ -1,0 +1,45 @@
+{
+    "Name": "Roselia",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 3,
+    "Weight": 20,
+    "Stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 45,
+        "special-attack": 100,
+        "special-defense": 80,
+        "speed": 65
+    },
+    "Description": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
+    "Evolution Chain": {
+        "Budew": {
+            "Roselia": {
+                "Roserade": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

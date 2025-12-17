@@ -1,0 +1,44 @@
+{
+    "Name": "Lotad",
+    "Types": [
+        "water",
+        "grass"
+    ],
+    "Height": 5,
+    "Weight": 26,
+    "Stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "Description": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+    "Evolution Chain": {
+        "Lotad": {
+            "Lombre": {
+                "Ludicolo": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Immunities": []
+}

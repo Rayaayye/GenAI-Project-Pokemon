@@ -1,0 +1,41 @@
+{
+    "Name": "Barbaracle",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 960,
+    "Stats": {
+        "hp": 72,
+        "attack": 105,
+        "defense": 115,
+        "special-attack": 54,
+        "special-defense": 86,
+        "speed": 68
+    },
+    "Description": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
+    "Evolution Chain": {
+        "Binacle": {
+            "Barbaracle": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

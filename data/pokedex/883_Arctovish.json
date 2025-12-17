@@ -1,0 +1,36 @@
+{
+    "Name": "Arctovish",
+    "Types": [
+        "water",
+        "ice"
+    ],
+    "Height": 20,
+    "Weight": 1750,
+    "Stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 55
+    },
+    "Description": "Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+    "Evolution Chain": {
+        "Arctovish": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

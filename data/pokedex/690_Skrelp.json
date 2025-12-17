@@ -1,0 +1,41 @@
+{
+    "Name": "Skrelp",
+    "Types": [
+        "poison",
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 73,
+    "Stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 30
+    },
+    "Description": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
+    "Evolution Chain": {
+        "Skrelp": {
+            "Dragalge": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": []
+}

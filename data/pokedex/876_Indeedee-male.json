@@ -1,0 +1,35 @@
+{
+    "Name": "Indeedee-male",
+    "Types": [
+        "psychic",
+        "normal"
+    ],
+    "Height": 9,
+    "Weight": 280,
+    "Stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 55,
+        "special-attack": 105,
+        "special-defense": 95,
+        "speed": 95
+    },
+    "Description": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+    "Evolution Chain": {
+        "Indeedee": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

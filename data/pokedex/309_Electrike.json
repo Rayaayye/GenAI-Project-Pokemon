@@ -1,0 +1,33 @@
+{
+    "Name": "Electrike",
+    "Types": [
+        "electric"
+    ],
+    "Height": 6,
+    "Weight": 152,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 65,
+        "special-defense": 40,
+        "speed": 65
+    },
+    "Description": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+    "Evolution Chain": {
+        "Electrike": {
+            "Manectric": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

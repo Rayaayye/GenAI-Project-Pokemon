@@ -1,0 +1,38 @@
+{
+    "Name": "Rolycoly",
+    "Types": [
+        "rock"
+    ],
+    "Height": 3,
+    "Weight": 120,
+    "Stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 50,
+        "speed": 30
+    },
+    "Description": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+    "Evolution Chain": {
+        "Rolycoly": {
+            "Carkol": {
+                "Coalossal": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

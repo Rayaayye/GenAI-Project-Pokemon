@@ -1,0 +1,40 @@
+{
+    "Name": "Froslass",
+    "Types": [
+        "ice",
+        "ghost"
+    ],
+    "Height": 13,
+    "Weight": 266,
+    "Stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 70,
+        "special-attack": 80,
+        "special-defense": 70,
+        "speed": 110
+    },
+    "Description": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
+    "Evolution Chain": {
+        "Snorunt": {
+            "Glalie": {},
+            "Froslass": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "steel",
+        "rock",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "ice",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

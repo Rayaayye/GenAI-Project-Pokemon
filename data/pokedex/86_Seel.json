@@ -1,0 +1,33 @@
+{
+    "Name": "Seel",
+    "Types": [
+        "water"
+    ],
+    "Height": 11,
+    "Weight": 900,
+    "Stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 55,
+        "special-attack": 45,
+        "special-defense": 70,
+        "speed": 45
+    },
+    "Description": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+    "Evolution Chain": {
+        "Seel": {
+            "Dewgong": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

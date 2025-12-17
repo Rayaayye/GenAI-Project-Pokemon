@@ -1,0 +1,41 @@
+{
+    "Name": "Toxicroak",
+    "Types": [
+        "poison",
+        "fighting"
+    ],
+    "Height": 13,
+    "Weight": 444,
+    "Stats": {
+        "hp": 83,
+        "attack": 106,
+        "defense": 65,
+        "special-attack": 86,
+        "special-defense": 65,
+        "speed": 85
+    },
+    "Description": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+    "Evolution Chain": {
+        "Croagunk": {
+            "Toxicroak": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "rock",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

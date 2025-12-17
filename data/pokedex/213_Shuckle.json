@@ -1,0 +1,41 @@
+{
+    "Name": "Shuckle",
+    "Types": [
+        "bug",
+        "rock"
+    ],
+    "Height": 6,
+    "Weight": 205,
+    "Stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 230,
+        "special-attack": 10,
+        "special-defense": 230,
+        "speed": 5
+    },
+    "Description": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.",
+    "Evolution Chain": {
+        "Shuckle": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

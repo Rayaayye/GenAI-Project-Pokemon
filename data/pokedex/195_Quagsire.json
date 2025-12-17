@@ -1,0 +1,41 @@
+{
+    "Name": "Quagsire",
+    "Types": [
+        "water",
+        "ground"
+    ],
+    "Height": 14,
+    "Weight": 750,
+    "Stats": {
+        "hp": 95,
+        "attack": 85,
+        "defense": 85,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 35
+    },
+    "Description": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls.",
+    "Evolution Chain": {
+        "Wooper": {
+            "Quagsire": {},
+            "Clodsire": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

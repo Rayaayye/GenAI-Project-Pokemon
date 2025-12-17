@@ -1,0 +1,45 @@
+{
+    "Name": "Skiploom",
+    "Types": [
+        "grass",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 10,
+    "Stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 50,
+        "special-attack": 45,
+        "special-defense": 65,
+        "speed": 80
+    },
+    "Description": "The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.",
+    "Evolution Chain": {
+        "Hoppip": {
+            "Skiploom": {
+                "Jumpluff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

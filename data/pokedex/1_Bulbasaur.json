@@ -1,0 +1,45 @@
+{
+    "Name": "Bulbasaur",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 7,
+    "Weight": 69,
+    "Stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "Description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+    "Evolution Chain": {
+        "Bulbasaur": {
+            "Ivysaur": {
+                "Venusaur": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

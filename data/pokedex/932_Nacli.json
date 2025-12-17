@@ -1,0 +1,38 @@
+{
+    "Name": "Nacli",
+    "Types": [
+        "rock"
+    ],
+    "Height": 4,
+    "Weight": 160,
+    "Stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 75,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 25
+    },
+    "Description": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
+    "Evolution Chain": {
+        "Nacli": {
+            "Naclstack": {
+                "Garganacl": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

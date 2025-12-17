@@ -1,0 +1,42 @@
+{
+    "Name": "Lunatone",
+    "Types": [
+        "rock",
+        "psychic"
+    ],
+    "Height": 10,
+    "Weight": 1680,
+    "Stats": {
+        "hp": 90,
+        "attack": 55,
+        "defense": 65,
+        "special-attack": 95,
+        "special-defense": 85,
+        "speed": 70
+    },
+    "Description": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far.",
+    "Evolution Chain": {
+        "Lunatone": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

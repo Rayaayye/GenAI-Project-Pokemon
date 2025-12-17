@@ -1,0 +1,43 @@
+{
+    "Name": "Terrakion",
+    "Types": [
+        "rock",
+        "fighting"
+    ],
+    "Height": 19,
+    "Weight": 2600,
+    "Stats": {
+        "hp": 91,
+        "attack": 129,
+        "defense": 90,
+        "special-attack": 72,
+        "special-defense": 90,
+        "speed": 108
+    },
+    "Description": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.",
+    "Evolution Chain": {
+        "Terrakion": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

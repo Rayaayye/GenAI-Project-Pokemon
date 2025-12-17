@@ -1,0 +1,46 @@
+{
+    "Name": "Magneton",
+    "Types": [
+        "electric",
+        "steel"
+    ],
+    "Height": 10,
+    "Weight": 600,
+    "Stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 95,
+        "special-attack": 120,
+        "special-defense": 70,
+        "speed": 70
+    },
+    "Description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+    "Evolution Chain": {
+        "Magnemite": {
+            "Magneton": {
+                "Magnezone": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Lillipup",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 41,
+    "Stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 45,
+        "special-attack": 25,
+        "special-defense": 45,
+        "speed": 55
+    },
+    "Description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+    "Evolution Chain": {
+        "Lillipup": {
+            "Herdier": {
+                "Stoutland": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

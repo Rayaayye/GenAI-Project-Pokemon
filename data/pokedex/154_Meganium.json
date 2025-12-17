@@ -1,0 +1,38 @@
+{
+    "Name": "Meganium",
+    "Types": [
+        "grass"
+    ],
+    "Height": 18,
+    "Weight": 1005,
+    "Stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 100,
+        "special-attack": 83,
+        "special-defense": 100,
+        "speed": 80
+    },
+    "Description": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+    "Evolution Chain": {
+        "Chikorita": {
+            "Bayleef": {
+                "Meganium": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

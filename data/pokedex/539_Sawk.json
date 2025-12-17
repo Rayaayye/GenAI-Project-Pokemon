@@ -1,0 +1,33 @@
+{
+    "Name": "Sawk",
+    "Types": [
+        "fighting"
+    ],
+    "Height": 14,
+    "Weight": 510,
+    "Stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 75,
+        "special-attack": 30,
+        "special-defense": 75,
+        "speed": 85
+    },
+    "Description": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+    "Evolution Chain": {
+        "Sawk": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

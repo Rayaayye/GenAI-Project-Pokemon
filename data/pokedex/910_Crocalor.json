@@ -1,0 +1,38 @@
+{
+    "Name": "Crocalor",
+    "Types": [
+        "fire"
+    ],
+    "Height": 10,
+    "Weight": 307,
+    "Stats": {
+        "hp": 81,
+        "attack": 55,
+        "defense": 78,
+        "special-attack": 90,
+        "special-defense": 58,
+        "speed": 49
+    },
+    "Description": "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
+    "Evolution Chain": {
+        "Fuecoco": {
+            "Crocalor": {
+                "Skeledirge": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

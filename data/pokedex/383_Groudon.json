@@ -1,0 +1,32 @@
+{
+    "Name": "Groudon",
+    "Types": [
+        "ground"
+    ],
+    "Height": 35,
+    "Weight": 9500,
+    "Stats": {
+        "hp": 100,
+        "attack": 150,
+        "defense": 140,
+        "special-attack": 100,
+        "special-defense": 90,
+        "speed": 90
+    },
+    "Description": "GROUDON has long been described in  mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE.",
+    "Evolution Chain": {
+        "Groudon": {}
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

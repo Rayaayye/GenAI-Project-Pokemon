@@ -1,0 +1,47 @@
+{
+    "Name": "Dialga",
+    "Types": [
+        "steel",
+        "dragon"
+    ],
+    "Height": 54,
+    "Weight": 6830,
+    "Stats": {
+        "hp": 100,
+        "attack": 120,
+        "defense": 120,
+        "special-attack": 150,
+        "special-defense": 100,
+        "speed": 90
+    },
+    "Description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "Evolution Chain": {
+        "Dialga": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "ice",
+        "dragon",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

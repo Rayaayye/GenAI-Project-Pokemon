@@ -1,0 +1,29 @@
+{
+    "Name": "Bidoof",
+    "Types": [
+        "normal"
+    ],
+    "Height": 5,
+    "Weight": 200,
+    "Stats": {
+        "hp": 59,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 40,
+        "speed": 31
+    },
+    "Description": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+    "Evolution Chain": {
+        "Bidoof": {
+            "Bibarel": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

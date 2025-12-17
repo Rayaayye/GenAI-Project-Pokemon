@@ -1,0 +1,40 @@
+{
+    "Name": "Staravia",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 6,
+    "Weight": 155,
+    "Stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 50,
+        "special-attack": 40,
+        "special-defense": 40,
+        "speed": 80
+    },
+    "Description": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+    "Evolution Chain": {
+        "Starly": {
+            "Staravia": {
+                "Staraptor": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

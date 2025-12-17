@@ -1,0 +1,29 @@
+{
+    "Name": "Delcatty",
+    "Types": [
+        "normal"
+    ],
+    "Height": 11,
+    "Weight": 326,
+    "Stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 90
+    },
+    "Description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
+    "Evolution Chain": {
+        "Skitty": {
+            "Delcatty": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

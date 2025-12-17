@@ -1,0 +1,37 @@
+{
+    "Name": "Frosmoth",
+    "Types": [
+        "ice",
+        "bug"
+    ],
+    "Height": 13,
+    "Weight": 420,
+    "Stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "special-attack": 125,
+        "special-defense": 90,
+        "speed": 65
+    },
+    "Description": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
+    "Evolution Chain": {
+        "Snom": {
+            "Frosmoth": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "steel",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "ice",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

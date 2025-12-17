@@ -1,0 +1,32 @@
+{
+    "Name": "Cresselia",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 856,
+    "Stats": {
+        "hp": 120,
+        "attack": 70,
+        "defense": 110,
+        "special-attack": 75,
+        "special-defense": 120,
+        "speed": 85
+    },
+    "Description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+    "Evolution Chain": {
+        "Cresselia": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

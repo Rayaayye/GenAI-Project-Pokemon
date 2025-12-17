@@ -1,0 +1,32 @@
+{
+    "Name": "Beartic",
+    "Types": [
+        "ice"
+    ],
+    "Height": 26,
+    "Weight": 2600,
+    "Stats": {
+        "hp": 95,
+        "attack": 130,
+        "defense": 80,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 50
+    },
+    "Description": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+    "Evolution Chain": {
+        "Cubchoo": {
+            "Beartic": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

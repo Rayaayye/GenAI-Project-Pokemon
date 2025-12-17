@@ -1,0 +1,31 @@
+{
+    "Name": "Pyukumuku",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 12,
+    "Stats": {
+        "hp": 55,
+        "attack": 60,
+        "defense": 130,
+        "special-attack": 30,
+        "special-defense": 130,
+        "speed": 5
+    },
+    "Description": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "Evolution Chain": {
+        "Pyukumuku": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

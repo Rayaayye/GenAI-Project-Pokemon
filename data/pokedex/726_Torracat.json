@@ -1,0 +1,38 @@
+{
+    "Name": "Torracat",
+    "Types": [
+        "fire"
+    ],
+    "Height": 7,
+    "Weight": 250,
+    "Stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 50,
+        "special-attack": 80,
+        "special-defense": 50,
+        "speed": 90
+    },
+    "Description": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.",
+    "Evolution Chain": {
+        "Litten": {
+            "Torracat": {
+                "Incineroar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

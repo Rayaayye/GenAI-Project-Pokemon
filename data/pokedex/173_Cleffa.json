@@ -1,0 +1,36 @@
+{
+    "Name": "Cleffa",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 30,
+    "Stats": {
+        "hp": 50,
+        "attack": 25,
+        "defense": 28,
+        "special-attack": 45,
+        "special-defense": 55,
+        "speed": 15
+    },
+    "Description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+    "Evolution Chain": {
+        "Cleffa": {
+            "Clefairy": {
+                "Clefable": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

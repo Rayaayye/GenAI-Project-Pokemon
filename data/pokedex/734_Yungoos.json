@@ -1,0 +1,29 @@
+{
+    "Name": "Yungoos",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 60,
+    "Stats": {
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 45
+    },
+    "Description": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+    "Evolution Chain": {
+        "Yungoos": {
+            "Gumshoos": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

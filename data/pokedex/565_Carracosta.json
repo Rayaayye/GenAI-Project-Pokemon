@@ -1,0 +1,41 @@
+{
+    "Name": "Carracosta",
+    "Types": [
+        "water",
+        "rock"
+    ],
+    "Height": 12,
+    "Weight": 810,
+    "Stats": {
+        "hp": 74,
+        "attack": 108,
+        "defense": 133,
+        "special-attack": 83,
+        "special-defense": 65,
+        "speed": 32
+    },
+    "Description": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+    "Evolution Chain": {
+        "Tirtouga": {
+            "Carracosta": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

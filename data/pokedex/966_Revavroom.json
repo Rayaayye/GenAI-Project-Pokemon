@@ -1,0 +1,44 @@
+{
+    "Name": "Revavroom",
+    "Types": [
+        "steel",
+        "poison"
+    ],
+    "Height": 18,
+    "Weight": 1200,
+    "Stats": {
+        "hp": 80,
+        "attack": 119,
+        "defense": 90,
+        "special-attack": 54,
+        "special-defense": 67,
+        "speed": 90
+    },
+    "Description": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.",
+    "Evolution Chain": {
+        "Varoom": {
+            "Revavroom": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "psychic",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

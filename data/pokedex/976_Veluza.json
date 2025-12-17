@@ -1,0 +1,39 @@
+{
+    "Name": "Veluza",
+    "Types": [
+        "water",
+        "psychic"
+    ],
+    "Height": 25,
+    "Weight": 900,
+    "Stats": {
+        "hp": 90,
+        "attack": 102,
+        "defense": 73,
+        "special-attack": 78,
+        "special-defense": 65,
+        "speed": 70
+    },
+    "Description": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+    "Evolution Chain": {
+        "Veluza": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

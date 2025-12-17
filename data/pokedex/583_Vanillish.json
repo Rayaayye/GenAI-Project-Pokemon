@@ -1,0 +1,34 @@
+{
+    "Name": "Vanillish",
+    "Types": [
+        "ice"
+    ],
+    "Height": 11,
+    "Weight": 410,
+    "Stats": {
+        "hp": 51,
+        "attack": 65,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 75,
+        "speed": 59
+    },
+    "Description": "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas.",
+    "Evolution Chain": {
+        "Vanillite": {
+            "Vanillish": {
+                "Vanilluxe": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

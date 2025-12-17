@@ -1,0 +1,41 @@
+{
+    "Name": "Butterfree",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 11,
+    "Weight": 320,
+    "Stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "special-attack": 90,
+        "special-defense": 80,
+        "speed": 70
+    },
+    "Description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "Evolution Chain": {
+        "Caterpie": {
+            "Metapod": {
+                "Butterfree": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

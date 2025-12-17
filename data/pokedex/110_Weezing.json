@@ -1,0 +1,34 @@
+{
+    "Name": "Weezing",
+    "Types": [
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 95,
+    "Stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "special-attack": 85,
+        "special-defense": 70,
+        "speed": 60
+    },
+    "Description": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+    "Evolution Chain": {
+        "Koffing": {
+            "Weezing": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

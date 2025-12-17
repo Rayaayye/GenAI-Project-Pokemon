@@ -1,0 +1,47 @@
+{
+    "Name": "Lucario",
+    "Types": [
+        "fighting",
+        "steel"
+    ],
+    "Height": 12,
+    "Weight": 540,
+    "Stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "special-attack": 115,
+        "special-defense": 70,
+        "speed": 90
+    },
+    "Description": "It has the ability to sense the auras of all things. It understands human speech.",
+    "Evolution Chain": {
+        "Riolu": {
+            "Lucario": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

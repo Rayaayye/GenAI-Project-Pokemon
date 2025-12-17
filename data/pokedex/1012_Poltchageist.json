@@ -1,0 +1,43 @@
+{
+    "Name": "Poltchageist",
+    "Types": [
+        "grass",
+        "ghost"
+    ],
+    "Height": 1,
+    "Weight": 11,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 74,
+        "special-defense": 54,
+        "speed": 50
+    },
+    "Description": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
+    "Evolution Chain": {
+        "Poltchageist": {
+            "Sinistcha": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

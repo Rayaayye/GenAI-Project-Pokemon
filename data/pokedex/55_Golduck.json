@@ -1,0 +1,33 @@
+{
+    "Name": "Golduck",
+    "Types": [
+        "water"
+    ],
+    "Height": 17,
+    "Weight": 766,
+    "Stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 78,
+        "special-attack": 95,
+        "special-defense": 80,
+        "speed": 85
+    },
+    "Description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+    "Evolution Chain": {
+        "Psyduck": {
+            "Golduck": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

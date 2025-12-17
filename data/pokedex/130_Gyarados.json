@@ -1,0 +1,41 @@
+{
+    "Name": "Gyarados",
+    "Types": [
+        "water",
+        "flying"
+    ],
+    "Height": 65,
+    "Weight": 2350,
+    "Stats": {
+        "hp": 95,
+        "attack": 125,
+        "defense": 79,
+        "special-attack": 60,
+        "special-defense": 100,
+        "speed": 81
+    },
+    "Description": "Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.",
+    "Evolution Chain": {
+        "Magikarp": {
+            "Gyarados": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

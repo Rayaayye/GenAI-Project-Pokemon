@@ -1,0 +1,33 @@
+{
+    "Name": "Shelmet",
+    "Types": [
+        "bug"
+    ],
+    "Height": 4,
+    "Weight": 77,
+    "Stats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 85,
+        "special-attack": 40,
+        "special-defense": 65,
+        "speed": 25
+    },
+    "Description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+    "Evolution Chain": {
+        "Shelmet": {
+            "Accelgor": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

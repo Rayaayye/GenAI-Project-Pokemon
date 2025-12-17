@@ -1,0 +1,29 @@
+{
+    "Name": "Type-null",
+    "Types": [
+        "normal"
+    ],
+    "Height": 19,
+    "Weight": 1205,
+    "Stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 95,
+        "special-defense": 95,
+        "speed": 59
+    },
+    "Description": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+    "Evolution Chain": {
+        "Type-null": {
+            "Silvally": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Floette",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 9,
+    "Stats": {
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "special-attack": 75,
+        "special-defense": 98,
+        "speed": 52
+    },
+    "Description": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+    "Evolution Chain": {
+        "Flabebe": {
+            "Floette": {
+                "Florges": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

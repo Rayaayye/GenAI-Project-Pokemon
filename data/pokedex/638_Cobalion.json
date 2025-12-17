@@ -1,0 +1,45 @@
+{
+    "Name": "Cobalion",
+    "Types": [
+        "steel",
+        "fighting"
+    ],
+    "Height": 21,
+    "Weight": 2500,
+    "Stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 129,
+        "special-attack": 90,
+        "special-defense": 72,
+        "speed": 108
+    },
+    "Description": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
+    "Evolution Chain": {
+        "Cobalion": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "flying",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

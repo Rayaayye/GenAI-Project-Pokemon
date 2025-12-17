@@ -1,0 +1,35 @@
+{
+    "Name": "Feraligatr",
+    "Types": [
+        "water"
+    ],
+    "Height": 23,
+    "Weight": 888,
+    "Stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 100,
+        "special-attack": 79,
+        "special-defense": 83,
+        "speed": 78
+    },
+    "Description": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+    "Evolution Chain": {
+        "Totodile": {
+            "Croconaw": {
+                "Feraligatr": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

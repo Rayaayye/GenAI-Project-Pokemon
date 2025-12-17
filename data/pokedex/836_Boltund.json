@@ -1,0 +1,33 @@
+{
+    "Name": "Boltund",
+    "Types": [
+        "electric"
+    ],
+    "Height": 10,
+    "Weight": 340,
+    "Stats": {
+        "hp": 69,
+        "attack": 90,
+        "defense": 60,
+        "special-attack": 90,
+        "special-defense": 60,
+        "speed": 121
+    },
+    "Description": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+    "Evolution Chain": {
+        "Yamper": {
+            "Boltund": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

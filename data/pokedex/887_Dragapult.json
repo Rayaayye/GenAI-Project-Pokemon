@@ -1,0 +1,44 @@
+{
+    "Name": "Dragapult",
+    "Types": [
+        "dragon",
+        "ghost"
+    ],
+    "Height": 30,
+    "Weight": 500,
+    "Stats": {
+        "hp": 88,
+        "attack": 120,
+        "defense": 75,
+        "special-attack": 100,
+        "special-defense": 75,
+        "speed": 142
+    },
+    "Description": "When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+    "Evolution Chain": {
+        "Dreepy": {
+            "Drakloak": {
+                "Dragapult": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ice",
+        "dragon",
+        "fairy",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "water"
+    ],
+    "Immunities": [
+        "normal",
+        "fairy"
+    ]
+}

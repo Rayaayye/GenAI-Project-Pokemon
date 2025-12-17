@@ -1,0 +1,35 @@
+{
+    "Name": "Quaxly",
+    "Types": [
+        "water"
+    ],
+    "Height": 5,
+    "Weight": 61,
+    "Stats": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 45,
+        "special-attack": 50,
+        "special-defense": 45,
+        "speed": 50
+    },
+    "Description": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.\"",
+    "Evolution Chain": {
+        "Quaxly": {
+            "Quaxwell": {
+                "Quaquaval": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

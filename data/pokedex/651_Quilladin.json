@@ -1,0 +1,38 @@
+{
+    "Name": "Quilladin",
+    "Types": [
+        "grass"
+    ],
+    "Height": 7,
+    "Weight": 290,
+    "Stats": {
+        "hp": 61,
+        "attack": 78,
+        "defense": 95,
+        "special-attack": 56,
+        "special-defense": 58,
+        "speed": 57
+    },
+    "Description": "It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills.",
+    "Evolution Chain": {
+        "Chespin": {
+            "Quilladin": {
+                "Chesnaught": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,47 @@
+{
+    "Name": "Empoleon",
+    "Types": [
+        "water",
+        "steel"
+    ],
+    "Height": 17,
+    "Weight": 845,
+    "Stats": {
+        "hp": 84,
+        "attack": 86,
+        "defense": 88,
+        "special-attack": 111,
+        "special-defense": 101,
+        "speed": 60
+    },
+    "Description": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+    "Evolution Chain": {
+        "Piplup": {
+            "Prinplup": {
+                "Empoleon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "water",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

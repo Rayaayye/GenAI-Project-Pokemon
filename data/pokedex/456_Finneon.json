@@ -1,0 +1,33 @@
+{
+    "Name": "Finneon",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 70,
+    "Stats": {
+        "hp": 49,
+        "attack": 49,
+        "defense": 56,
+        "special-attack": 49,
+        "special-defense": 61,
+        "speed": 66
+    },
+    "Description": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+    "Evolution Chain": {
+        "Finneon": {
+            "Lumineon": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

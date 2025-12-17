@@ -1,0 +1,43 @@
+{
+    "Name": "Kirlia",
+    "Types": [
+        "psychic",
+        "fairy"
+    ],
+    "Height": 8,
+    "Weight": 202,
+    "Stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 35,
+        "special-attack": 65,
+        "special-defense": 55,
+        "speed": 50
+    },
+    "Description": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
+    "Evolution Chain": {
+        "Ralts": {
+            "Kirlia": {
+                "Gardevoir": {},
+                "Gallade": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

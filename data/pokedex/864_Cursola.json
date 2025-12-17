@@ -1,0 +1,33 @@
+{
+    "Name": "Cursola",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 10,
+    "Weight": 4,
+    "Stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 50,
+        "special-attack": 145,
+        "special-defense": 130,
+        "speed": 30
+    },
+    "Description": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.",
+    "Evolution Chain": {
+        "Corsola": {
+            "Cursola": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

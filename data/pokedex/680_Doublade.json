@@ -1,0 +1,48 @@
+{
+    "Name": "Doublade",
+    "Types": [
+        "steel",
+        "ghost"
+    ],
+    "Height": 8,
+    "Weight": 45,
+    "Stats": {
+        "hp": 59,
+        "attack": 110,
+        "defense": 150,
+        "special-attack": 45,
+        "special-defense": 49,
+        "speed": 35
+    },
+    "Description": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
+    "Evolution Chain": {
+        "Honedge": {
+            "Doublade": {
+                "Aegislash": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Name": "Darkrai",
+    "Types": [
+        "dark"
+    ],
+    "Height": 15,
+    "Weight": 505,
+    "Stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 90,
+        "special-attack": 135,
+        "special-defense": 90,
+        "speed": 125
+    },
+    "Description": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+    "Evolution Chain": {
+        "Darkrai": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

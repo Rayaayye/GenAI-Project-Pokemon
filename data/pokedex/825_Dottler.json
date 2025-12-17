@@ -1,0 +1,42 @@
+{
+    "Name": "Dottler",
+    "Types": [
+        "bug",
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 195,
+    "Stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 80,
+        "special-attack": 50,
+        "special-defense": 90,
+        "speed": 30
+    },
+    "Description": "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+    "Evolution Chain": {
+        "Blipbug": {
+            "Dottler": {
+                "Orbeetle": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "flying",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

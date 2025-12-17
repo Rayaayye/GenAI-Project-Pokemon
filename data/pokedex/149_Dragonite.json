@@ -1,0 +1,44 @@
+{
+    "Name": "Dragonite",
+    "Types": [
+        "dragon",
+        "flying"
+    ],
+    "Height": 22,
+    "Weight": 2100,
+    "Stats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 80
+    },
+    "Description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
+    "Evolution Chain": {
+        "Dratini": {
+            "Dragonair": {
+                "Dragonite": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

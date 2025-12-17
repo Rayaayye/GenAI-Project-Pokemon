@@ -1,0 +1,41 @@
+{
+    "Name": "Kabutops",
+    "Types": [
+        "rock",
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 405,
+    "Stats": {
+        "hp": 60,
+        "attack": 115,
+        "defense": 105,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 80
+    },
+    "Description": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.",
+    "Evolution Chain": {
+        "Kabuto": {
+            "Kabutops": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Corphish",
+    "Types": [
+        "water"
+    ],
+    "Height": 6,
+    "Weight": 115,
+    "Stats": {
+        "hp": 43,
+        "attack": 80,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 35,
+        "speed": 35
+    },
+    "Description": "Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.",
+    "Evolution Chain": {
+        "Corphish": {
+            "Crawdaunt": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

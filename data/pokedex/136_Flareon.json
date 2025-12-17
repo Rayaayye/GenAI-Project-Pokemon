@@ -1,0 +1,43 @@
+{
+    "Name": "Flareon",
+    "Types": [
+        "fire"
+    ],
+    "Height": 9,
+    "Weight": 250,
+    "Stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "special-attack": 95,
+        "special-defense": 110,
+        "speed": 65
+    },
+    "Description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+    "Evolution Chain": {
+        "Eevee": {
+            "Vaporeon": {},
+            "Jolteon": {},
+            "Flareon": {},
+            "Espeon": {},
+            "Umbreon": {},
+            "Leafeon": {},
+            "Glaceon": {},
+            "Sylveon": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

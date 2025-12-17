@@ -1,0 +1,41 @@
+{
+    "Name": "Lunala",
+    "Types": [
+        "psychic",
+        "ghost"
+    ],
+    "Height": 40,
+    "Weight": 1200,
+    "Stats": {
+        "hp": 137,
+        "attack": 113,
+        "defense": 89,
+        "special-attack": 137,
+        "special-defense": 107,
+        "speed": 97
+    },
+    "Description": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
+    "Evolution Chain": {
+        "Cosmog": {
+            "Cosmoem": {
+                "Solgaleo": {},
+                "Lunala": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "poison"
+    ],
+    "Immunities": [
+        "normal",
+        "dark"
+    ]
+}

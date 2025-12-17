@@ -1,0 +1,45 @@
+{
+    "Name": "Iron-crown",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 16,
+    "Weight": 1560,
+    "Stats": {
+        "hp": 90,
+        "attack": 72,
+        "defense": 100,
+        "special-attack": 122,
+        "special-defense": 108,
+        "speed": 98
+    },
+    "Description": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+    "Evolution Chain": {
+        "Iron-crown": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

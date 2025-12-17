@@ -1,0 +1,31 @@
+{
+    "Name": "Pinsir",
+    "Types": [
+        "bug"
+    ],
+    "Height": 15,
+    "Weight": 550,
+    "Stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 55,
+        "special-defense": 70,
+        "speed": 85
+    },
+    "Description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+    "Evolution Chain": {
+        "Pinsir": {}
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

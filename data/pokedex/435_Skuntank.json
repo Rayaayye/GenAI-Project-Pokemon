@@ -1,0 +1,40 @@
+{
+    "Name": "Skuntank",
+    "Types": [
+        "poison",
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 380,
+    "Stats": {
+        "hp": 103,
+        "attack": 93,
+        "defense": 67,
+        "special-attack": 71,
+        "special-defense": 61,
+        "speed": 84
+    },
+    "Description": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+    "Evolution Chain": {
+        "Stunky": {
+            "Skuntank": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "bug",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Immunities": []
+}

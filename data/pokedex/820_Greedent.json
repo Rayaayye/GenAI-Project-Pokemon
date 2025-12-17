@@ -1,0 +1,29 @@
+{
+    "Name": "Greedent",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 60,
+    "Stats": {
+        "hp": 120,
+        "attack": 95,
+        "defense": 95,
+        "special-attack": 55,
+        "special-defense": 75,
+        "speed": 20
+    },
+    "Description": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.",
+    "Evolution Chain": {
+        "Skwovet": {
+            "Greedent": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

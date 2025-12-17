@@ -1,0 +1,38 @@
+{
+    "Name": "Shroodle",
+    "Types": [
+        "poison",
+        "normal"
+    ],
+    "Height": 2,
+    "Weight": 7,
+    "Stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 35,
+        "special-attack": 40,
+        "special-defense": 35,
+        "speed": 75
+    },
+    "Description": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+    "Evolution Chain": {
+        "Shroodle": {
+            "Grafaiai": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fighting",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Sobble",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 40,
+    "Stats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "special-attack": 70,
+        "special-defense": 40,
+        "speed": 70
+    },
+    "Description": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+    "Evolution Chain": {
+        "Sobble": {
+            "Drizzile": {
+                "Inteleon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

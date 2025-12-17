@@ -1,0 +1,32 @@
+{
+    "Name": "Nickit",
+    "Types": [
+        "dark"
+    ],
+    "Height": 6,
+    "Weight": 89,
+    "Stats": {
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "special-attack": 47,
+        "special-defense": 52,
+        "speed": 50
+    },
+    "Description": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+    "Evolution Chain": {
+        "Nickit": {
+            "Thievul": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

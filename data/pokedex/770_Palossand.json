@@ -1,0 +1,39 @@
+{
+    "Name": "Palossand",
+    "Types": [
+        "ghost",
+        "ground"
+    ],
+    "Height": 13,
+    "Weight": 2500,
+    "Stats": {
+        "hp": 85,
+        "attack": 75,
+        "defense": 110,
+        "special-attack": 100,
+        "special-defense": 75,
+        "speed": 35
+    },
+    "Description": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+    "Evolution Chain": {
+        "Sandygast": {
+            "Palossand": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "normal"
+    ]
+}

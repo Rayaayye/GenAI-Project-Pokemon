@@ -1,0 +1,45 @@
+{
+    "Name": "Kommo-o",
+    "Types": [
+        "dragon",
+        "fighting"
+    ],
+    "Height": 16,
+    "Weight": 782,
+    "Stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "special-attack": 100,
+        "special-defense": 105,
+        "speed": 85
+    },
+    "Description": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
+    "Evolution Chain": {
+        "Jangmo-o": {
+            "Hakamo-o": {
+                "Kommo-o": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "fairy",
+        "ghost"
+    ]
+}

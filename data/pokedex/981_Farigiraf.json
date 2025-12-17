@@ -1,0 +1,37 @@
+{
+    "Name": "Farigiraf",
+    "Types": [
+        "normal",
+        "psychic"
+    ],
+    "Height": 32,
+    "Weight": 1600,
+    "Stats": {
+        "hp": 120,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 110,
+        "special-defense": 70,
+        "speed": 60
+    },
+    "Description": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
+    "Evolution Chain": {
+        "Girafarig": {
+            "Farigiraf": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark",
+        "ghost"
+    ]
+}

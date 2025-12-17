@@ -1,0 +1,39 @@
+{
+    "Name": "Ledyba",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 10,
+    "Weight": 108,
+    "Stats": {
+        "hp": 40,
+        "attack": 20,
+        "defense": 30,
+        "special-attack": 40,
+        "special-defense": 80,
+        "speed": 55
+    },
+    "Description": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+    "Evolution Chain": {
+        "Ledyba": {
+            "Ledian": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

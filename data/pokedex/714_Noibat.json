@@ -1,0 +1,42 @@
+{
+    "Name": "Noibat",
+    "Types": [
+        "flying",
+        "dragon"
+    ],
+    "Height": 5,
+    "Weight": 80,
+    "Stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "special-attack": 45,
+        "special-defense": 40,
+        "speed": 55
+    },
+    "Description": "They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+    "Evolution Chain": {
+        "Noibat": {
+            "Noivern": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "fairy",
+        "ground"
+    ]
+}

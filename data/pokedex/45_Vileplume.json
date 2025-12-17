@@ -1,0 +1,46 @@
+{
+    "Name": "Vileplume",
+    "Types": [
+        "grass",
+        "poison"
+    ],
+    "Height": 12,
+    "Weight": 186,
+    "Stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "special-attack": 110,
+        "special-defense": 90,
+        "speed": 50
+    },
+    "Description": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "Evolution Chain": {
+        "Oddish": {
+            "Gloom": {
+                "Vileplume": {},
+                "Bellossom": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

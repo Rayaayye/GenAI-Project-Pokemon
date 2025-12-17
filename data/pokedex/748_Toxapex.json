@@ -1,0 +1,41 @@
+{
+    "Name": "Toxapex",
+    "Types": [
+        "poison",
+        "water"
+    ],
+    "Height": 7,
+    "Weight": 145,
+    "Stats": {
+        "hp": 50,
+        "attack": 63,
+        "defense": 152,
+        "special-attack": 53,
+        "special-defense": 142,
+        "speed": 35
+    },
+    "Description": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+    "Evolution Chain": {
+        "Mareanie": {
+            "Toxapex": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Houndoom",
+    "Types": [
+        "dark",
+        "fire"
+    ],
+    "Height": 14,
+    "Weight": 350,
+    "Stats": {
+        "hp": 75,
+        "attack": 90,
+        "defense": 50,
+        "special-attack": 110,
+        "special-defense": 80,
+        "speed": 95
+    },
+    "Description": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "Evolution Chain": {
+        "Houndour": {
+            "Houndoom": {}
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "fairy",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "ghost"
+    ],
+    "Immunities": []
+}

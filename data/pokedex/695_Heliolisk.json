@@ -1,0 +1,36 @@
+{
+    "Name": "Heliolisk",
+    "Types": [
+        "electric",
+        "normal"
+    ],
+    "Height": 10,
+    "Weight": 210,
+    "Stats": {
+        "hp": 62,
+        "attack": 55,
+        "defense": 52,
+        "special-attack": 109,
+        "special-defense": 94,
+        "speed": 109
+    },
+    "Description": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+    "Evolution Chain": {
+        "Helioptile": {
+            "Heliolisk": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ghost",
+        "ground"
+    ]
+}

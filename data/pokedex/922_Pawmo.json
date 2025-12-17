@@ -1,0 +1,43 @@
+{
+    "Name": "Pawmo",
+    "Types": [
+        "electric",
+        "fighting"
+    ],
+    "Height": 4,
+    "Weight": 65,
+    "Stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 40,
+        "special-attack": 50,
+        "special-defense": 40,
+        "speed": 85
+    },
+    "Description": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "Evolution Chain": {
+        "Pawmi": {
+            "Pawmo": {
+                "Pawmot": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "flying",
+        "fairy",
+        "ground"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "flying",
+        "steel",
+        "rock"
+    ],
+    "Immunities": [
+        "ghost",
+        "ground"
+    ]
+}

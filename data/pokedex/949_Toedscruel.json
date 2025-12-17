@@ -1,0 +1,43 @@
+{
+    "Name": "Toedscruel",
+    "Types": [
+        "ground",
+        "grass"
+    ],
+    "Height": 19,
+    "Weight": 580,
+    "Stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "special-attack": 80,
+        "special-defense": 120,
+        "speed": 100
+    },
+    "Description": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+    "Evolution Chain": {
+        "Toedscool": {
+            "Toedscruel": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "ice",
+        "water"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "poison",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

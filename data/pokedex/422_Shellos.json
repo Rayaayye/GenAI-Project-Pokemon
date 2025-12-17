@@ -1,0 +1,33 @@
+{
+    "Name": "Shellos",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 63,
+    "Stats": {
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "special-attack": 57,
+        "special-defense": 62,
+        "speed": 34
+    },
+    "Description": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+    "Evolution Chain": {
+        "Shellos": {
+            "Gastrodon": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

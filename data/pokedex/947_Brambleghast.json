@@ -1,0 +1,43 @@
+{
+    "Name": "Brambleghast",
+    "Types": [
+        "grass",
+        "ghost"
+    ],
+    "Height": 12,
+    "Weight": 60,
+    "Stats": {
+        "hp": 55,
+        "attack": 115,
+        "defense": 70,
+        "special-attack": 80,
+        "special-defense": 70,
+        "speed": 90
+    },
+    "Description": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+    "Evolution Chain": {
+        "Bramblin": {
+            "Brambleghast": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

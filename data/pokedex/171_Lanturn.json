@@ -1,0 +1,39 @@
+{
+    "Name": "Lanturn",
+    "Types": [
+        "water",
+        "electric"
+    ],
+    "Height": 12,
+    "Weight": 225,
+    "Stats": {
+        "hp": 125,
+        "attack": 58,
+        "defense": 58,
+        "special-attack": 76,
+        "special-defense": 76,
+        "speed": 67
+    },
+    "Description": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+    "Evolution Chain": {
+        "Chinchou": {
+            "Lanturn": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "flying",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

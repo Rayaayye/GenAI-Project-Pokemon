@@ -1,0 +1,40 @@
+{
+    "Name": "Barboach",
+    "Types": [
+        "water",
+        "ground"
+    ],
+    "Height": 4,
+    "Weight": 19,
+    "Stats": {
+        "hp": 50,
+        "attack": 48,
+        "defense": 43,
+        "special-attack": 46,
+        "special-defense": 41,
+        "speed": 60
+    },
+    "Description": "BARBOACH’s sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+    "Evolution Chain": {
+        "Barboach": {
+            "Whiscash": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "electric",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

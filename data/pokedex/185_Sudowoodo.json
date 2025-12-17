@@ -1,0 +1,36 @@
+{
+    "Name": "Sudowoodo",
+    "Types": [
+        "rock"
+    ],
+    "Height": 12,
+    "Weight": 380,
+    "Stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 115,
+        "special-attack": 30,
+        "special-defense": 65,
+        "speed": 30
+    },
+    "Description": "Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant.",
+    "Evolution Chain": {
+        "Bonsly": {
+            "Sudowoodo": {}
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

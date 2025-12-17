@@ -1,0 +1,40 @@
+{
+    "Name": "Aurorus",
+    "Types": [
+        "rock",
+        "ice"
+    ],
+    "Height": 27,
+    "Weight": 2250,
+    "Stats": {
+        "hp": 123,
+        "attack": 77,
+        "defense": 72,
+        "special-attack": 99,
+        "special-defense": 92,
+        "speed": 58
+    },
+    "Description": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
+    "Evolution Chain": {
+        "Amaura": {
+            "Aurorus": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "ice"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,34 @@
+{
+    "Name": "Hippopotas",
+    "Types": [
+        "ground"
+    ],
+    "Height": 8,
+    "Weight": 495,
+    "Stats": {
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "special-attack": 38,
+        "special-defense": 42,
+        "speed": 32
+    },
+    "Description": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+    "Evolution Chain": {
+        "Hippopotas": {
+            "Hippowdon": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

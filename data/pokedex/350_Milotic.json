@@ -1,0 +1,33 @@
+{
+    "Name": "Milotic",
+    "Types": [
+        "water"
+    ],
+    "Height": 62,
+    "Weight": 1620,
+    "Stats": {
+        "hp": 95,
+        "attack": 60,
+        "defense": 79,
+        "special-attack": 100,
+        "special-defense": 125,
+        "speed": 81
+    },
+    "Description": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "Evolution Chain": {
+        "Feebas": {
+            "Milotic": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

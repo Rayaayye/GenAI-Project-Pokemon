@@ -1,0 +1,45 @@
+{
+    "Name": "Jumpluff",
+    "Types": [
+        "grass",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 30,
+    "Stats": {
+        "hp": 75,
+        "attack": 55,
+        "defense": 70,
+        "special-attack": 55,
+        "special-defense": 95,
+        "speed": 110
+    },
+    "Description": "Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world.",
+    "Evolution Chain": {
+        "Hoppip": {
+            "Skiploom": {
+                "Jumpluff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

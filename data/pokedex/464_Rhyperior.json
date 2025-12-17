@@ -1,0 +1,43 @@
+{
+    "Name": "Rhyperior",
+    "Types": [
+        "ground",
+        "rock"
+    ],
+    "Height": 24,
+    "Weight": 2828,
+    "Stats": {
+        "hp": 115,
+        "attack": 140,
+        "defense": 130,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 40
+    },
+    "Description": "It puts rocks in holes in its palms and uses its muscles to shoot them. GEODUDE are shot at rare times.",
+    "Evolution Chain": {
+        "Rhyhorn": {
+            "Rhydon": {
+                "Rhyperior": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

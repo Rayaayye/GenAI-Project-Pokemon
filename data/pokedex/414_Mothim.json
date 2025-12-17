@@ -1,0 +1,40 @@
+{
+    "Name": "Mothim",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 9,
+    "Weight": 233,
+    "Stats": {
+        "hp": 70,
+        "attack": 94,
+        "defense": 50,
+        "special-attack": 94,
+        "special-defense": 50,
+        "speed": 66
+    },
+    "Description": "It loves the honey of flowers and steals honey collected by COMBEE.",
+    "Evolution Chain": {
+        "Burmy": {
+            "Wormadam": {},
+            "Mothim": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

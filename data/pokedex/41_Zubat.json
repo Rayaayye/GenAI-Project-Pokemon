@@ -1,0 +1,42 @@
+{
+    "Name": "Zubat",
+    "Types": [
+        "poison",
+        "flying"
+    ],
+    "Height": 8,
+    "Weight": 75,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special-attack": 30,
+        "special-defense": 40,
+        "speed": 55
+    },
+    "Description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "Evolution Chain": {
+        "Zubat": {
+            "Golbat": {
+                "Crobat": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ice",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

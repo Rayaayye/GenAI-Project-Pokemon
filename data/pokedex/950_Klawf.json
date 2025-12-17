@@ -1,0 +1,34 @@
+{
+    "Name": "Klawf",
+    "Types": [
+        "rock"
+    ],
+    "Height": 13,
+    "Weight": 790,
+    "Stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 115,
+        "special-attack": 35,
+        "special-defense": 55,
+        "speed": 75
+    },
+    "Description": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
+    "Evolution Chain": {
+        "Klawf": {}
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "normal",
+        "fire",
+        "flying"
+    ],
+    "Immunities": []
+}

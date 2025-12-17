@@ -1,0 +1,43 @@
+{
+    "Name": "Zweilous",
+    "Types": [
+        "dark",
+        "dragon"
+    ],
+    "Height": 14,
+    "Weight": 500,
+    "Stats": {
+        "hp": 72,
+        "attack": 85,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 70,
+        "speed": 58
+    },
+    "Description": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+    "Evolution Chain": {
+        "Deino": {
+            "Zweilous": {
+                "Hydreigon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ghost"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

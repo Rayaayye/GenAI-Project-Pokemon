@@ -1,0 +1,33 @@
+{
+    "Name": "Zebstrika",
+    "Types": [
+        "electric"
+    ],
+    "Height": 16,
+    "Weight": 795,
+    "Stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 63,
+        "special-attack": 80,
+        "special-defense": 63,
+        "speed": 116
+    },
+    "Description": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+    "Evolution Chain": {
+        "Blitzle": {
+            "Zebstrika": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

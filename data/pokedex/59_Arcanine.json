@@ -1,0 +1,36 @@
+{
+    "Name": "Arcanine",
+    "Types": [
+        "fire"
+    ],
+    "Height": 19,
+    "Weight": 1550,
+    "Stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "special-attack": 100,
+        "special-defense": 80,
+        "speed": 95
+    },
+    "Description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+    "Evolution Chain": {
+        "Growlithe": {
+            "Arcanine": {}
+        }
+    },
+    "Weaknesses": [
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": []
+}

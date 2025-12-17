@@ -1,0 +1,38 @@
+{
+    "Name": "Swablu",
+    "Types": [
+        "normal",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 12,
+    "Stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 60,
+        "special-attack": 40,
+        "special-defense": 75,
+        "speed": 50
+    },
+    "Description": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+    "Evolution Chain": {
+        "Swablu": {
+            "Altaria": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "electric",
+        "ice"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "ground",
+        "ghost"
+    ]
+}

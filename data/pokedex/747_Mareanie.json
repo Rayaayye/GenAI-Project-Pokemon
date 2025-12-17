@@ -1,0 +1,41 @@
+{
+    "Name": "Mareanie",
+    "Types": [
+        "poison",
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 80,
+    "Stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "special-attack": 43,
+        "special-defense": 52,
+        "speed": 45
+    },
+    "Description": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+    "Evolution Chain": {
+        "Mareanie": {
+            "Toxapex": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy",
+        "water",
+        "fighting"
+    ],
+    "Immunities": []
+}

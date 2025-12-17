@@ -1,0 +1,32 @@
+{
+    "Name": "Mightyena",
+    "Types": [
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 370,
+    "Stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special-attack": 60,
+        "special-defense": 60,
+        "speed": 70
+    },
+    "Description": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
+    "Evolution Chain": {
+        "Poochyena": {
+            "Mightyena": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

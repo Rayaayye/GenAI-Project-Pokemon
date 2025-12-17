@@ -1,0 +1,34 @@
+{
+    "Name": "Koffing",
+    "Types": [
+        "poison"
+    ],
+    "Height": 6,
+    "Weight": 10,
+    "Stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 95,
+        "special-attack": 60,
+        "special-defense": 45,
+        "speed": 35
+    },
+    "Description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+    "Evolution Chain": {
+        "Koffing": {
+            "Weezing": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "bug",
+        "grass",
+        "poison",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

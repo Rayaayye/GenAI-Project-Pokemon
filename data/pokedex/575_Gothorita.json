@@ -1,0 +1,36 @@
+{
+    "Name": "Gothorita",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 7,
+    "Weight": 180,
+    "Stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "special-attack": 75,
+        "special-defense": 85,
+        "speed": 55
+    },
+    "Description": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
+    "Evolution Chain": {
+        "Gothita": {
+            "Gothorita": {
+                "Gothitelle": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

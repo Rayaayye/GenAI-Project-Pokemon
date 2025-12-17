@@ -1,0 +1,29 @@
+{
+    "Name": "Dunsparce",
+    "Types": [
+        "normal"
+    ],
+    "Height": 15,
+    "Weight": 140,
+    "Stats": {
+        "hp": 100,
+        "attack": 70,
+        "defense": 70,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "Description": "When spotted, this POKéMON escapes backward by furi­ ously boring into the ground with its tail.",
+    "Evolution Chain": {
+        "Dunsparce": {
+            "Dudunsparce": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

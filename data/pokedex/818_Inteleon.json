@@ -1,0 +1,35 @@
+{
+    "Name": "Inteleon",
+    "Types": [
+        "water"
+    ],
+    "Height": 19,
+    "Weight": 452,
+    "Stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "special-attack": 125,
+        "special-defense": 65,
+        "speed": 120
+    },
+    "Description": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+    "Evolution Chain": {
+        "Sobble": {
+            "Drizzile": {
+                "Inteleon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

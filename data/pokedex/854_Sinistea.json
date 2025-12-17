@@ -1,0 +1,33 @@
+{
+    "Name": "Sinistea",
+    "Types": [
+        "ghost"
+    ],
+    "Height": 1,
+    "Weight": 2,
+    "Stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 45,
+        "special-attack": 74,
+        "special-defense": 54,
+        "speed": 50
+    },
+    "Description": "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
+    "Evolution Chain": {
+        "Sinistea": {
+            "Polteageist": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "bug"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

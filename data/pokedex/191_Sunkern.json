@@ -1,0 +1,36 @@
+{
+    "Name": "Sunkern",
+    "Types": [
+        "grass"
+    ],
+    "Height": 3,
+    "Weight": 18,
+    "Stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 30,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 30
+    },
+    "Description": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+    "Evolution Chain": {
+        "Sunkern": {
+            "Sunflora": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

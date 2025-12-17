@@ -1,0 +1,39 @@
+{
+    "Name": "Great-tusk",
+    "Types": [
+        "ground",
+        "fighting"
+    ],
+    "Height": 22,
+    "Weight": 3200,
+    "Stats": {
+        "hp": 115,
+        "attack": 131,
+        "defense": 131,
+        "special-attack": 53,
+        "special-defense": 53,
+        "speed": 87
+    },
+    "Description": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+    "Evolution Chain": {
+        "Great-tusk": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "grass",
+        "flying",
+        "ice",
+        "water",
+        "fairy"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "ghost"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Name": "Lairon",
+    "Types": [
+        "steel",
+        "rock"
+    ],
+    "Height": 9,
+    "Weight": 1200,
+    "Stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 140,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "Description": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POKéMON makes its nest close to springs of delicious water.",
+    "Evolution Chain": {
+        "Aron": {
+            "Lairon": {
+                "Aggron": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Pichu",
+    "Types": [
+        "electric"
+    ],
+    "Height": 3,
+    "Weight": 20,
+    "Stats": {
+        "hp": 20,
+        "attack": 40,
+        "defense": 15,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 60
+    },
+    "Description": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "Evolution Chain": {
+        "Pichu": {
+            "Pikachu": {
+                "Raichu": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

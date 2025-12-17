@@ -1,0 +1,34 @@
+{
+    "Name": "Hippowdon",
+    "Types": [
+        "ground"
+    ],
+    "Height": 20,
+    "Weight": 3000,
+    "Stats": {
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "special-attack": 68,
+        "special-defense": 72,
+        "speed": 47
+    },
+    "Description": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+    "Evolution Chain": {
+        "Hippopotas": {
+            "Hippowdon": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

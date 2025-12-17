@@ -1,0 +1,41 @@
+{
+    "Name": "Impidimp",
+    "Types": [
+        "dark",
+        "fairy"
+    ],
+    "Height": 4,
+    "Weight": 55,
+    "Stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 30,
+        "special-attack": 55,
+        "special-defense": 40,
+        "speed": 50
+    },
+    "Description": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
+    "Evolution Chain": {
+        "Impidimp": {
+            "Morgrem": {
+                "Grimmsnarl": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "poison",
+        "steel",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

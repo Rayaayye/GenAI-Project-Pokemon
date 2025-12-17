@@ -1,0 +1,48 @@
+{
+    "Name": "Ferrothorn",
+    "Types": [
+        "grass",
+        "steel"
+    ],
+    "Height": 10,
+    "Weight": 1100,
+    "Stats": {
+        "hp": 74,
+        "attack": 94,
+        "defense": 131,
+        "special-attack": 54,
+        "special-defense": 116,
+        "speed": 20
+    },
+    "Description": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
+    "Evolution Chain": {
+        "Ferroseed": {
+            "Ferrothorn": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "electric",
+        "bug",
+        "grass",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "water",
+        "rock",
+        "fairy",
+        "ground"
+    ],
+    "Immunities": []
+}

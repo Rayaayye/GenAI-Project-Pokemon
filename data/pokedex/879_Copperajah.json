@@ -1,0 +1,40 @@
+{
+    "Name": "Copperajah",
+    "Types": [
+        "steel"
+    ],
+    "Height": 30,
+    "Weight": 6500,
+    "Stats": {
+        "hp": 122,
+        "attack": 130,
+        "defense": 69,
+        "special-attack": 80,
+        "special-defense": 69,
+        "speed": 30
+    },
+    "Description": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+    "Evolution Chain": {
+        "Cufant": {
+            "Copperajah": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fire",
+        "ground"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Wailord",
+    "Types": [
+        "water"
+    ],
+    "Height": 145,
+    "Weight": 3980,
+    "Stats": {
+        "hp": 170,
+        "attack": 90,
+        "defense": 45,
+        "special-attack": 90,
+        "special-defense": 45,
+        "speed": 60
+    },
+    "Description": "WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+    "Evolution Chain": {
+        "Wailmer": {
+            "Wailord": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

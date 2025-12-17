@@ -1,0 +1,41 @@
+{
+    "Name": "Qwilfish",
+    "Types": [
+        "water",
+        "poison"
+    ],
+    "Height": 5,
+    "Weight": 39,
+    "Stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 85,
+        "special-attack": 55,
+        "special-defense": 55,
+        "speed": 85
+    },
+    "Description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+    "Evolution Chain": {
+        "Qwilfish": {
+            "Overqwil": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "water",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": []
+}

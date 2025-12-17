@@ -1,0 +1,42 @@
+{
+    "Name": "Virizion",
+    "Types": [
+        "grass",
+        "fighting"
+    ],
+    "Height": 20,
+    "Weight": 2000,
+    "Stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 72,
+        "special-attack": 90,
+        "special-defense": 129,
+        "speed": 108
+    },
+    "Description": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
+    "Evolution Chain": {
+        "Virizion": {}
+    },
+    "Weaknesses": [
+        "psychic",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "fairy"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "rock",
+        "ground"
+    ],
+    "Immunities": [
+        "ghost"
+    ]
+}

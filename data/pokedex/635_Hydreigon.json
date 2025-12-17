@@ -1,0 +1,43 @@
+{
+    "Name": "Hydreigon",
+    "Types": [
+        "dark",
+        "dragon"
+    ],
+    "Height": 18,
+    "Weight": 1600,
+    "Stats": {
+        "hp": 92,
+        "attack": 105,
+        "defense": 90,
+        "special-attack": 125,
+        "special-defense": 90,
+        "speed": 98
+    },
+    "Description": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+    "Evolution Chain": {
+        "Deino": {
+            "Zweilous": {
+                "Hydreigon": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "ice",
+        "dragon",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "fire",
+        "grass",
+        "water",
+        "ghost"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

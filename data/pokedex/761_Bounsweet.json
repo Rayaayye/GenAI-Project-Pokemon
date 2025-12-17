@@ -1,0 +1,38 @@
+{
+    "Name": "Bounsweet",
+    "Types": [
+        "grass"
+    ],
+    "Height": 3,
+    "Weight": 32,
+    "Stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 38,
+        "special-attack": 30,
+        "special-defense": 38,
+        "speed": 32
+    },
+    "Description": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+    "Evolution Chain": {
+        "Bounsweet": {
+            "Steenee": {
+                "Tsareena": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

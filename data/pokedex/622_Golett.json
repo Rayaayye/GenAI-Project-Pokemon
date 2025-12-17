@@ -1,0 +1,39 @@
+{
+    "Name": "Golett",
+    "Types": [
+        "ground",
+        "ghost"
+    ],
+    "Height": 10,
+    "Weight": 920,
+    "Stats": {
+        "hp": 59,
+        "attack": 74,
+        "defense": 50,
+        "special-attack": 35,
+        "special-defense": 50,
+        "speed": 35
+    },
+    "Description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+    "Evolution Chain": {
+        "Golett": {
+            "Golurk": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "grass",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "rock",
+        "bug"
+    ],
+    "Immunities": [
+        "flying",
+        "normal"
+    ]
+}

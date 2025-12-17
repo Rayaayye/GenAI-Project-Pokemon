@@ -1,0 +1,27 @@
+{
+    "Name": "Komala",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 199,
+    "Stats": {
+        "hp": 65,
+        "attack": 115,
+        "defense": 65,
+        "special-attack": 75,
+        "special-defense": 95,
+        "speed": 65
+    },
+    "Description": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
+    "Evolution Chain": {
+        "Komala": {}
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

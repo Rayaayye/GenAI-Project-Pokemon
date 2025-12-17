@@ -1,0 +1,34 @@
+{
+    "Name": "Dugtrio",
+    "Types": [
+        "ground"
+    ],
+    "Height": 7,
+    "Weight": 333,
+    "Stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 70,
+        "speed": 120
+    },
+    "Description": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+    "Evolution Chain": {
+        "Diglett": {
+            "Dugtrio": {}
+        }
+    },
+    "Weaknesses": [
+        "water",
+        "ice",
+        "grass"
+    ],
+    "Resistances": [
+        "poison",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

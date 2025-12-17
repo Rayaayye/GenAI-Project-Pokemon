@@ -1,0 +1,34 @@
+{
+    "Name": "Dachsbun",
+    "Types": [
+        "fairy"
+    ],
+    "Height": 5,
+    "Weight": 149,
+    "Stats": {
+        "hp": 57,
+        "attack": 80,
+        "defense": 115,
+        "special-attack": 50,
+        "special-defense": 80,
+        "speed": 95
+    },
+    "Description": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+    "Evolution Chain": {
+        "Fidough": {
+            "Dachsbun": {}
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "steel"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

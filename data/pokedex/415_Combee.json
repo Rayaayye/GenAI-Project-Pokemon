@@ -1,0 +1,39 @@
+{
+    "Name": "Combee",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 3,
+    "Weight": 55,
+    "Stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 42,
+        "special-attack": 30,
+        "special-defense": 42,
+        "speed": 70
+    },
+    "Description": "A Pokémon formed by three others. It busily carries sweet floral honey to VESPIQUEN.",
+    "Evolution Chain": {
+        "Combee": {
+            "Vespiquen": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

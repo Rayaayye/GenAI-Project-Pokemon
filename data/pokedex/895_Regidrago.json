@@ -1,0 +1,34 @@
+{
+    "Name": "Regidrago",
+    "Types": [
+        "dragon"
+    ],
+    "Height": 21,
+    "Weight": 2000,
+    "Stats": {
+        "hp": 200,
+        "attack": 100,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 80
+    },
+    "Description": "An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
+    "Evolution Chain": {
+        "Regidrago": {}
+    },
+    "Weaknesses": [
+        "dragon",
+        "fairy",
+        "ice"
+    ],
+    "Resistances": [
+        "water",
+        "electric",
+        "fire",
+        "grass"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Name": "Regice",
+    "Types": [
+        "ice"
+    ],
+    "Height": 18,
+    "Weight": 1750,
+    "Stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 200,
+        "speed": 50
+    },
+    "Description": "REGICE’s body was made during an ice age. The deep-frozen body can’t be melted, even by fire. This POKéMON controls frigid air of minus 328 degrees F.",
+    "Evolution Chain": {
+        "Regice": {}
+    },
+    "Weaknesses": [
+        "fighting",
+        "rock",
+        "steel",
+        "fire"
+    ],
+    "Resistances": [
+        "ice"
+    ],
+    "Immunities": []
+}

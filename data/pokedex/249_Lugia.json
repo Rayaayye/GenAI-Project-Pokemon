@@ -1,0 +1,39 @@
+{
+    "Name": "Lugia",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 52,
+    "Weight": 2160,
+    "Stats": {
+        "hp": 106,
+        "attack": 90,
+        "defense": 130,
+        "special-attack": 90,
+        "special-defense": 154,
+        "speed": 110
+    },
+    "Description": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+    "Evolution Chain": {
+        "Lugia": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Malamar",
+    "Types": [
+        "dark",
+        "psychic"
+    ],
+    "Height": 15,
+    "Weight": 470,
+    "Stats": {
+        "hp": 86,
+        "attack": 92,
+        "defense": 88,
+        "special-attack": 68,
+        "special-defense": 75,
+        "speed": 73
+    },
+    "Description": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+    "Evolution Chain": {
+        "Inkay": {
+            "Malamar": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "ghost"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

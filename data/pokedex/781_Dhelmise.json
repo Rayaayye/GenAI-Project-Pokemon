@@ -1,0 +1,41 @@
+{
+    "Name": "Dhelmise",
+    "Types": [
+        "ghost",
+        "grass"
+    ],
+    "Height": 39,
+    "Weight": 2100,
+    "Stats": {
+        "hp": 70,
+        "attack": 131,
+        "defense": 100,
+        "special-attack": 86,
+        "special-defense": 90,
+        "speed": 40
+    },
+    "Description": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+    "Evolution Chain": {
+        "Dhelmise": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "ice",
+        "ghost"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "water",
+        "ground"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

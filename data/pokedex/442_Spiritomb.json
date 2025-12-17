@@ -1,0 +1,37 @@
+{
+    "Name": "Spiritomb",
+    "Types": [
+        "ghost",
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 1080,
+    "Stats": {
+        "hp": 50,
+        "attack": 92,
+        "defense": 108,
+        "special-attack": 92,
+        "special-defense": 108,
+        "speed": 35
+    },
+    "Description": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+    "Evolution Chain": {
+        "Spiritomb": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "bug",
+        "ghost"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

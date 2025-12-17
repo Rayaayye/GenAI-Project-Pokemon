@@ -1,0 +1,39 @@
+{
+    "Name": "Igglybuff",
+    "Types": [
+        "normal",
+        "fairy"
+    ],
+    "Height": 3,
+    "Weight": 10,
+    "Stats": {
+        "hp": 90,
+        "attack": 30,
+        "defense": 15,
+        "special-attack": 40,
+        "special-defense": 20,
+        "speed": 15
+    },
+    "Description": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+    "Evolution Chain": {
+        "Igglybuff": {
+            "Jigglypuff": {
+                "Wigglytuff": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "steel",
+        "poison"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "ghost"
+    ]
+}

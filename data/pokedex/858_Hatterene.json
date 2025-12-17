@@ -1,0 +1,42 @@
+{
+    "Name": "Hatterene",
+    "Types": [
+        "psychic",
+        "fairy"
+    ],
+    "Height": 21,
+    "Weight": 51,
+    "Stats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "special-attack": 136,
+        "special-defense": 103,
+        "speed": 29
+    },
+    "Description": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+    "Evolution Chain": {
+        "Hatenna": {
+            "Hattrem": {
+                "Hatterene": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "poison",
+        "steel",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "bug"
+    ],
+    "Immunities": [
+        "dragon",
+        "dark"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Marill",
+    "Types": [
+        "water",
+        "fairy"
+    ],
+    "Height": 4,
+    "Weight": 85,
+    "Stats": {
+        "hp": 70,
+        "attack": 20,
+        "defense": 50,
+        "special-attack": 20,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "Description": "The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning.",
+    "Evolution Chain": {
+        "Azurill": {
+            "Marill": {
+                "Azumarill": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "poison",
+        "electric",
+        "steel",
+        "grass"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "steel",
+        "ice",
+        "water",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

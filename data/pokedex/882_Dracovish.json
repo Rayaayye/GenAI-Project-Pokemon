@@ -1,0 +1,39 @@
+{
+    "Name": "Dracovish",
+    "Types": [
+        "water",
+        "dragon"
+    ],
+    "Height": 23,
+    "Weight": 2150,
+    "Stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 75
+    },
+    "Description": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+    "Evolution Chain": {
+        "Dracovish": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

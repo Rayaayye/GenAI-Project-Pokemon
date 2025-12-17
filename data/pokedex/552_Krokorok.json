@@ -1,0 +1,42 @@
+{
+    "Name": "Krokorok",
+    "Types": [
+        "ground",
+        "dark"
+    ],
+    "Height": 10,
+    "Weight": 334,
+    "Stats": {
+        "hp": 60,
+        "attack": 82,
+        "defense": 45,
+        "special-attack": 45,
+        "special-defense": 45,
+        "speed": 74
+    },
+    "Description": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+    "Evolution Chain": {
+        "Sandile": {
+            "Krokorok": {
+                "Krookodile": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "grass",
+        "ice",
+        "water",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "poison",
+        "dark",
+        "rock",
+        "ghost"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Scyther",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 560,
+    "Stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "special-attack": 55,
+        "special-defense": 80,
+        "speed": 105
+    },
+    "Description": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+    "Evolution Chain": {
+        "Scyther": {
+            "Scizor": {},
+            "Kleavor": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

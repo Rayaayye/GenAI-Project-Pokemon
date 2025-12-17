@@ -1,0 +1,39 @@
+{
+    "Name": "Inkay",
+    "Types": [
+        "dark",
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 35,
+    "Stats": {
+        "hp": 53,
+        "attack": 54,
+        "defense": 53,
+        "special-attack": 37,
+        "special-defense": 46,
+        "speed": 45
+    },
+    "Description": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+    "Evolution Chain": {
+        "Inkay": {
+            "Malamar": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "bug",
+        "fairy",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "dark",
+        "psychic",
+        "ghost"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

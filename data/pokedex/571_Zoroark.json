@@ -1,0 +1,32 @@
+{
+    "Name": "Zoroark",
+    "Types": [
+        "dark"
+    ],
+    "Height": 16,
+    "Weight": 811,
+    "Stats": {
+        "hp": 60,
+        "attack": 105,
+        "defense": 60,
+        "special-attack": 120,
+        "special-defense": 60,
+        "speed": 105
+    },
+    "Description": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+    "Evolution Chain": {
+        "Zorua": {
+            "Zoroark": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting",
+        "fairy",
+        "bug"
+    ],
+    "Resistances": [
+        "dark",
+        "ghost"
+    ],
+    "Immunities": []
+}

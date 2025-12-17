@@ -1,0 +1,31 @@
+{
+    "Name": "Blissey",
+    "Types": [
+        "normal"
+    ],
+    "Height": 15,
+    "Weight": 468,
+    "Stats": {
+        "hp": 255,
+        "attack": 10,
+        "defense": 10,
+        "special-attack": 75,
+        "special-defense": 135,
+        "speed": 55
+    },
+    "Description": "Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone.",
+    "Evolution Chain": {
+        "Happiny": {
+            "Chansey": {
+                "Blissey": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

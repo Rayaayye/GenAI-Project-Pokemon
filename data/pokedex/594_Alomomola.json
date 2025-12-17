@@ -1,0 +1,31 @@
+{
+    "Name": "Alomomola",
+    "Types": [
+        "water"
+    ],
+    "Height": 12,
+    "Weight": 316,
+    "Stats": {
+        "hp": 165,
+        "attack": 75,
+        "defense": 80,
+        "special-attack": 40,
+        "special-defense": 45,
+        "speed": 65
+    },
+    "Description": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+    "Evolution Chain": {
+        "Alomomola": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Munchlax",
+    "Types": [
+        "normal"
+    ],
+    "Height": 6,
+    "Weight": 1050,
+    "Stats": {
+        "hp": 135,
+        "attack": 85,
+        "defense": 40,
+        "special-attack": 40,
+        "special-defense": 85,
+        "speed": 5
+    },
+    "Description": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+    "Evolution Chain": {
+        "Munchlax": {
+            "Snorlax": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

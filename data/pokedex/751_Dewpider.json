@@ -1,0 +1,40 @@
+{
+    "Name": "Dewpider",
+    "Types": [
+        "water",
+        "bug"
+    ],
+    "Height": 3,
+    "Weight": 40,
+    "Stats": {
+        "hp": 38,
+        "attack": 40,
+        "defense": 52,
+        "special-attack": 40,
+        "special-defense": 72,
+        "speed": 27
+    },
+    "Description": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+    "Evolution Chain": {
+        "Dewpider": {
+            "Araquanid": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "grass",
+        "flying",
+        "rock"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

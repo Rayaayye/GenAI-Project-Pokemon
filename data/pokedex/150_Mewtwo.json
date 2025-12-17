@@ -1,0 +1,32 @@
+{
+    "Name": "Mewtwo",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 20,
+    "Weight": 1220,
+    "Stats": {
+        "hp": 106,
+        "attack": 110,
+        "defense": 90,
+        "special-attack": 154,
+        "special-defense": 90,
+        "speed": 130
+    },
+    "Description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "Evolution Chain": {
+        "Mewtwo": {}
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

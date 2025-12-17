@@ -1,0 +1,43 @@
+{
+    "Name": "Ceruledge",
+    "Types": [
+        "fire",
+        "ghost"
+    ],
+    "Height": 16,
+    "Weight": 620,
+    "Stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 80,
+        "special-attack": 60,
+        "special-defense": 100,
+        "speed": 85
+    },
+    "Description": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+    "Evolution Chain": {
+        "Charcadet": {
+            "Armarouge": {},
+            "Ceruledge": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "rock",
+        "water",
+        "ground",
+        "ghost"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "steel",
+        "ice",
+        "fairy"
+    ],
+    "Immunities": [
+        "normal"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Hatenna",
+    "Types": [
+        "psychic"
+    ],
+    "Height": 4,
+    "Weight": 34,
+    "Stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 45,
+        "special-attack": 56,
+        "special-defense": 53,
+        "speed": 39
+    },
+    "Description": "Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you.",
+    "Evolution Chain": {
+        "Hatenna": {
+            "Hattrem": {
+                "Hatterene": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

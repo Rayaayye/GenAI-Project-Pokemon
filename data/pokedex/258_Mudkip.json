@@ -1,0 +1,35 @@
+{
+    "Name": "Mudkip",
+    "Types": [
+        "water"
+    ],
+    "Height": 4,
+    "Weight": 76,
+    "Stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "special-attack": 50,
+        "special-defense": 50,
+        "speed": 40
+    },
+    "Description": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
+    "Evolution Chain": {
+        "Mudkip": {
+            "Marshtomp": {
+                "Swampert": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

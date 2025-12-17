@@ -1,0 +1,46 @@
+{
+    "Name": "Bastiodon",
+    "Types": [
+        "rock",
+        "steel"
+    ],
+    "Height": 13,
+    "Weight": 1495,
+    "Stats": {
+        "hp": 60,
+        "attack": 52,
+        "defense": 168,
+        "special-attack": 47,
+        "special-defense": 138,
+        "speed": 30
+    },
+    "Description": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+    "Evolution Chain": {
+        "Shieldon": {
+            "Bastiodon": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "fire",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": []
+}

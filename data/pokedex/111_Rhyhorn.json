@@ -1,0 +1,43 @@
+{
+    "Name": "Rhyhorn",
+    "Types": [
+        "ground",
+        "rock"
+    ],
+    "Height": 10,
+    "Weight": 1150,
+    "Stats": {
+        "hp": 80,
+        "attack": 85,
+        "defense": 95,
+        "special-attack": 30,
+        "special-defense": 30,
+        "speed": 25
+    },
+    "Description": "A POKéMON with a one-track mind. Once it charges,  it won't stop running until it falls asleep.",
+    "Evolution Chain": {
+        "Rhyhorn": {
+            "Rhydon": {
+                "Rhyperior": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "rock"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

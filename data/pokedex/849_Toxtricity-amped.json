@@ -1,0 +1,40 @@
+{
+    "Name": "Toxtricity-amped",
+    "Types": [
+        "electric",
+        "poison"
+    ],
+    "Height": 16,
+    "Weight": 400,
+    "Stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 70,
+        "special-attack": 114,
+        "special-defense": 70,
+        "speed": 75
+    },
+    "Description": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+    "Evolution Chain": {
+        "Toxel": {
+            "Toxtricity": {}
+        }
+    },
+    "Weaknesses": [
+        "psychic",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "bug",
+        "grass",
+        "poison",
+        "flying",
+        "steel",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

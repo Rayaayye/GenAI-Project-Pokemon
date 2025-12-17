@@ -1,0 +1,41 @@
+{
+    "Name": "Volcarona",
+    "Types": [
+        "bug",
+        "fire"
+    ],
+    "Height": 16,
+    "Weight": 460,
+    "Stats": {
+        "hp": 85,
+        "attack": 60,
+        "defense": 65,
+        "special-attack": 135,
+        "special-defense": 105,
+        "speed": 100
+    },
+    "Description": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
+    "Evolution Chain": {
+        "Larvesta": {
+            "Volcarona": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "flying",
+        "water",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

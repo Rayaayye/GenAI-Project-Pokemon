@@ -1,0 +1,43 @@
+{
+    "Name": "Dwebble",
+    "Types": [
+        "bug",
+        "rock"
+    ],
+    "Height": 3,
+    "Weight": 145,
+    "Stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 85,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 55
+    },
+    "Description": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+    "Evolution Chain": {
+        "Dwebble": {
+            "Crustle": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

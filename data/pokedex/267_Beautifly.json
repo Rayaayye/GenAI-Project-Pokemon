@@ -1,0 +1,44 @@
+{
+    "Name": "Beautifly",
+    "Types": [
+        "bug",
+        "flying"
+    ],
+    "Height": 10,
+    "Weight": 284,
+    "Stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 50,
+        "special-attack": 100,
+        "special-defense": 50,
+        "speed": 65
+    },
+    "Description": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
+    "Evolution Chain": {
+        "Wurmple": {
+            "Silcoon": {
+                "Beautifly": {}
+            },
+            "Cascoon": {
+                "Dustox": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "fire",
+        "flying",
+        "ice",
+        "rock"
+    ],
+    "Resistances": [
+        "fighting",
+        "bug",
+        "ground",
+        "grass"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

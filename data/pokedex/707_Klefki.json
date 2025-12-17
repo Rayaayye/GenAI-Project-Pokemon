@@ -1,0 +1,45 @@
+{
+    "Name": "Klefki",
+    "Types": [
+        "steel",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 30,
+    "Stats": {
+        "hp": 57,
+        "attack": 80,
+        "defense": 91,
+        "special-attack": 80,
+        "special-defense": 87,
+        "speed": 75
+    },
+    "Description": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+    "Evolution Chain": {
+        "Klefki": {}
+    },
+    "Weaknesses": [
+        "fire",
+        "poison",
+        "steel",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "dark",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Abomasnow",
+    "Types": [
+        "grass",
+        "ice"
+    ],
+    "Height": 22,
+    "Weight": 1355,
+    "Stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 75,
+        "special-attack": 92,
+        "special-defense": 85,
+        "speed": 60
+    },
+    "Description": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+    "Evolution Chain": {
+        "Snover": {
+            "Abomasnow": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice",
+        "rock",
+        "fighting"
+    ],
+    "Resistances": [
+        "electric",
+        "grass",
+        "ice",
+        "water",
+        "ground"
+    ],
+    "Immunities": []
+}

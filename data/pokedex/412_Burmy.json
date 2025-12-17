@@ -1,0 +1,34 @@
+{
+    "Name": "Burmy",
+    "Types": [
+        "bug"
+    ],
+    "Height": 2,
+    "Weight": 34,
+    "Stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "special-attack": 29,
+        "special-defense": 45,
+        "speed": 36
+    },
+    "Description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+    "Evolution Chain": {
+        "Burmy": {
+            "Wormadam": {},
+            "Mothim": {}
+        }
+    },
+    "Weaknesses": [
+        "flying",
+        "rock",
+        "fire"
+    ],
+    "Resistances": [
+        "fighting",
+        "ground",
+        "grass"
+    ],
+    "Immunities": []
+}

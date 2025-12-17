@@ -1,0 +1,40 @@
+{
+    "Name": "Moltres",
+    "Types": [
+        "fire",
+        "flying"
+    ],
+    "Height": 20,
+    "Weight": 600,
+    "Stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special-attack": 125,
+        "special-defense": 85,
+        "speed": 90
+    },
+    "Description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+    "Evolution Chain": {
+        "Moltres": {}
+    },
+    "Weaknesses": [
+        "electric",
+        "ice",
+        "rock",
+        "water",
+        "ground"
+    ],
+    "Resistances": [
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

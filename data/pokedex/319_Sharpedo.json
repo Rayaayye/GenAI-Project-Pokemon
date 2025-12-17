@@ -1,0 +1,39 @@
+{
+    "Name": "Sharpedo",
+    "Types": [
+        "water",
+        "dark"
+    ],
+    "Height": 18,
+    "Weight": 888,
+    "Stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "special-attack": 95,
+        "special-defense": 40,
+        "speed": 95
+    },
+    "Description": "Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
+    "Evolution Chain": {
+        "Carvanha": {
+            "Sharpedo": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "bug",
+        "grass",
+        "fairy",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "steel",
+        "ice",
+        "water",
+        "ghost"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Sigilyph",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 14,
+    "Weight": 140,
+    "Stats": {
+        "hp": 72,
+        "attack": 58,
+        "defense": 80,
+        "special-attack": 103,
+        "special-defense": 80,
+        "speed": 97
+    },
+    "Description": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+    "Evolution Chain": {
+        "Sigilyph": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

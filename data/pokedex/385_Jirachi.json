@@ -1,0 +1,45 @@
+{
+    "Name": "Jirachi",
+    "Types": [
+        "steel",
+        "psychic"
+    ],
+    "Height": 3,
+    "Weight": 11,
+    "Stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special-attack": 100,
+        "special-defense": 100,
+        "speed": 100
+    },
+    "Description": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POKéMON senses danger, it will fight without awakening.",
+    "Evolution Chain": {
+        "Jirachi": {}
+    },
+    "Weaknesses": [
+        "dark",
+        "fire",
+        "bug",
+        "ground",
+        "fighting",
+        "ghost"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "flying",
+        "normal",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy",
+        "fighting"
+    ],
+    "Immunities": [
+        "dark"
+    ]
+}

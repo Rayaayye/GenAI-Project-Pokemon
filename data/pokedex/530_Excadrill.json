@@ -1,0 +1,47 @@
+{
+    "Name": "Excadrill",
+    "Types": [
+        "ground",
+        "steel"
+    ],
+    "Height": 7,
+    "Weight": 404,
+    "Stats": {
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "special-attack": 50,
+        "special-defense": 65,
+        "speed": 88
+    },
+    "Description": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+    "Evolution Chain": {
+        "Drilbur": {
+            "Excadrill": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "ice",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "psychic",
+        "bug",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "steel",
+        "ice",
+        "dragon",
+        "rock",
+        "fairy"
+    ],
+    "Immunities": [
+        "flying"
+    ]
+}

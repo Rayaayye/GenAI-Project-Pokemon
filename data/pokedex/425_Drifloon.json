@@ -1,0 +1,40 @@
+{
+    "Name": "Drifloon",
+    "Types": [
+        "ghost",
+        "flying"
+    ],
+    "Height": 4,
+    "Weight": 12,
+    "Stats": {
+        "hp": 90,
+        "attack": 50,
+        "defense": 34,
+        "special-attack": 60,
+        "special-defense": 44,
+        "speed": 70
+    },
+    "Description": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+    "Evolution Chain": {
+        "Drifloon": {
+            "Drifblim": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "poison",
+        "fighting",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "normal",
+        "ground"
+    ]
+}

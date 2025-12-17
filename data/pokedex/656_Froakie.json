@@ -1,0 +1,35 @@
+{
+    "Name": "Froakie",
+    "Types": [
+        "water"
+    ],
+    "Height": 3,
+    "Weight": 70,
+    "Stats": {
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "special-attack": 62,
+        "special-defense": 44,
+        "speed": 71
+    },
+    "Description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+    "Evolution Chain": {
+        "Froakie": {
+            "Frogadier": {
+                "Greninja": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

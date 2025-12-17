@@ -1,0 +1,40 @@
+{
+    "Name": "Amaura",
+    "Types": [
+        "rock",
+        "ice"
+    ],
+    "Height": 13,
+    "Weight": 252,
+    "Stats": {
+        "hp": 77,
+        "attack": 59,
+        "defense": 50,
+        "special-attack": 67,
+        "special-defense": 63,
+        "speed": 46
+    },
+    "Description": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
+    "Evolution Chain": {
+        "Amaura": {
+            "Aurorus": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "poison",
+        "normal",
+        "flying",
+        "ice"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "Incineroar",
+    "Types": [
+        "fire",
+        "dark"
+    ],
+    "Height": 18,
+    "Weight": 830,
+    "Stats": {
+        "hp": 95,
+        "attack": 115,
+        "defense": 90,
+        "special-attack": 80,
+        "special-defense": 90,
+        "speed": 60
+    },
+    "Description": "This Pokémon has a violent, selfish disposition. If it’s not in the mood to listen, it will ignore its Trainer’s orders with complete nonchalance.",
+    "Evolution Chain": {
+        "Litten": {
+            "Torracat": {
+                "Incineroar": {}
+            }
+        }
+    },
+    "Weaknesses": [
+        "bug",
+        "rock",
+        "water",
+        "fairy",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "dark",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "fairy",
+        "ghost"
+    ],
+    "Immunities": []
+}

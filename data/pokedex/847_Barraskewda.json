@@ -1,0 +1,33 @@
+{
+    "Name": "Barraskewda",
+    "Types": [
+        "water"
+    ],
+    "Height": 13,
+    "Weight": 300,
+    "Stats": {
+        "hp": 61,
+        "attack": 123,
+        "defense": 60,
+        "special-attack": 60,
+        "special-defense": 50,
+        "speed": 136
+    },
+    "Description": "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",
+    "Evolution Chain": {
+        "Arrokuda": {
+            "Barraskewda": {}
+        }
+    },
+    "Weaknesses": [
+        "electric",
+        "grass"
+    ],
+    "Resistances": [
+        "water",
+        "ice",
+        "fire",
+        "steel"
+    ],
+    "Immunities": []
+}

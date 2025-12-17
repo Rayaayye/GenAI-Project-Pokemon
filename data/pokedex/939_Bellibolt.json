@@ -1,0 +1,33 @@
+{
+    "Name": "Bellibolt",
+    "Types": [
+        "electric"
+    ],
+    "Height": 12,
+    "Weight": 1130,
+    "Stats": {
+        "hp": 109,
+        "attack": 64,
+        "defense": 91,
+        "special-attack": 103,
+        "special-defense": 83,
+        "speed": 45
+    },
+    "Description": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
+    "Evolution Chain": {
+        "Tadbulb": {
+            "Bellibolt": {}
+        }
+    },
+    "Weaknesses": [
+        "ground"
+    ],
+    "Resistances": [
+        "flying",
+        "electric",
+        "steel"
+    ],
+    "Immunities": [
+        "ground"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Bunnelby",
+    "Types": [
+        "normal"
+    ],
+    "Height": 4,
+    "Weight": 50,
+    "Stats": {
+        "hp": 38,
+        "attack": 36,
+        "defense": 38,
+        "special-attack": 32,
+        "special-defense": 36,
+        "speed": 57
+    },
+    "Description": "They use their large ears to dig burrows. They will dig the whole night through.",
+    "Evolution Chain": {
+        "Bunnelby": {
+            "Diggersby": {}
+        }
+    },
+    "Weaknesses": [
+        "fighting"
+    ],
+    "Resistances": [],
+    "Immunities": [
+        "ghost"
+    ]
+}

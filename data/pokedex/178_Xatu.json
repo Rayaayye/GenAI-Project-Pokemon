@@ -1,0 +1,41 @@
+{
+    "Name": "Xatu",
+    "Types": [
+        "psychic",
+        "flying"
+    ],
+    "Height": 15,
+    "Weight": 150,
+    "Stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 70,
+        "special-attack": 95,
+        "special-defense": 70,
+        "speed": 95
+    },
+    "Description": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "Evolution Chain": {
+        "Natu": {
+            "Xatu": {}
+        }
+    },
+    "Weaknesses": [
+        "dark",
+        "electric",
+        "bug",
+        "ice",
+        "rock",
+        "ghost"
+    ],
+    "Resistances": [
+        "fighting",
+        "psychic",
+        "bug",
+        "grass"
+    ],
+    "Immunities": [
+        "dark",
+        "ground"
+    ]
+}

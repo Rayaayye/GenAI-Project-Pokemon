@@ -1,0 +1,42 @@
+{
+    "Name": "Reshiram",
+    "Types": [
+        "dragon",
+        "fire"
+    ],
+    "Height": 32,
+    "Weight": 3300,
+    "Stats": {
+        "hp": 100,
+        "attack": 120,
+        "defense": 100,
+        "special-attack": 150,
+        "special-defense": 120,
+        "speed": 90
+    },
+    "Description": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+    "Evolution Chain": {
+        "Reshiram": {}
+    },
+    "Weaknesses": [
+        "ice",
+        "dragon",
+        "water",
+        "fairy",
+        "rock",
+        "ground"
+    ],
+    "Resistances": [
+        "electric",
+        "fire",
+        "bug",
+        "grass",
+        "steel",
+        "ice",
+        "water",
+        "fairy"
+    ],
+    "Immunities": [
+        "fairy"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Armaldo",
+    "Types": [
+        "rock",
+        "bug"
+    ],
+    "Height": 15,
+    "Weight": 682,
+    "Stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 100,
+        "special-attack": 70,
+        "special-defense": 80,
+        "speed": 45
+    },
+    "Description": "ARMALDO’s tough armor makes all attacks bounce off. This POKéMON’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+    "Evolution Chain": {
+        "Anorith": {
+            "Armaldo": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "grass",
+        "flying",
+        "steel",
+        "water",
+        "rock",
+        "ground",
+        "fighting"
+    ],
+    "Resistances": [
+        "fire",
+        "grass",
+        "poison",
+        "normal",
+        "flying",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": []
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Morelull",
+    "Types": [
+        "grass",
+        "fairy"
+    ],
+    "Height": 2,
+    "Weight": 15,
+    "Stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 55,
+        "special-attack": 65,
+        "special-defense": 75,
+        "speed": 15
+    },
+    "Description": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+    "Evolution Chain": {
+        "Morelull": {
+            "Shiinotic": {}
+        }
+    },
+    "Weaknesses": [
+        "fire",
+        "bug",
+        "poison",
+        "flying",
+        "steel",
+        "ice"
+    ],
+    "Resistances": [
+        "dark",
+        "electric",
+        "bug",
+        "grass",
+        "water",
+        "ground",
+        "fighting"
+    ],
+    "Immunities": [
+        "dragon"
+    ]
+}
