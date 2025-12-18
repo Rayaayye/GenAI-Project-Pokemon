@@ -5,7 +5,7 @@ from tensorflow.keras.applications import EfficientNetB0
 from tensorflow.keras.applications.efficientnet import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 from tensorflow.keras.preprocessing import image_dataset_from_directory
-from loading_model import loader_dataset_finetuner
+from Embedding.loading_model import loader_dataset_finetuner
 
 import numpy as np
 
