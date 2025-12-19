@@ -25,5 +25,7 @@ def self_correction_agent_run(strategy, initial_team, enemy_team):
 
     # Send the prompt to the LLM and extract the response text
     response = llm.invoke(prompt).content
-    # Return the improved strategy and corrections
-    return response
+    return {
+        "final_strategy": response,
+        "raw_review": response  # ou une autre version si tu veux
+    }

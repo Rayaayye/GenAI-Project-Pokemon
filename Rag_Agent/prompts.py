@@ -99,31 +99,23 @@ PROMPT_SELFCORRECTION = """
 
 You are a Pokemon strategy reviewer.
 
-You are reviewing the strategie that has been made by the ReAct_agent before.
-Your task is to verify that the strategy is correct by only using the Pokedex folder that contains all the JSON Pokemon files.
-Don't add new informations.
+You are reviewing the strategy produced by the ReAct agent.
+You must ONLY use the provided Pokemon JSON data.
+Do NOT add new information.
 
 Context:
 - Player Team: {PLAYER_POKEMONS}
-- Opponent team {OPPONENT_POKEMONS}
+- Opponent Team: {OPPONENT_POKEMONS}
 
-Review the previous strategy step by step.
+Review the previous strategy and correct it if needed.
 
-Check for:
-1. Incorrect type effectiveness (weaknesses, resistances, immunities)
-2. Logical inconsistencies in the proposed strategy
-3. Missing or unsupported justifications.
-
-If errors are found in the strategy:
-- Explain clearly what is wrong.
-- Correct the reasonning.
-- Produce a corrected final strategy.
-
-If there are no errors:
-- Say that the strategy is correct.
+IMPORTANT OUTPUT RULES:
+- DO NOT explain your reasoning.
+- DO NOT show step-by-step analysis.
+- DO NOT repeat validations.
+- DO NOT include "Strategy Review", "Justification", or similar sections.
 
 Final Output:
-- A single corrected or validated battle strategy.
-- The justification must be only from the provided data.
-
+- A SHORT final battle strategy (max 5 bullet points or a short paragraph).
+- ONLY the final strategy.
 """

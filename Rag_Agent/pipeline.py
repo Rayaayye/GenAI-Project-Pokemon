@@ -37,7 +37,7 @@ def pipeline_run(base_pokemon, enemy_team):
     # Return the final team, refined strategy, and all the reasoning traces
     return {
         "team": final_team,
-        "strategy": self_correction_strategy,
+        "strategy": self_correction_strategy["final_strategy"],
         "reasoning_trace": {
             "tot_raw": tot_raw_response,
             "tot_parsed": tot_response,
