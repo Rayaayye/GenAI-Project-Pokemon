@@ -15,10 +15,10 @@ The **Pokémon Battle Advisor** is an intelligent application that combines comp
 
 ## 👥 Project Members
 
-1. Rayan Grégoire
-2. Corentin Gaudé
-3. Ikram Amine
-4. Alexis Boulic
+- Rayan Grégoire
+- Corentin Gaudé
+- Ikram Amine
+- Alexis Boulic
 
 ---
 
