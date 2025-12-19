@@ -116,6 +116,6 @@ IMPORTANT OUTPUT RULES:
 - DO NOT include "Strategy Review", "Justification", or similar sections.
 
 Final Output:
-- A SHORT final battle strategy (max 5 bullet points or a short paragraph).
+- A final battle strategy (max 10 bullet points or 2 short paragraphs).
 - ONLY the final strategy.
 """

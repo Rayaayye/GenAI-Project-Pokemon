@@ -26,16 +26,20 @@ POKEDEX_DIRECTORY = os.path.join(
 
 # Retrieves and returns a sorted list of all Pokémon names from JSON files
 
+@st.cache_data
 def get_all_pokemon_names():
-    """Get all Pokemon names from the pokedex directory, formatted with capitals."""
+    """Get all Pokemon names from the pokedex directory, formatted with capitals.
+    Cached to avoid reloading from disk on every interaction."""
     return sorted([
         f.replace(".json", "").replace("-", " ").title()
         for f in os.listdir(POKEDEX_DIRECTORY)
         if f.endswith(".json")
     ])
 
+@st.cache_data
 def get_pokemon_image_path(pokemon_name):
-    """Get the first image path for a given Pokemon from the dataset."""
+    """Get the first image path for a given Pokemon from the dataset.
+    Cached to avoid searching folders repeatedly."""
     # Remove number prefix if present (e.g., "119 Seaking" -> "Seaking")
     # The format uses underscore: "119_Seaking"
     if "_" in pokemon_name:
