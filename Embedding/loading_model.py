@@ -1,14 +1,12 @@
 from tensorflow.keras.models import load_model, Model
 import os
+import streamlit as st
 
-
-#Little function to load the model
+@st.cache_resource
 def loader_dataset_finetuner():
+    """Load the fine-tuned model and cache it to avoid reloading."""
 
-    # We had bugs with paths before so we did that to not have any problems when running the project
-
-    #Define paths
-
+    # Define paths
     base_dir = os.path.dirname(os.path.abspath(__file__))
     model_path = os.path.join(
         base_dir,

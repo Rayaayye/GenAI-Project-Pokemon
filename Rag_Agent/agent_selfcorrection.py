@@ -20,8 +20,8 @@ def self_correction_agent_run(strategy, initial_team, enemy_team):
 
     # Append the previous strategy to the prompt
     prompt += "\n\nPrevious Strategy to Review:\n"
-    # Add for the evaluation
-    prompt += strategy
+    # Add for the evaluation (join if it's a list)
+    prompt += " ".join(strategy) if isinstance(strategy, list) else strategy
 
     # Send the prompt to the LLM and extract the response text
     response = llm.invoke(prompt).content

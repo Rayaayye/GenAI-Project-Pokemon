@@ -80,11 +80,15 @@ def prediction_pokemon(solo_image_embedding, top_k=3):
 
     # Find the Pokemon with the highest final score
     best_pokemon = max(final_scores.items(), key=lambda x: x[1])
+    
+    # Calculate confidence as percentage (0-100%)
+    # Use the average similarity of the best pokemon
+    confidence_percentage = (pokemon_scores[best_pokemon[0]] / pokemon_counts[best_pokemon[0]]) * 100
 
     # Return the predicted Pokemon and detailed scoring information
     return {
         "predicted_pokemon": best_pokemon[0],
-        "final_score": best_pokemon[1],
+        "final_score": confidence_percentage,
         "topk_images": resultats_topk,
         "pokemon_scores": final_scores
     }                 
