@@ -76,7 +76,7 @@ GenAI-Project-Pokemon/
 
 ## 🧩 Reasoning Technique: Multi-Agent Pipeline
 
-Our application uses a sophisticated **three-stage reasoning pipeline** that combines multiple AI agent architectures to generate optimal battle strategies:
+Our application uses a sophisticated **three-stage reasoning pipeline** that combines multiple AI agent architectures to generate only optimal battle strategies:
 
 ### 1️⃣ Tree-of-Thoughts (ToT) Agent
 **Purpose**: Initial team composition and strategic exploration
@@ -111,7 +111,7 @@ Our application uses a sophisticated **three-stage reasoning pipeline** that com
 User Input → Pokémon Recognition → ToT Agent → ReAct Agent → Self-Correction Agent → Final Strategy
 ```
 
-This multi-stage approach ensures:
+This curated multi-stage approach ensures:
 - **Comprehensive exploration** (ToT)
 - **Detailed planning** (ReAct)
 - **Robust validation** (Self-Correction)
