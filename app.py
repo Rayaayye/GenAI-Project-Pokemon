@@ -12,6 +12,9 @@ load_dotenv()
 
 from Rag_Agent.pipeline import pipeline_run
 
+# We had bugs with paths before so we did that to not have any problems when running the project
+
+#Define paths
 
 BASE_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 
@@ -20,6 +23,8 @@ POKEDEX_DIRECTORY = os.path.join(
     "data",
     "pokedex"
 )
+
+# Retrieves and returns a sorted list of all Pokémon names from JSON files
 
 def get_all_pokemon_names():
     return sorted([

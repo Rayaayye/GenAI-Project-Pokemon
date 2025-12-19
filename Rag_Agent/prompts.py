@@ -1,3 +1,4 @@
+# Prompt for the ReAct agent to analyze our and the ennemy team to give the best strategy to beat them
 PROMPT_REACT = """
 You are a Pokemon battle strategy agent.
 
@@ -32,6 +33,7 @@ Final Answer:
 
 """
 
+# Prompt for the Tree of Thoughts agent to generate multiple counter team strategies and choose the one that will counter the ennemy team the best
 PROMPT_TOT = """
 You are a pokemon team builder that is going to build pokemon teams.
 
@@ -92,6 +94,7 @@ Final Output format (JSON):
  
 """
 
+# Prompt for the Self-Correction agent to validate and refine the battle strategy if its not the optimal strategy to win
 PROMPT_SELFCORRECTION = """
 
 You are a Pokemon strategy reviewer.
